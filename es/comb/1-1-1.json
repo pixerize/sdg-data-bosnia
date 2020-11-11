@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2015,2015,2016,2016,2016,2020,2020,2020],"Entity":["FBIH","RS",null,"FBIH","RS",null,null,"FBIH","RS"],"Value":[1,3,2,1,3,2,20,17,3]},"edges":[]}
+{"data":{"Year":[2015,2015,2015,2015,2016,2016,2016,2016,2020,2020,2020,2020],"Sex":[null,null,"Male","Female",null,null,"Male","Female",null,null,"Male","Female"],"Entity":["FBIH","RS",null,null,"FBIH","RS",null,null,"FBIH","RS",null,null],"Value":[1,3,2,6,1,3,2,20,17,3,6,2]},"edges":[]}
