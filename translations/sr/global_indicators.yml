@@ -1,17 +1,17 @@
-1-1-1-title: Procenat stanovništva koji žive ispod međunarodne linije siromaštva po polu, starosti, statusu zaposlenja i geografskoj lokaciji (urbano/ruralno)
-1-2-1-title: Udio stanovništva koja živi ispod nacionalne linije siromaštva, po polu i starosti
-1-2-2-title: Udio muškaraca, žena i djece svih dobnih skupina koji žive u siromaštvu u svim njegovim dimenzijama prema nacionalnim definicijama
-1-3-1-title: Procenat stanovništva pokrivenih sistemima socijalne zaštite, po polu, razlikovanju djece, nezaposlenih lica, starijih osoba, osoba sa invaliditetom, trudnica, novorođenčadi, žrtava povrede na radu i siromašnih i ranjivih
-1-4-1-title: Udio stanovništva koji žive u domaćinstvima sa pristupom osnovnim uslugama
+1-1-1-title: Проценат становништва који живе испод међународне линије сиромаштва по полу, старости, статусу запослења и географској локацији (урбано/рурално)
+1-2-1-title: Удио становништва која живи испод националне линије сиромаштва, по полу и старости
+1-2-2-title: Удио мушкараца, жена и ђеце свих добних скупина који живе у сиромаштву у свим његовим димензијама према националним дефиницијама
+1-3-1-title: Проценат становништва покривених системима социјалне заштите, по полу, разликовању ђеце, незапослених лица, старијих особа, особа са инвалидитетом, трудница, новорођенчади, жртава повреде на раду и сиромашних и рањивих
+1-4-1-title: Удио становништва који живе у домаћинствима са приступом основним услугама
 1-4-2-title: Proportion of total adult population with secure tenure rights to land,
   with legally recognized documentation, and who perceive their rights to land as
   secure, by sex and by type of tenure
-1-5-1-title: Broj smrti, nestalih osoba i direktno pogođenih lica pripisanih katastrofama na 100.000 stanovnika
-1-5-2-title: Direktni ekonomski gubitak uzrokovan nesrećama u odnosu na globalni bruto domaći proizvod (BDP)
-1-5-3-title: Broj zemalja koje usvajaju i implementiraju nacionalne strategije za smanjenje rizika od katastrofa u skladu sa Sendai Okvirom za smanjenje rizika od katastrofa 2015-2030
-1-5-4-title: Udio lokalnih samouprava koje usvajaju i sprovode strategije za smanjenje rizika od katastrofa u skladu sa nacionalnim strategijama za smanjenje rizika od katastrofa
-1-a-1-title: Ukupni grantovi službene razvojne pomoći svih donatora koji su usmjereni na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca
-1-a-2-title: Udio ukupne državne potrošnje na osnovne usluge (obrazovanje, zdravstvo i socijalna zaštita)
+1-5-1-title: Број смрти, несталих особа и директно погођених лица приписаних катастрофама на 100.000 становника
+1-5-2-title: Директни економски губитак узрокован несрећама у односу на глобални бруто домаћи производ (БДП)
+1-5-3-title: Број земаља које усвајају и имплементирају националне стратегије за смањење ризика од катастрофа у складу са Сендаи Оквиром за смањење ризика од катастрофа 2015-2030
+1-5-4-title: Удио локалних самоуправа које усвајају и спроводе стратегије за смањење ризика од катастрофа у складу са националним стратегијама за смањење ризика од катастрофа
+1-a-1-title: Укупни грантови службене развојне помоћи свих донатора који су усмјерени на смањење сиромаштва као удио у бруто националном дохотку земље примаоца
+1-a-2-title: Удио укупне државне потрошње на основне услуге (образовање, здравство и социјална заштита)
 1-a-3-title: Sum of total grants and non-debt-creating inflows directly allocated
   to poverty reduction programmes as a proportion of GDP
 1-b-1-title: Proportion of government recurrent and capital spending to sectors that
@@ -183,115 +183,115 @@
   technologies
 17-8-1-title: Udio pojedinaca koji koriste internet
 17-9-1-title: Vrijednost finansijske i tehničke pomoći u dolarima (uključujući kroz sjever-jug, jug-jug i trouglastu saradnju) posvećena zemljama u razvoju
-2-1-1-title: Rasprostranjenot podhranjenosti
-2-1-2-title: Rasprostranjenost umjerene ili ozbiljne prehrambene nesigurnosti među stanovništvom, na osnovu Skale iskustva u pogledu nesigurnosti hrane (FIES)
-2-2-1-title: Rasprostranjenost zaostajanja u razvoju (visina za uzrast <-2 tandardne devijacije od srednje vrednosti prema (WHO) Svetskoj zdravstvenoj organizaciji) među djecom mlađom od 5 godina
-2-2-2-title: Rasprostranjenost pothranjenosti (težina prema visini >+2 ili <-2 standardne devijacije od srednje vrijednosti (WHO) Standarda rasta djece, među djecom mlađom od 5 godina, prema vrsti (mršatost i prekomjerna težina)
-2-3-1-title: Obim proizvodnje po jedinici radne snage prema klasama veličine poljoprivrednog/šumarskog preduzeća
-2-3-2-title: Prosječni prihodi malih proizvođača hrane, prema polu i starosedelačkom statusu
+2-1-1-title: Распрострањеност подхрањености
+2-1-2-title: Распрострањеност умјерене или озбиљне прехрамбене несигурности међу становништвом, на основу Скале искуства у погледу несигурности хране (ФИЕС)
+2-2-1-title: Распрострањеност заостајања у развоју (висина за узраст <-2 тандардне девијације од средње вредности према (WHO) Светској здравственој организацији) међу ђецом млађом од 5 година
+2-2-2-title: Распрострањеност потхрањености (тежина према висини >+2 или <-2 стандардне девијације од средње вриједности (WHO) Стандарда раста ђеце, међу ђецом млађом од 5 година, према врсти (мршатост и прекомјерна тежина)
+2-3-1-title: Обим производње по јединици радне снаге према класама величине пољопривредног/шумарског предузећа
+2-3-2-title: Просјечни приходи малих произвођача хране, према полу и староседелачком статусу
 2-4-1-title: Proportion of agricultural area under productive and sustainable agriculture
-2-5-1-title: Broj biljnih i životinjskih genetičkih resursa za hranu i poljoprivredu osiguranih u srednjoročnim ili dugoročnim konzervatorskim objektima
-2-5-2-title: Udio lokalnih sorti klasificiranih kao u opasnosti od izumiranja
-2-a-1-title: Indeks poljoprivredne orijentacije za državne rashode
-2-a-2-title: Ukupni zvanični tokovi (zvanična razvojna pomoć plus drugi zvanični tokovi) u poljoprivrednom sektoru
-2-b-1-title: Poljoprivredne izvozne subvencije
-2-c-1-title: Indikator anomalija cijena hrane
-3-1-1-title: Stopa smrtnosti majki
-3-1-2-title: Udio poroda uz prisustvo kvalifikovanih zdravstvenih radnika
-3-2-1-title: Stopa smrtnosti ispod pet godina
-3-2-2-title: Stopa neonatalne smrtnosti
-3-3-1-title: Broj novih HIV infekcija na 1.000 neinficiranih stanovnika, po polu, starosti i ključnim populacijama
-3-3-2-title: Učestalost tuberkuloze na 100.000 stanovnika
-3-3-3-title: Učestalost malarije na 1.000 stanovnika
-3-3-4-title: Učestalost hepatitisa B na 100.000 stanovnika
-3-3-5-title: Broj ljudi kojima su potrebne intervencije protiv zanemarenih tropskih bolesti
-3-4-1-title: Stopa smrtnosti koja se pripisuje kardiovaskularnim bolestima, karcinomu, dijabetesu ili hroničnim respiratornim bolestima
-3-4-2-title: Stopa smrtnosti samoubistava
-3-5-1-title: Pokrivanje intervencijskih tretmana (farmakološke, psihosocijalne,rehabilitacione i naknadne usluge) za poremećaje upotrebe supstanci
-3-5-2-title: Potrošnja alkohola po stanovniku (starosti od 15 i više godina) u kalendarskoj godini u litrima čistog alkohola
-3-6-1-title: Stopa smrtnosti zbog povreda u drumskom saobraćaju
-3-7-1-title: Udio žena reproduktivnog uzrasta (u dobi od 15 do 49 godina) koji su svoju potrebu za planiranje porodice zadovoljile sa modernim metodama
-3-7-2-title: Stopa nataliteta adolescenata (starosti od 10-14 godina; starosti od 15-19 godina) na 1.000 žena u toj starosnoj grupi
-3-8-1-title: Pokrivenost osnovnih zdravstvenih usluga
-3-8-2-title: Udio stanovništva s velikim izdacima domaćinstva za zdravstvo kao udio u ukupnim izdacima ili prihodima domaćinstva
-3-9-1-title: Stopa smrtnosti uzrokovana zagađenjem domaćinstvima i zraka u okolini
-3-9-2-title: Stopa smrtnosti uzrokovana nebezbijednom vodom, nebezjbednoj sanitaciji i nedostatku higijene (izlaganje nebezbjednimVodama, Sanitaciji i Higijeni za Sve (WASH) uslugama)
-3-9-3-title: Stopa smrtnosti uzrokovana nenamjernim trovanjem
-3-a-1-title: Starosna standardizirana rasprostranjenost trenutne upotrebe duhana među osobama od 15 godina i više
-3-b-1-title: Udio ciljane populacije obuhvaćene svim vakcinama uključenih u nacionalnim programa
-3-b-2-title: Ukupna neto službena razvojna pomoć medicinskim istraživanjima i osnovnim zdravstvenim sektorima
+2-5-1-title: Број биљних и животињских генетичких ресурса за храну и пољопривреду осигураних у средњорочним или дугорочним конзерваторским објектима
+2-5-2-title: Удио локалних сорти класифицираних као у опасности од изумирања
+2-a-1-title: Индекс пољопривредне оријентације за државне расходе
+2-a-2-title: Укупни званични токови (званична развојна помоћ плус други званични токови) у пољопривредном сектору
+2-b-1-title: Пољопривредне извозне субвенције
+2-c-1-title: Индикатор аномалија цијена хране
+3-1-1-title: Стопа смртности мајки
+3-1-2-title: Удио порода уз присуство квалификованих здравствених радника
+3-2-1-title: Стопа смртности испод пет година
+3-2-2-title: Стопа неонаталне смртности
+3-3-1-title: Број нових ХИВ инфекција на 1.000 неинфицираних становника, по полу, старости и кључним популацијама
+3-3-2-title: Учесталост туберкулозе на 100.000 становника
+3-3-3-title: Учесталост маларије на 1.000 становника
+3-3-4-title: Учесталост хепатитиса Б на 100.000 становника
+3-3-5-title: Број људи којима су потребне интервенције против занемарених тропских болести
+3-4-1-title: Стопа смртности која се приписује кардиоваскуларним болестима, карциному, дијабетесу или хроничним респираторним болестима
+3-4-2-title: Стопа смртности самоубистава
+3-5-1-title: Покривање интервенцијских третмана (фармаколошке, психосоцијалне,рехабилитационе и накнадне услуге) за поремећаје употребе супстанци
+3-5-2-title: Потрошња алкохола по становнику (старости од 15 и више година) у календарској години у литрима чистог алкохола
+3-6-1-title: Стопа смртности због повреда у друмском саобраћају
+3-7-1-title: Удио жена репродуктивног узраста (у доби од 15 до 49 година) који су своју потребу за планирање породице задовољиле са модерним методама
+3-7-2-title: Стопа наталитета адолесцената (старости од 10-14 година; старости од 15-19 година) на 1.000 жена у тој старосној групи
+3-8-1-title: Покривеност основних здравствених услуга
+3-8-2-title: Удио становништва с великим издацима домаћинства за здравство као удио у укупним издацима или приходима домаћинства
+3-9-1-title: Стопа смртности узрокована загађењем домаћинствима и зрака у околини
+3-9-2-title: Стопа смртности узрокована небезбиједном водом, небезјбедној санитацији и недостатку хигијене (излагање небезбједним Водама, Санитацији и Хигијени за Све (ЊАСХ) услугама)
+3-9-3-title: Стопа смртности узрокована ненамјерним тровањем
+3-a-1-title: Старосна стандардизирана распрострањеност тренутне употребе духана међу особама од 15 година и више
+3-b-1-title: Удио циљане популације обухваћене свим вакцинама укључених у националним програма
+3-b-2-title: Укупна нето службена развојна помоћ медицинским истраживањима и основним здравственим секторима
 3-b-3-title: Proportion of health facilities that have a core set of relevant essential
   medicines available and affordable on a sustainable basis
-3-c-1-title: Gustina i distribucija zdravstvenih radnika
-3-d-1-title: Kapacitet međunarodnih zdravstvenih propisa (IHR) i spremnost za hitne slučajeve u zdravstvu
-3-d-2-title: Procenat infekcija krvotoka zbog odabranih organizama otpornih na antimikrobne bolesti
-4-1-1-title: 'Srazmjer djece i mladih: (a) u razredima 2/3; (b) na kraju osnovnog; i (c) na kraju nižeg srednjeg obrazovanja koja postižu najmanje minimalnog nivoa znanja u (i) čitanju i (ii) matematici, po polu'
-4-1-2-title: Stopa završenih studija (osnovno obrazovanje, niže srednje obrazovanje, srednje obrazovanje)
-4-2-1-title: Udio djece u dobi od 24 do 59 mjeseci koja su u razvoju na pravom putu prema zdravlju, učenju i psihosocijalnoj dobrobiti, prema polu
-4-2-2-title: Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema polu
-4-3-1-title: Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci u prethodnih 12 mjeseci, prema polu
-4-4-1-title: Udio mladih i odraslih sa vještinama informacionih i komunikacionih tehnologija (IKT), prema vrsti vještine
-4-5-1-title: Indeksi pariteta (ženske/muškarci, ruralna/urbana, najniži/najviši kvintil bogatstva i drugi kao što su status invalidnosti, autohtoni narodi i pogođeni sukobima, kada podaci postanu dostupni) za sve indikatore obrazovanja na ovoj listi koji mogu biti razvrstani
-4-6-1-title: Udio stanovništva u datoj starosnoj grupi koja postiže najmanje fiksni nivo znanja u funkcionalnim vještinama (a) pismenosti i (b) računanja, prema polu
+3-c-1-title: Густина и дистрибуција здравствених радника
+3-d-1-title: Капацитет међународних здравствених прописа (ИХР) и спремност за хитне случајеве у здравству
+3-d-2-title: Проценат инфекција крвотока због одабраних организама отпорних на антимикробне болести
+4-1-1-title: Сразмјер ђеце и младих - (а) у разредима 2/3; (б) на крају основног; и (ц) на крају нижег средњег образовања која постижу најмање минималног нивоа знања у (и) читању и (ии) математици, по полу
+4-1-2-title: Стопа завршених студија (основно образовање, ниже средње образовање, средње образовање)
+4-2-1-title: Удио ђеце у доби од 24 до 59 мјесеци која су у развоју на правом путу према здрављу, учењу и психосоцијалној добробити, према полу
+4-2-2-title: Стопа учешћа у организираном учењу (годину дана прије службеног основног узраста), према полу
+4-3-1-title: Стопа учешћа младих и одраслих у формалном и неформалном образовању и обуци у претходних 12 мјесеци, према полу
+4-4-1-title: Удио младих и одраслих са вјештинама информационих и комуникационих технологија (ИКТ), према врсти вјештине
+4-5-1-title: Индекси паритета (женске/мушкарци, рурална/урбана, најнижи/највиши квинтил богатства и други као што су статус инвалидности, аутохтони народи и погођени сукобима, када подаци постану доступни) за све индикаторе образовања на овој листи који могу бити разврстани
+4-6-1-title: Удио становништва у датој старосној групи која постиже најмање фиксни ниво знања у функционалним вјештинама (а) писмености и (б) рачунања, према полу
 4-7-1-title: Extent to which (i) global citizenship education and (ii) education for
   sustainable development, including gender equality and human rights, are mainstreamed
   at all levels in (a) national education policies; (b) curricula; (c) teacher education;
   and (d) student assessment
-4-a-1-title: Udio škola koje nude osnovne usluge, prema vrsti usluge
-4-b-1-title: Obim službene razvojne pomoći za stipendije po sektorima i vrstama studija
-4-c-1-title: Proporcija učitelja sa minimalno potrebnim kvalifikacijama, prema nivou obrazovanja
-5-1-1-title: Postojali ili ne zakonski okviri su za promociju, provođenje i nadgledanje jednakost i nediskriminaciju na osnovu pola
-5-2-1-title: Udio žena i djevojčicama u partnerstvu dobi od 15 i više godina koje su podvrgnute fizičkom,  seksualnom ili psihičkom nasilju trenutnog ili bivšeg intimnog partnera u prethodnih 12 mjeseci, po obliku nasilja i starosti
+4-a-1-title: Удио школа које нуде основне услуге, према врсти услуге
+4-b-1-title: OОбим службене развојне помоћи за стипендије по секторима и врстама студија
+4-c-1-title: Пропорција учитеља са минимално потребним квалификацијама, према нивоу образовања
+5-1-1-title: Постојали или не законски оквири су за промоцију, провођење и надгледање једнакост и недискриминацију на основу пола
+5-2-1-title: Удио жена и ђевојчицама у партнерству доби од 15 и више година које су подвргнуте физичком, сексуалном или психичком насиљу тренутног или бившег интимног партнера у претходних 12 мјесеци, по облику насиља и старости
 5-2-2-title: Proportion of women and girls aged 15 years and older subjected to sexual
   violence by persons other than an intimate partner in the previous 12 months, by
   age and place of occurrence
-5-3-1-title: Udio žena starosti od 20-24 godine koje su bile u braku ili u zajednici prije 15 i prije 18 godina starosti
-5-3-2-title: Udio djevojčica i žena u dobi od 15 do 49 godina koja su podvrgnute rezanju ženskih genitalija, prema starosti
-5-4-1-title: Udio vremena provedenog na neplaćenom radu u domaćinstvu i njegovateljskom radu, prema polu, starosti i lokaciji
-5-5-1-title: Udio mjesta koje imaju žene u (a) nacionalnim parlamentima i (b) lokalnim samoupravama
-5-5-2-title: Udio žena na rukovodećim pozicijama
-5-6-1-title: Udio žena u dobi od 15 do 49 godina koje donose svoje odluke u vezi sa seksualnim odnosima, upotrebom kontracepcije i reproduktivnom zdravljem
-5-6-2-title: Broj zemalja sa zakonima i propisima koji garantuju pun i jednak pristup ženama i muškarcima u dobi od 15 godina i više seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju
-5-a-1-title: (a) udio ukupnog poljoprivrednog stanovništva sa vlasništvom ili zaštićenim pravima na poljoprivrednom zemljištu, prema polu; i (b) udio žena među vlasnicima ili nosiocima prava na poljoprivrednom zemljištu, prema vrsti posjeda
-5-a-2-title: Udio država u kojima pravni okvir (uključujući običajno pravo) garantuje jednaka prava žena na vlasništvo i/ili kontrolu nad zemljištem 
-5-b-1-title: Udio osoba koje posjeduju mobilni telefon, po polu
-5-c-1-title: Udio država sa sistemima praćenja i javnog izdvajanja za ravnopravnost polova i osnaživanje žena
-6-1-1-title: Udio stanovništva koji koristi usluge bezbijednog upravljanja pitkom vodom
-6-2-1-title: Udio stanovništva koje koristi (a) sanitarne usluge kojima se sigurno upravlja i (b) pranje ruku sapunom i vodom
-6-3-1-title: Udio protoka otpadnih voda iz domaćinstava i industrije koja se bezbijedno prečišćava
-6-3-2-title: Udio vodnih tijela sa dobrim kvalitetom ambijentalne vode
-6-4-1-title: Promijeniti efikasnost upotrebe vode tokom vremena
-6-4-2-title: 'Nivo vodenog stresa: povlačenje slatke vode kao udio raspoloživih slatkovodnih resursa'
-6-5-1-title: Stepen integriranog upravljanja vodnim resursima
-6-5-2-title: Udio prekogranične površine sa operativnim aranžmanom za saradnju na vodama
-6-6-1-title: Promjena obima  vodnih ekosistema tokom vremena
-6-a-1-title: Visina zvanične razvojne pomoći koja se odnosi na vode i kanalizaciju koja je dio vladinog koordinirajućeg plana potrošnje
-6-b-1-title: Udio lokalnih administrativnih jedinica sa utvrđenim i operativnim politikama i postupcima za učešće lokalnih zajednica u upravljanju vodama i sanitacijama
+5-3-1-title: Удио жена старости од 20-24 године које су биле у браку или у заједници прије 15 и прије 18 година старости
+5-3-2-title: Удио ђевојчица и жена у доби од 15 до 49 година која су подвргнуте резању женских гениталија, према старости
+5-4-1-title: Удио времена проведеног на неплаћеном раду у домаћинству и његоватељском раду, према полу, старости и локацији
+5-5-1-title: Удио мјеста које имају жене у (а) националним парламентима и (б) локалним самоуправама
+5-5-2-title: Удио жена на руководећим позицијама
+5-6-1-title: Удио жена у доби од 15 до 49 година које доносе своје одлуке у вези са сексуалним односима, употребом контрацепције и репродуктивном здрављем
+5-6-2-title: Број земаља са законима и прописима који гарантују пун и једнак приступ женама и мушкарцима у доби од 15 година и више сексуалној и репродуктивној здравственој заштити, информацијама и образовању
+5-a-1-title: а) удио укупног пољопривредног становништва са власништвом или заштићеним правима на пољопривредном земљишту, према полу; и (б) удио жена међу власницима или носиоцима права на пољопривредном земљишту, према врсти посједа
+5-a-2-title: Удио држава у којима правни оквир (укључујући обичајно право) гарантује једнака права жена на власништво и/или контролу над земљиштем
+5-b-1-title: Удио особа које посједују мобилни телефон, по полу
+5-c-1-title: Удио држава са системима праћења и јавног издвајања за равноправност полова и оснаживање жена
+6-1-1-title: Удио становништва који користи услуге безбиједног управљања питком водом
+6-2-1-title: Удио становништва које користи (а) санитарне услуге којима се сигурно управља и (б) прање руку сапуном и водом
+6-3-1-title: Удио протока отпадних вода из домаћинстава и индустрије која се безбиједно пречишћава
+6-3-2-title: Удио водних тијела са добрим квалитетом амбијенталне воде
+6-4-1-title: Промијенити ефикасност употребе воде током времена
+6-4-2-title: Ниво воденог стреса - повлачење слатке воде као удио расположивих слатководних ресурса
+6-5-1-title: Степен интегрираног управљања водним ресурсима
+6-5-2-title: Удио прекограничне површине са оперативним аранжманом за сарадњу на водама
+6-6-1-title: Промјена обима  водних екосистема током времена
+6-a-1-title: Висина званичне развојне помоћи која се односи на воде и канализацију која је дио владиног координирајућег плана потрошње
+6-b-1-title: Удио локалних административних јединица са утврђеним и оперативним политикама и поступцима за учешће локалних заједница у управљању водама и санитацијама
 7-1-1-title: Udio stanovništva sa pristupom električnoj energiji
-7-1-2-title: Udio stanovništva koji se prvenstveno oslanja na čista goriva i tehnologiju
-7-2-1-title: Udio obnovljive energije u ukupnoj potrošnji finalne energije
-7-3-1-title: Energetski intenzitet mjeren u smislu primarne energije i BDP-a
+7-1-2-title: Удио становништва који се првенствено ослања на чиста горива и технологију
+7-2-1-title: Удио обновљиве енергије у укупној потрошњи финалне енергије
+7-3-1-title: Енергетски интензитет мјерен у смислу примарне енергије и БДП-а
 7-a-1-title: Međunarodni finansijski tokovi u zemljama u razvoju za podršku istraživanju i razvoju čiste energije i proizvodnji obnovljivih izvora energije, uključujući i hibridne sisteme
-7-b-1-title: Instalirani kapaciteti za proizvodnju obnovljivih izvora energije u zemljama u razvoju (u vatima po stanovniku)
-8-1-1-title: Godišnja stopa rasta realnog BDP-a po stanovniku
-8-10-1-title: (a) Broj filijala komercijalnih banaka na 100.000 odraslih i (b) broj automatizovanih bankomata na 100.000 odraslih
+7-b-1-title: Инсталирани капацитети за производњу обновљивих извора енергије у земљама у развоју (у ватима по становнику)
+8-1-1-title: Годишња стопа раста реалног БДП-а по становнику
+8-10-1-title: (а) Број филијала комерцијалних банака на 100.000 одраслих и (б) број аутоматизованих банкомата на 100.000 одраслих
 8-10-2-title: Udio odraslih (15 i više godina) sa računom u banci ili drugoj finansijskoj instituciji ili sa pružaocem usluge mobilnih novčanih usluga
-8-2-1-title: Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-8-3-1-title: Udio neformalnog zapošljavanja u ukupnoj zaposlenosti, prema sektorima i polu
-8-4-1-title: Materijalni otisak, materijalni otisak po glavi stanovnika i materijalni otisak po BDP-u
-8-4-2-title: Potrošnja domaćeg materijala, potrošnja domaćeg materijala po glavi stanovnika i potrošnja domaćeg materijala po BDP-u
-8-5-1-title: Prosječna zarada po satu zaposlenih, prema polu, starosti, zanimanju i osobama sa invaliditetom
-8-5-2-title: Stopa nezaposlenosti prema polu, starosti i osobama sa invaliditetom
-8-6-1-title: Procenat mladih (u dobi od 15-24 godine) koji nisu u obrazovanju, zapošljavanju ili obuci
-8-7-1-title: Udio i broj djece uzrasta 5-17 godina angažovanih u dječijem radu, prema polu i starosti
-8-8-1-title: Fatalne i nefatalne povrede na radu na 100.000 radnika, prema polu i migrantskom statusu
-8-8-2-title: Nivo nacionalne usklađenosti radnih prava (sloboda udruživanja i kolektivnog pregovaranja) na osnovu tekstualnih izvora Međunarodne organizacije rada (ILO) i nacionalnog zakonodavstva, prema polu i statusu migranata
-8-9-1-title: Turizam direktnog BDP-a kao procenat ukupnog BDP-a i stope rasta
+8-2-1-title: Годишња стопа раста реалног БДП-а по запосленој особи
+8-3-1-title: Удио неформалног запошљавања у укупној запослености, према секторима и полу
+8-4-1-title: Материјални отисак, материјални отисак по глави становника и материјални отисак по БДП-у
+8-4-2-title: Потрошња домаћег материјала, потрошња домаћег материјала по глави становника и потрошња домаћег материјала по БДП-у
+8-5-1-title: Просјечна зарада по сату запослених, према полу, старости, занимању и особама са инвалидитетом
+8-5-2-title: Стопа незапослености према полу, старости и особама са инвалидитетом
+8-6-1-title: Проценат младих (у доби од 15-24 године) који нису у образовању, запошљавању или обуци
+8-7-1-title: Удио и број ђеце узраста 5-17 година ангажованих у ђечијем раду, према полу и старости
+8-8-1-title: Фаталне и нефаталне повреде на раду на 100.000 радника, према полу и мигрантском статусу
+8-8-2-title: Ниво националне усклађености радних права (слобода удруживања и колективног преговарања) на основу текстуалних извора Међународне организације рада (ИЛО) и националног законодавства, према полу и статусу миграната
+8-9-1-title: Туризам директног БДП-а као проценат укупног БДП-а и стопе раста
 8-9-2-title: Proportion of jobs in sustainable tourism industries out of total tourism
   jobs
-8-a-1-title: Pomoć za trgovinske obaveze i isplate
-8-b-1-title: Postojanje razvijene i operacionalizovane nacionalne strategije za zapošljavanje mladih, kao posebna strategija ili kao dio nacionalne strategije zapošljavanja
-9-1-1-title: Udio ruralnog stanovništva koje živi na udaljenosti od 2 km od cjelogodišnje ceste
+8-a-1-title: Pomoћ за трговинске обавезе и исплате
+8-b-1-title: Постојање развијене и операционализоване националне стратегије за запошљавање младих, као посебна стратегија или као дио националне стратегије запошљавања
+9-1-1-title: Удио руралног становништва које живи на удаљености од 2 км од цјелогодишње цесте
 9-1-2-title: Obim putnika i tereta, prema vrstama prevoza
 9-2-1-title: Dodana vrijednost u proizvodnji kao udio u BDP-u i glavi stanovnika
 9-2-2-title: Zapošljavanje u proizvodnji kao udio ukupne zaposlenosti
