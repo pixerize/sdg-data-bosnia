@@ -1,305 +1,220 @@
-1-1-1-title: Проценат становништва који живе испод међународне линије сиромаштва по полу, старости, статусу запослења и географској локацији (урбано/рурално)
-1-2-1-title: Удио становништва која живи испод националне линије сиромаштва, по полу и старости
-1-2-2-title: Удио мушкараца, жена и дјеце свих добних скупина који живе у сиромаштву у свим његовим димензијама према националним дефиницијама
-1-3-1-title: Проценат становништва покривених системима социјалне заштите, по полу, разликовању дјеце, незапослених лица, старијих особа, особа са инвалидитетом, трудница, новорођенчади, жртава повреде на раду и сиромашних и рањивих
-1-4-1-title: Удио становништва који живе у домаћинствима са приступом основним услугама
-1-4-2-title: Proportion of total adult population with secure tenure rights to land,
-  with legally recognized documentation, and who perceive their rights to land as
-  secure, by sex and by type of tenure
-1-5-1-title: Број смрти, несталих особа и директно погођених лица приписаних катастрофама на 100.000 становника
-1-5-2-title: Директни економски губитак узрокован несрећама у односу на глобални бруто домаћи производ (БДП)
-1-5-3-title: Број земаља које усвајају и имплементирају националне стратегије за смањење ризика од катастрофа у складу са Сендаи Оквиром за смањење ризика од катастрофа 2015-2030
-1-5-4-title: Удио локалних самоуправа које усвајају и спроводе стратегије за смањење ризика од катастрофа у складу са националним стратегијама за смањење ризика од катастрофа
-1-a-1-title: Укупни грантови службене развојне помоћи свих донатора који су усмјерени на смањење сиромаштва као удио у бруто националном дохотку земље примаоца
-1-a-2-title: Удио укупне државне потрошње на основне услуге (образовање, здравство и социјална заштита)
-1-a-3-title: Sum of total grants and non-debt-creating inflows directly allocated
-  to poverty reduction programmes as a proportion of GDP
-1-b-1-title: Proportion of government recurrent and capital spending to sectors that
-  disproportionately benefit women, the poor and vulnerable groups
-10-1-1-title: Стопа раста потрошње домаћинстава или прихода по глави становника међу доњих 40 посто становништва и укупном становништву
-10-2-1-title: Удио људи који живе испод 50 процената средње вриједности прихода, по полу, старости и особама са инвалидитетом
-10-3-1-title: Удио становништва које је пријавило да се лично осјећа дискриминираним или малтретираним у претходних 12 мјесеци на основу дискриминације забрањене међународним људским правима
-10-4-1-title: Удио радне снаге у БДП-у
-10-5-1-title: Индикатори финансијске стабилности
-10-6-1-title: Удио чланова и права гласа земаља у развоју у међународним организацијама
-10-7-1-title: Recruitment cost borne by employee as a proportion of yearly income
-  earned in country of destination
-10-7-2-title: Број земаља с миграцијским политикама које омогућавају уређену, сигурну, редовну и одговорну миграцију и мобилност људи
-10-7-3-title: Број људи који су умрли или нестали у процесу миграције према међународној дестинацији
-10-7-4-title: Удио становништва избјеглица, према земљи поријекла
-10-a-1-title: Удио тарифних линија примјењен на увоз из најмање развијених земаља и земаља у развоју са нултом тарифом
-10-b-1-title: Укупни токови ресурса за развој, према земљама примаоцима и земљама донаторима и врста тока (нпр. званична развојна помоћ, стране директне инвестиције и други токови)
-10-c-1-title: Трошкови дознака као пропорција дозначеног износа
-11-1-1-title: Удио урбане популације која живи у неформалним насељима или имају неадекватне услове  становања
-11-2-1-title: Proportion of population that has convenient access to public transport,
-  by sex, age and persons with disabilities
-11-3-1-title: Ratio of land consumption rate to population growth rate
-11-3-2-title: Proportion of cities with a direct participation structure of civil
-  society in urban planning and management that operate regularly and democratically
-11-4-1-title: Total expenditure (public and private) per capita spent on the preservation,
-  protection and conservation of all cultural and natural heritage, by type of heritage
-  (cultural, natural, mixed and World Heritage Centre designation), level of government
-  (national, regional and local/municipal), type of expenditure (operating expenditure/investment)
-  and type of private funding (donations in kind, private non-profit sector and sponsorship)
-11-5-1-title: Број умрлих, несталих особа и директно погођених лица узрокован катастрофама на 100.000 становника
-11-5-2-title: Непосредни економски губици у односу на глобални БДП, оштећења критичне инфраструктуре и број прекида основне услуге, узроковано катастрофама
-11-6-1-title: Удио сакупљеног урбаног отпадаса адекватним финалним одлагањем у односу на укупни урбани чврсти отпад, по градовима
-11-6-2-title: Годишњи средњи нивои финих честица (нпр. PM2.5 и PM10) у градовима (пондерисана популација)
-11-7-1-title: Average share of the built-up area of cities that is open space for
-  public use for all, by sex, age and persons with disabilities
-11-7-2-title: Proportion of persons victim of physical or sexual harassment, by sex,
-  age, disability status and place of occurrence, in the previous 12 months
-11-a-1-title: Број земаља које имају националне урбане политике или планове регионалног развоја који (а) одговарају на динамику становништва; (б) осигуравају уравнотежен територијални развој; и (ц) повећава локални фискални простор
-11-b-1-title: Број земаља које усвајају и имплементирају националне стратегије за смањење ризика од катастрофа у складу са Сендаи Оквиром за смањење ризика од катастрофа 2015-2030
-11-b-2-title: Удио локалних самоуправа које усвајају и спроведе стратегије за смањење ризика од катастрофа у складу са националним стратегијама за смањење ризика од катастрофа
-11-c-1-title: Proportion of financial support to the least developed countries that
-  is allocated to the construction and retrofitting of sustainable, resilient and
-  resource-efficient buildings utilizing local materials
-12-1-1-title: Broj zemalja koje razvijaju, koje usvajaju ili provode instrumente politike usmjerene na podržavanje prelaska na održivu potrošnju i proizvodnju
-12-2-1-title: Materijalni otisak, materijalni otisak po glavi stanovnika i materijalni otisak po BDP-u
-12-2-2-title: Potrošnja domaćeg materijala, potrošnja domaćeg materijala po glavi stanovnika i potrošnja domaćeg materijala po BDP-u
-12-3-1-title: Indeks gubitka hrane
-12-4-1-title: Broj strana međunarodnih okolišnih multilateralnih sporazuma o opasnom otpadu i drugim hemikalijama koje ispunjavaju svoje obaveze i obaveze u prenosu informacija kako to zahtijeva svaki relevantni sporazum
-12-4-2-title: Opasni otpad stvoren po stanovniku i udio tretiranog opasnog otpada prema vrsti obrade
-12-5-1-title: Nacionalna stopa recikliranja, tone recikliranog materijala
-12-6-1-title: Number of companies publishing sustainability reports
-12-7-1-title: Number of countries implementing sustainable public procurement policies
-  and action plans
-12-8-1-title: Extent to which (i) global citizenship education and (ii) education
-  for sustainable development (including climate change education) are mainstreamed
-  in (a) national education policies; (b) curricula; (c) teacher education; and (d)
-  student assessment
-12-a-1-title: Instalirani kapaciteti za proizvodnju obnovljivih izvora energije u zemljama u razvoju (u vatima po stanovniku)
-12-b-1-title: Broj strategija ili politika održivog turizma i iimplementiranih akcionih planova sa dogovorenim alatima za praćenje i evaluaciju
-12-c-1-title: Iznos subvencija za fosilna goriva kao procenat BDP-a i iznos subvencija za fosilna goriva kao udio u ukupnim nacionalnim izdacima za fosilna goriva
-13-1-1-title: Broj umrlih, nestalih osoba i direktno pogođenih lica uzrokovanih katastrofama na 100.000 stanovnika
-13-1-2-title: Broj zemalja koje usvajaju i provode nacionalne strategije za smanjenje rizika od katastrofa u skladu sa Sendai okvirom za smanjenje rizika od katastrofa 2015-2030
-13-1-3-title: Udio lokalnih samouprava koje usvajaju i sprovode strategije za smanjenje rizika od katastrofa u skladu sa nacionalnim strategijama za smanjenje rizika od katastrofa
-13-2-1-title: Number of countries that have communicated the establishment or operationalization
-  of an integrated policy/strategy/plan which increases their ability to adapt to
-  the adverse impacts of climate change, and foster climate resilience and low greenhouse
-  gas emissions development in a manner that does not threaten food production (including
-  a national adaptation plan, nationally determined contribution, national communication,
-  biennial update report or other)
-13-3-1-title: Number of countries that have integrated mitigation, adaptation, impact
-  reduction and early warning into primary, secondary and tertiary curricula
-13-3-2-title: Number of countries that have communicated the strengthening of institutional,
-  systemic and individual capacity-building to implement adaptation, mitigation and
-  technology transfer, and development actions
-13-a-1-title: Mobilized amount of United States dollars per year between 2020 and
-  2025 accountable towards the $100 billion commitment
-13-b-1-title: Number of least developed countries and small island developing States
-  that are receiving specialized support, and amount of support, including finance,
-  technology and capacity-building, for mechanisms for raising capacities for effective
-  climate change-related planning and management, including focusing on women, youth
-  and local and marginalized communities
-14-1-1-title: Indeks eutrofikacije obale i gustine plastičnog otpada
-14-2-1-title: Proportion of national exclusive economic zones managed using ecosystem-based
-  approaches
-14-3-1-title: Prosječna pomorska kiselina (pH) mjerena na dogovorenom paketu reprezentativnih stanica za uzorkovanj
-14-4-1-title: Udio ribljeg fonda na biološki održivim nivoima
-14-5-1-title: Pokrivenost zaštićenih područja u odnosu na morska područja
-14-6-1-title: Stepen primjene međunarodnih instrumenata usmjerenih na borbu protiv nezakonitog, neprijavljenog i neregulisanog ribolova
-14-7-1-title: Održivo ribolov kao procenat BDP-a u malim ostrvskim državama u razvoju, najmanje razvijenim zemljama i svim zemljama
-14-a-1-title: Udio ukupnog istraživačkog budžeta namjenjenog istraživanjima u oblasti pomorske tehnologije
-14-b-1-title: Napredak zemalja u stepenu primjene pravnog/regulatornog /političkog/institucionalnog okvira koji prepoznaje i štiti pristupna prava za mala ribarstvo
-14-c-1-title: Number of countries making progress in ratifying, accepting and implementing
-  through legal, policy and institutional frameworks, ocean-related instruments that
-  implement international law, as reflected in the United Nations Convention on the
-  Law of the Sea, for the conservation and sustainable use of the oceans and their
-  resources
-15-1-1-title: Područje šuma kao udio ukupne površine zemljišta
-15-1-2-title: Udio važnih lokacija za kopneni i slatkovodni biodiverzitet koji pokrivaju zaštićena područja, prema tipu ekosistema
-15-2-1-title: Napredak ka održivom upravljanju šumama
-15-3-1-title: Udio zemljišta koje je degradirano na ukupnoj površini zemljišta
-15-4-1-title: Pokrivenost zaštićenim područjima važnih lokacija za planinski biodiverzitet
-15-4-2-title: Indeks zelenog pokrivača
-15-5-1-title: Indeks crvene liste
-15-6-1-title: Broj zemalja koje su usvojile zakonske, administrativne i političke okvire kako bi se osigurala pravična i ravnopravna podjela naknada
-15-7-1-title: Proportion of traded wildlife that was poached or illicitly trafficked
-15-8-1-title: Udio zemalja koje usvajaju u nacionalno zakonodavstvo i adekvatno obezbeđuju sredstva za prevenciju ili kontrolu invazivnih vrsta
-15-9-1-title: Broj zemalja koje su utvrdile nacionalne ciljeve u skladu sa ili slične cilju 2 Aichi biodiverziteta Strateškom Plana za biološku raznolikost 2011-2020 u svojoj nacionalnoj strategiji i akcionim planovima za biološku raznolikost i izvještavanju o napretku prema tim ciljevima i integracija biodiverziteta u nacionalne sisteme računovodstva i izvještavanja, definisanih kao implementacija Sistema ekološko-ekonomskog računovodstva
-15-a-1-title: Službena razvojna pomoć za očuvanje i održivu upotrebu biodiverziteta i prihod i finansiranje mobilizirano od ekonomskih instrumenata bitnih za biološku raznolikost
-15-b-1-title: Službena razvojna pomoć i javni izdaci za očuvanje i održivo korištenje biodiverziteta i ekosistema
-15-c-1-title: Proportion of traded wildlife that was poached or illicitly trafficked
-16-1-1-title: Broj žrtava ubistava s namjerom na 100.000 stanovnika, prema polu i starosti
-16-1-2-title: Umrli povezane sa sukobima na 100.000 stanovnika, prema polu, starosti i uzroku
-16-1-3-title: Udio stanovništva izloženog (a) fizičkom nasilju, (b) psihičkom nasilju i (c) seksualnom nasilju u prethodnih 12 mjeseci
-16-1-4-title: Udio stanovništva koji se osjećaju sigurno da se kreću sami oko područja u kojem žive
-16-10-1-title: Broj potvrđenih slučajeva ubistava, kidnapovanja, prisilnog nestanka, proizvoljnog zatvaranja i mučenja novinara, pripadnika medijskog osoblja, sindikata i zagovornika ljudskih prava u prethodnih 12 mjeseci
-16-10-2-title: Broj zemalja koje usvajaju i sprovode ustavne, zakonske i/ili političke garancije za javni pristup informacijama
-16-2-1-title: Udio djece u dobi od 1 do 17 godina koja su u proteklih mjesec dana doživjela bilo kakve fizičke kazne i/ili psihološku agresiju od strane njegovatelja
-16-2-2-title: Broj žrtava trgovine ljudima na 100.000 stanovnika, prema polu, starosti i obliku eksploatacije
-16-2-3-title: Udio mladih žena i muškaraca u dobi od 18-29 godina koji su iskusili seksualno nasilje do 18 godina
-16-3-1-title: Udio žrtava nasilja u zadnjih 12 mjeseci koji su nasilje prijavili nadležnim organima ili drugim zvanično priznatim mehanizmima za rješavanje sukoba
-16-3-2-title: Neosuđeni pritvorenici kao udio u ukupnoj zatvorskoj populaciji
-16-4-1-title: Total value of inward and outward illicit financial flows (in current
-  United States dollars)
-16-4-2-title: Proportion of seized, found or surrendered arms whose illicit origin
-  or context has been traced or established by a competent authority in line with
-  international instruments
-16-5-1-title: Udio osoba koje su imale najmanje jedan kontakt sa državnim službenikom i koje su platile mito državnom službeniku ili su im državni službenici tražili mito tokom prethodnih 12 mjeseci
-16-5-2-title: Udio preduzeća koja su imala najmanje jedan kontakt sa državnim službenikom i koja su platila mito državnom službeniku ili su im državni službenici tražili mito tokom prethodnih 12 mjeseci
-16-6-1-title: Primarni državni rashodi kao dio prvobitnog odobrenog budžeta, po sektorima (ili po budžetskim kodovima ili slično)
-16-6-2-title: Proportion of population satisfied with their last experience of public
-  services
-16-7-1-title: Udio položaja u nacionalnim i lokalnim institucijama, uključujući (a) zakonodavna tijela; (b) javnu službu; i (c) pravosuđe, u poređenju sa nacionalnim distribucijama, prema polu, starosti, osobama sa invaliditetom i grupama stanovništva
-16-7-2-title: Proportion of population who believe decision-making is inclusive and
-  responsive, by sex, age, disability and population group
-16-8-1-title: Udio članova i prava glasa zemalja u razvoju u međunarodnim organizacijama
-16-9-1-title: Udio djece mlađe od 5 godina čija su rođenja registrovana u civilnim organima, prema starosnoj dobi
-16-a-1-title: Postojanje nezavisnih nacionalnih institucija za ljudska prava u skladu sa Pariškim principima
-16-b-1-title: Procenat izvještavanja o stanovništvu koje je lično bilo diskriminirano ili uznemiravano u prethodnih 12 mjeseci na osnovu diskriminacije zabranjene međunarodnim zakonom o ljudskim pravima
-17-1-1-title: Ukupni državni prihodi kao procenat BDP-a, po izvoru
-17-1-2-title: Udio domaćeg budžeta koji se finansira iz domaćih poreza
-17-10-1-title: Svetski ponderirani carinski prosjek
-17-11-1-title: Udio zemalja u razvoju i najmanje razvijenih zemalja u globalnom izvozu
-17-12-1-title: Average tariffs faced by developing countries, least developed countries
-  and small island developing States
-17-13-1-title: Macroeconomic Dashboard
-17-14-1-title: Number of countries with mechanisms in place to enhance policy coherence
-  of sustainable development
-17-15-1-title: Obim korišćenja okvira državnih rezultata i planiranih alata od strane pružalaca razvojne saradnje
-17-16-1-title: Broj zemalja koje prijavljuju napredak u višekorisničkom razvoju efektivnosti koji podržavaju postizanje ciljeva održivog razvoja
-17-17-1-title: Amount of United States dollars committed to public-private and civil
-  society partnerships
-17-18-1-title: Proportion of sustainable development indicators produced at the national
-  level with full disaggregation when relevant to the target, in accordance with the
-  Fundamental Principles of Official Statistics
-17-18-2-title: Broj zemalja koje imaju nacionalno statističko zakonodavstvo koje je u skladu sa Osnovnim principima zvanične statistike
-17-18-3-title: Broj zemalja sa nacionalnim statističkim planom koji je u potpunosti finansiran i koji se implementira prema izvorima finansiranja
-17-19-1-title: Dolarska vrijednost svih izvora sredstava dostupnih za jačanje statističkih kapaciteta u zemljama razvoja
-17-19-2-title: 'Procenat zemalja koje su: (a) provele najmanje jedan popis stanovništva i stanova u posljednjih 10 godina; i (b) postigli 100 procenata registracije rođenih i 80 procenata smrti'
-17-2-1-title: Neto zvanična razvojna pomoć, ukupno i najmanje razvijenim zemljama, kao dio Organizacije za ekonomsku saradnju i razvoj (OECD) pomoći Komiteta za razvojnu pomoćbruto nacionalnog dohodka donatora (GNI)
-17-3-1-title: Drektna strana ulaganja, službena razvojna pomoć i saradnja jug-jug kao udio u bruto nacionalnom dohotku
-17-3-2-title: Obim doznaka (u američkim dolarima) kao udio u ukupnom BDP-u
-17-4-1-title: Servis duga kao dio izvoza roba i usluga
-17-5-1-title: Number of countries that adopt and implement investment promotion regimes
-  for least developed countries
-17-6-1-title: Pretplata na fiksni internet širokopojasnog pristupa na 100 stanovnika, brzinom
-17-6-2-title: Fixed Internet broadband subscriptions per 100 inhabitants, by speed
-17-7-1-title: Total amount of approved funding for developing countries to promote
-  the development, transfer, dissemination and diffusion of environmentally sound
-  technologies
-17-8-1-title: Udio pojedinaca koji koriste internet
-17-9-1-title: Vrijednost finansijske i tehničke pomoći u dolarima (uključujući kroz sjever-jug, jug-jug i trouglastu saradnju) posvećena zemljama u razvoju
-2-1-1-title: Распрострањеност подхрањености
-2-1-2-title: Распрострањеност умјерене или озбиљне прехрамбене несигурности међу становништвом, на основу Скале искуства у погледу несигурности хране (ФИЕС)
-2-2-1-title: Распрострањеност заостајања у развоју (висина за узраст <-2 тандардне девијације од средње вредности према (WHO) Светској здравственој организацији) међу ђецом млађом од 5 година
-2-2-2-title: Распрострањеност потхрањености (тежина према висини >+2 или <-2 стандардне девијације од средње вриједности (WHO) Стандарда раста дјеце, међу ђецом млађом од 5 година, према врсти (мршатост и прекомјерна тежина)
-2-3-1-title: Обим производње по јединици радне снаге према класама величине пољопривредног/шумарског предузећа
-2-3-2-title: Просјечни приходи малих произвођача хране, према полу и староседелачком статусу
-2-4-1-title: Proportion of agricultural area under productive and sustainable agriculture
-2-5-1-title: Број биљних и животињских генетичких ресурса за храну и пољопривреду осигураних у средњорочним или дугорочним конзерваторским објектима
-2-5-2-title: Удио локалних сорти класифицираних као у опасности од изумирања
-2-a-1-title: Индекс пољопривредне оријентације за државне расходе
-2-a-2-title: Укупни званични токови (званична развојна помоћ плус други званични токови) у пољопривредном сектору
-2-b-1-title: Пољопривредне извозне субвенције
-2-c-1-title: Индикатор аномалија цијена хране
-3-1-1-title: Стопа смртности мајки
-3-1-2-title: Удио порода уз присуство квалификованих здравствених радника
-3-2-1-title: Стопа смртности испод пет година
-3-2-2-title: Стопа неонаталне смртности
-3-3-1-title: Број нових ХИВ инфекција на 1.000 неинфицираних становника, по полу, старости и кључним популацијама
-3-3-2-title: Учесталост туберкулозе на 100.000 становника
-3-3-3-title: Учесталост маларије на 1.000 становника
-3-3-4-title: Учесталост хепатитиса Б на 100.000 становника
-3-3-5-title: Број људи којима су потребне интервенције против занемарених тропских болести
-3-4-1-title: Стопа смртности која се приписује кардиоваскуларним болестима, карциному, дијабетесу или хроничним респираторним болестима
-3-4-2-title: Стопа смртности самоубистава
-3-5-1-title: Покривање интервенцијских третмана (фармаколошке, психосоцијалне,рехабилитационе и накнадне услуге) за поремећаје употребе супстанци
-3-5-2-title: Потрошња алкохола по становнику (старости од 15 и више година) у календарској години у литрима чистог алкохола
-3-6-1-title: Стопа смртности због повреда у друмском саобраћају
-3-7-1-title: Удио жена репродуктивног узраста (у доби од 15 до 49 година) који су своју потребу за планирање породице задовољиле са модерним методама
-3-7-2-title: Стопа наталитета адолесцената (старости од 10-14 година; старости од 15-19 година) на 1.000 жена у тој старосној групи
-3-8-1-title: Покривеност основних здравствених услуга
-3-8-2-title: Удио становништва с великим издацима домаћинства за здравство као удио у укупним издацима или приходима домаћинства
-3-9-1-title: Стопа смртности узрокована загађењем домаћинствима и зрака у околини
-3-9-2-title: Стопа смртности узрокована небезбиједном водом, небезјбедној санитацији и недостатку хигијене (излагање небезбједним Водама, Санитацији и Хигијени за Све (ЊАСХ) услугама)
-3-9-3-title: Стопа смртности узрокована ненамјерним тровањем
-3-a-1-title: Старосна стандардизирана распрострањеност тренутне употребе духана међу особама од 15 година и више
-3-b-1-title: Удио циљане популације обухваћене свим вакцинама укључених у националним програма
-3-b-2-title: Укупна нето службена развојна помоћ медицинским истраживањима и основним здравственим секторима
-3-b-3-title: Proportion of health facilities that have a core set of relevant essential
-  medicines available and affordable on a sustainable basis
-3-c-1-title: Густина и дистрибуција здравствених радника
-3-d-1-title: Капацитет међународних здравствених прописа (ИХР) и спремност за хитне случајеве у здравству
-3-d-2-title: Проценат инфекција крвотока због одабраних организама отпорних на антимикробне болести
-4-1-1-title: Сразмјер дјеце и младих - (а) у разредима 2/3; (б) на крају основног; и (ц) на крају нижег средњег образовања која постижу најмање минималног нивоа знања у (и) читању и (ии) математици, по полу
-4-1-2-title: Стопа завршених студија (основно образовање, ниже средње образовање, средње образовање)
-4-2-1-title: Удио дјеце у доби од 24 до 59 мјесеци која су у развоју на правом путу према здрављу, учењу и психосоцијалној добробити, према полу
-4-2-2-title: Стопа учешћа у организираном учењу (годину дана прије службеног основног узраста), према полу
-4-3-1-title: Стопа учешћа младих и одраслих у формалном и неформалном образовању и обуци у претходних 12 мјесеци, према полу
-4-4-1-title: Удио младих и одраслих са вјештинама информационих и комуникационих технологија (ИКТ), према врсти вјештине
-4-5-1-title: Индекси паритета (женске/мушкарци, рурална/урбана, најнижи/највиши квинтил богатства и други као што су статус инвалидности, аутохтони народи и погођени сукобима, када подаци постану доступни) за све индикаторе образовања на овој листи који могу бити разврстани
-4-6-1-title: Удио становништва у датој старосној групи која постиже најмање фиксни ниво знања у функционалним вјештинама (а) писмености и (б) рачунања, према полу
-4-7-1-title: Extent to which (i) global citizenship education and (ii) education for
-  sustainable development, including gender equality and human rights, are mainstreamed
-  at all levels in (a) national education policies; (b) curricula; (c) teacher education;
-  and (d) student assessment
-4-a-1-title: Удио школа које нуде основне услуге, према врсти услуге
-4-b-1-title: Oбим службене развојне помоћи за стипендије по секторима и врстама студија
-4-c-1-title: Пропорција учитеља са минимално потребним квалификацијама, према нивоу образовања
-5-1-1-title: Постојали или не законски оквири су за промоцију, провођење и надгледање једнакост и недискриминацију на основу пола
-5-2-1-title: Удио жена и дјевојчицама у партнерству доби од 15 и више година које су подвргнуте физичком, сексуалном или психичком насиљу тренутног или бившег интимног партнера у претходних 12 мјесеци, по облику насиља и старости
-5-2-2-title: Proportion of women and girls aged 15 years and older subjected to sexual
-  violence by persons other than an intimate partner in the previous 12 months, by
-  age and place of occurrence
-5-3-1-title: Удио жена старости од 20-24 године које су биле у браку или у заједници прије 15 и прије 18 година старости
-5-3-2-title: Удио дјевојчица и жена у доби од 15 до 49 година која су подвргнуте резању женских гениталија, према старости
-5-4-1-title: Удио времена проведеног на неплаћеном раду у домаћинству и његоватељском раду, према полу, старости и локацији
-5-5-1-title: Удио мјеста које имају жене у (а) националним парламентима и (б) локалним самоуправама
-5-5-2-title: Удио жена на руководећим позицијама
-5-6-1-title: Удио жена у доби од 15 до 49 година које доносе своје одлуке у вези са сексуалним односима, употребом контрацепције и репродуктивном здрављем
-5-6-2-title: Број земаља са законима и прописима који гарантују пун и једнак приступ женама и мушкарцима у доби од 15 година и више сексуалној и репродуктивној здравственој заштити, информацијама и образовању
-5-a-1-title: а) удио укупног пољопривредног становништва са власништвом или заштићеним правима на пољопривредном земљишту, према полу; и (б) удио жена међу власницима или носиоцима права на пољопривредном земљишту, према врсти посједа
-5-a-2-title: Удио држава у којима правни оквир (укључујући обичајно право) гарантује једнака права жена на власништво и/или контролу над земљиштем
-5-b-1-title: Удио особа које посједују мобилни телефон, по полу
-5-c-1-title: Удио држава са системима праћења и јавног издвајања за равноправност полова и оснаживање жена
-6-1-1-title: Удио становништва који користи услуге безбиједног управљања питком водом
-6-2-1-title: Удио становништва које користи (а) санитарне услуге којима се сигурно управља и (б) прање руку сапуном и водом
-6-3-1-title: Удио протока отпадних вода из домаћинстава и индустрије која се безбиједно пречишћава
-6-3-2-title: Удио водних тијела са добрим квалитетом амбијенталне воде
-6-4-1-title: Промијенити ефикасност употребе воде током времена
-6-4-2-title: Ниво воденог стреса - повлачење слатке воде као удио расположивих слатководних ресурса
-6-5-1-title: Степен интегрираног управљања водним ресурсима
-6-5-2-title: Удио прекограничне површине са оперативним аранжманом за сарадњу на водама
-6-6-1-title: Промјена обима  водних екосистема током времена
-6-a-1-title: Висина званичне развојне помоћи која се односи на воде и канализацију која је дио владиног координирајућег плана потрошње
-6-b-1-title: Удио локалних административних јединица са утврђеним и оперативним политикама и поступцима за учешће локалних заједница у управљању водама и санитацијама
-7-1-1-title: Udio stanovništva sa pristupom električnoj energiji
-7-1-2-title: Удио становништва који се првенствено ослања на чиста горива и технологију
-7-2-1-title: Удио обновљиве енергије у укупној потрошњи финалне енергије
-7-3-1-title: Енергетски интензитет мјерен у смислу примарне енергије и БДП-а
-7-a-1-title: Međunarodni finansijski tokovi u zemljama u razvoju za podršku istraživanju i razvoju čiste energije i proizvodnji obnovljivih izvora energije, uključujući i hibridne sisteme
-7-b-1-title: Инсталирани капацитети за производњу обновљивих извора енергије у земљама у развоју (у ватима по становнику)
-8-1-1-title: Годишња стопа раста реалног БДП-а по становнику
-8-10-1-title: (а) Број филијала комерцијалних банака на 100.000 одраслих и (б) број аутоматизованих банкомата на 100.000 одраслих
-8-10-2-title: Udio odraslih (15 i više godina) sa računom u banci ili drugoj finansijskoj instituciji ili sa pružaocem usluge mobilnih novčanih usluga
-8-2-1-title: Годишња стопа раста реалног БДП-а по запосленој особи
-8-3-1-title: Удио неформалног запошљавања у укупној запослености, према секторима и полу
-8-4-1-title: Материјални отисак, материјални отисак по глави становника и материјални отисак по БДП-у
-8-4-2-title: Потрошња домаћег материјала, потрошња домаћег материјала по глави становника и потрошња домаћег материјала по БДП-у
-8-5-1-title: Просјечна зарада по сату запослених, према полу, старости, занимању и особама са инвалидитетом
-8-5-2-title: Стопа незапослености према полу, старости и особама са инвалидитетом
-8-6-1-title: Проценат младих (у доби од 15-24 године) који нису у образовању, запошљавању или обуци
-8-7-1-title: Удио и број дјеце узраста 5-17 година ангажованих у ђечијем раду, према полу и старости
-8-8-1-title: Фаталне и нефаталне повреде на раду на 100.000 радника, према полу и мигрантском статусу
-8-8-2-title: Ниво националне усклађености радних права (слобода удруживања и колективног преговарања) на основу текстуалних извора Међународне организације рада (ИЛО) и националног законодавства, према полу и статусу миграната
-8-9-1-title: Туризам директног БДП-а као проценат укупног БДП-а и стопе раста
-8-9-2-title: Proportion of jobs in sustainable tourism industries out of total tourism
-  jobs
-8-a-1-title: Pomoћ за трговинске обавезе и исплате
-8-b-1-title: Постојање развијене и операционализоване националне стратегије за запошљавање младих, као посебна стратегија или као дио националне стратегије запошљавања
-9-1-1-title: Удио руралног становништва које живи на удаљености од 2 км од цјелогодишње цесте
-9-1-2-title: Обим путника и терета, према врстама превоза
-9-2-1-title: Додана вриједност у производњи као удио у БДП-у и глави становника
-9-2-2-title: Запошљавање у производњи као удио укупне запослености
-9-3-1-title: Удио малих индустрија у укупној доданој вриједности индустрије
-9-3-2-title: Удио малих индустрија са зајмом или кредитном линијом
-9-4-1-title: Емисија ЦО2 по јединици додане вриједности
-9-5-1-title: Трошкови за истраживање и развој као удио БДП-а
-9-5-2-title: Истраживачи (у еквиваленту пуног радног времена) на милион становника
-9-a-1-title: Укупна званична међународна подршка (званична развојна помоћ плус други званични токови) за инфраструктуру
-9-b-1-title: Удио додане вриједности средње и високотехнолошке индустрије у укупној доданој вриједности
-9-c-1-title: Удио становништва покривеног мобилном мрежом, према технологији
+1-1-title: До 2030. године свуда и за све људе искорјенити екстремно сиромаштво (екстремно сиромашни су људи који живе са мање од 1,25 долара на дан)
+1-2-title: До 2030. године смањити број мушкараца, жена и дјeце свих узраста који живе у било ком облику сиромаштва најмање за половину (према националним дефиницијама за сиромаштво)
+1-3-title: Примјенити одговарајуће националне системе социјалне заштите и мјере за све, укључујући најугроженије, и до краја 2030. постићи довољно велики обухват сиромашних и рањивих
+1-4-title: Do 2030. године осигурати да да сви мушкарци и жене, а посебно сиромашни и рањиви, имају једнака права на економске ресурсе, као и приступ основним услугама, власништву и управљању земљиштем, односно другим облицима власништва, насљедству, природним богатствима, одговарајућим новим технологијама и финансијским услугама, укључујући микрофинансирање
+1-5-title: Do 2030. године изградити отпорност сиромашних и оних у рањивим ситуацијама и смањити њихову изложеност и рањивост од екстремних климатских догађаја, као и других економских, друштвених и/или еколошких катастрофа
+1-а-title: Осигурати значајну мобилизацију ресурса из различитих извора, укључујући појачану развојну сарадњу, ако би се обезбједила адекватна и предвидљива средства за земље у развоју, посебно за оне најнеразвијеније, у смислу спровођења програма и политика за окончање свих облика сиромаштва
+1-b-title: Create sound policy frameworks at the national, regional and international
+  levels, based on pro-poor and gender-sensitive development strategies, to support
+  accelerated investment in poverty eradication actions
+10-1-title: Do 2030. године прогресивно постићи и одржати раст дохотка доњих 40 посто становништва по стопи вишој од националног просјека
+10-2-title: Do 2030. оснажити и промовисати социјалну, економску и политичку инклузију свих, без обзира на старост, пол, инвалидност, расу, етничку припадност, поријекло, религију или економски односно неки други статус
+10-3-title: Осигурати једнаке могућности и смањити неједнакости у исходима, на начин да ће се елиминисати дискриминаторски закони, политике и праксе и што ће се, у том погледу, промовисати прикладно законодавство, политике и активности
+10-4-title: Усвојити политике, посебно фискалну политику и политике у области плата и социјалне заштите, и прогресивно постићи већу равноправност
+10-5-title: Унаприједити прописе и надзор глобалних финанцијских тржишта и институција и ојачати примјену тих прописа
+10-6-title: Осигурати да земље у развоју буду боље представљене и да се чује њихов глас у процесу доношења одлука у глобалним међународним економским и финансијским институцијама како би се створиле дјелотворније, кредибилније, одговорније и легитимније институције
+10-7-title: Омогућити уређену, сигурну, редовну и одговорну миграцију и мобилност људи, укључујући кроз провођење планираних и добро вођених миграционих политика
+10-a-title: Примјењивати принцип специјалног и диференцијалног третмана за земље у развоју, посебно за најнеразвијеније земље, у складу са споразумима Свјетске трговинске организације
+10-b-title: Подстицати званичну развојну помоћ и финанцијске токове, укључујући и директне стране инвестиције, за државе у којима постоји највећа потреба, а посебно за најнеразвијеније земље, афричке земље, мале острвске државе у развоју и земље у развоју које немају излаз на море, у складу са њиховим националним плановима и програмима
+10-ц-title: До 2030. године снизити на мање од 3 посто трансакцијеске трошкове за дознаке миграната и елиминисати токове дознака са трошковима вишим од 5 посто
+11-1-title: До 2030. године осигурати да сви имају приступ адекватном, сигурном и јефтином смјештају и основним услугама те унаприједити услове у нехигијенским насељима
+11-2-title: By 2030, provide access to safe, afforПодржатиble, accessible and sustainable
+  transport systems for all, improving road safety, notably by expanding public transport,
+  with special attention to the needs of those in vulnerable situations, women, children,
+  persons with disabilities and older persons
+11-3-title: By 2030, enhance inclusive and sustainable urbanization and capacity for
+  participatory, integrated and sustainable human settlement planning and management
+  in all countries
+11-4-title: Strengthen efforts to protect and safeguard the world’s cultural and natural
+  heritage
+11-5-title: До 2030. године значајно смањити број смртних случајева и број погођених људи и знатно смањити директне економске губитке у односу на глобални бруто домаћи производ узрокован катастрофама, укључујући катастрофе повезане с водом, са фокусом на заштиту сиромашних и људи у рањивим ситуацијама
+11-6-title: До 2030. године смањити штетни утјецај градова на околиш по глави становника, укључујући обраћањем посебне пажње на квалитет зрака и управљање комуналним и другим отпадом
+11-7-title: By 2030, provide universal access to safe, inclusive and accessible, green
+  and public spaces, in particular for women and children, older persons and persons
+  with disabilities
+11-a-title: Подржати позитивне економске, социјалне и еколошке везе између урбаних, приградских и руралних подручја јачањем националног и регионалног развојног планирања
+11-б-title: До 2020. године значајно повећати број градова и људских насеља који усвајају и проводе интегриране политике и планове ка инклизији, ефикасним ресурсима, ублажавање и прилагођавање климатским промјенама, отпорност на катастрофе и развијају и проводе, у складу са "Сендајским оквиром за ризик од катастрофе Смањење 2015-2030", свеобухватно управљање ризицима од елементарних непогода на свим нивоима
+11-c-title: Support least developed countries, including through financial and technical
+  assistance, in building sustainable and resilient buildings utilizing local materials
+12-1-title: Провести 10-годишњи оквир програма о одрживој потрошњи и моделима производње, у коме ће учествовати све земље, а развијене земље ће преузети руководећу улогу, узимајући у обзир степен развоја и капацитете земаља у развоју
+12-2-title: До 2030. године постићи одрживо управљање и ефикасно коришћење природних ресурса
+12-3-title: До 2030. године глобално преполовити бацање хране по глави становника на нивоу малопродаје и потрошача те смањити губитке у храни у производњи и ланцима снабђевања, укључујући и губитке који настају послије жетве
+12-4-title: До 2020. године постићи еколошки  исправно управљање хемикалијама и свим облицима отпада током читавог њиховог употребног циклуса, у складу са договореним међународним оквирима, и значајно смањити њихово испуштање у ваздух, воду и земљиште како би се што више умањили њихови негативни утицаји на здравље људи и околиш
+12-5-title: До 2030. године значајно смањити стварање отпада превенцијом, смањењем, рециклирањем и поновном употребом
+12-6-title: Encourage companies, especially large and transnational companies, to
+  adopt sustainable practices and to integrate sustainability information into their
+  reporting cycle
+12-7-title: Promote public procurement practices that are sustainable, in accorПодржатиnce
+  with national policies and priorities
+12-8-title: By 2030, ensure that people everywhere have the relevant information and
+  awareness for sustainable development and lifestyles in harmony with nature
+12-a-title: Подржати земље у развоју да јачају своје научне и технолошке капацитете како би се кретале у правцу одрживијих облика потрошње и производње
+12-b-title: Развијати и примјењивати алате за праћење утицаја одрживог развоја на одрживи туризам који ствара радна мјеста и промовише локалну културу и производе
+12-c-title: Свести на разумну мјеру недјелотворне субвенције за фосилна горива којима се подстиче расипна потрошња отклањањем тржишних деформација, у складу са националним околностима, између осталог и кроз реструктурирање система опорезивања и фазно укидање штетних субвенција тамо гђе оне постоје како би дошао до изражаја њихов утицај на околиш, узимајући у обзир у потпуности специфичне потребе и услове земаља у развоју и сводећи на најмању мјеру могуће негативне утицаје на њихов развој на начин којим се штите сиромашни и погођене заједнице
+13-1-title: Оснажити прилагодљивост и адаптивни капацитет на ризике повезане са климатским условима и природним катастрофама у свим земљама
+13-2-title: Integrate climate change measures into national policies, strategies and
+  planning
+13-3-title: Improve education, awareness-raising and human and institutional capacity
+  on climate change mitigation, aПодржатиptation, impact reduction and early warning
+13-a-title: Implement the commitment undertaken by developed-country parties to the
+  United Nations Framework Convention on Climate Change to a goal of mobilizing jointly
+  $100 billion annually by 2020 from all sources to address the needs of developing
+  countries in the context of meaningful mitigation actions and transparency on implementation
+  and fully operationalize the Green Climate Fund through its capitalization as soon
+  as possible
+13-b-title: Promote mechanisms for raising capacity for effective climate change-related
+  planning and management in least developed countries and small island developing
+  States, including focusing on women, youth and local and marginalized communities
+14-1-title: До 2025. године спријечити и значајно смањити све врсте загађивања морских ресурса, а посебно оних активности које долазе са копна, укључујући морски отпад и загађење од нутријената. 
+14-2-title: By 2020, sustainably manage and protect marine and coastal ecosystems
+  to avoid significant adverse impacts, including by strengthening their resilience,
+  and take action for their restoration in order to achieve healthy and productive
+  oceans
+14-3-title: Умањити и бавити се утицајима закисељавања океана, укључујући појачаном научном сарадњом на свим нивоима
+14-4-title: До 2020. године дјелотворне регулисати експлоатацију рибе и окончати прекомјерни риболов, незаконит, непријављен и нерегулисан риболов, и деструктивне рибарске праксе, и примјенити научно засноване планове управљања како би се обновиле залихе риба у најкраћеммогућем року, бар до нивоа на којима се може произвести максимални одрживи принос који је одређен њиховим биолошким карактеристикама
+14-5-title: До 2020. године сачувати најмање 10 опосто обалних и морских области, у складу са националним и међународним законима и на основу најбољих доступних научних информација
+14-6-title: До 2020. године забранити одређене облике субвенција за рибарство које доводе до стварања превеликог капацитета рибара и прекомјерног изловљавања рибе, укинути субвенције које доприносе незаконитом, непријављеном и нерегулисаном риболову и уздржати се од увођења нових сличних субвенција, уз свијест да одговарајући и дјелотворни специјални и диференцијални третмани за земље у развоју и неразвијене земље треба да буду интегрални дио преговора Свјетске трговинске организације у вези са субвенцијама за рибарство 
+14-7-title: До 2030. године увећати економску корист за мале острвске државе у развоју и најнеразвијеније земље на основу одрживог коришћења морских ресурса, између осталог и преко одрживог управљања риболовом, водопривредом и туризмом
+14-a-title: Повећати научно знање, развити истраживачке капацитете и преносити поморску технологију, узимајући у обзир „Критеријуме и смјернице Међувладине океанографске комисије за пренос поморске технологије“, како би се побољшало здравље океана и унаприједио допринос морског биодиверзитета земаља у развоју, посебно малих острвских држава у развоју и најнеразвијенијих земаља
+14-b-title: Омогућити приступ малим занатским рибарима морским ресурсима и тржиштима
+14-c-title: Enhance the conservation and sustainable use of oceans and their resources
+  by implementing international law as reflected in the United Nations Convention
+  on the Law of the Sea, which provides the legal framework for the conservation and
+  sustainable use of oceans and their resources, as recalled in paragraph 158 of “The
+  future we want”
+15-1-title: До 2020. године осигурати очување, обнављање и одрживо кориштење копнених и унутрашњих слатководних екосистема и њихових услуга, посебно шума, мочвара, планина и сушних подручја, у складу са обавезама према међународним уговорима
+15-2-title: До 2020. године промовисати имплементацију одрживог управљања свим врстама шума, зауставити крчење шума, обновити уништене шуме и знатно повећати пошумљавање на глобалном нивоу
+15-3-title: До 2030. године  борити се против дезертификације, обнављати деградирано земљиште и тло, укључујући земљиште под утицајем дезертификације, суша и поплава, и тежити да се у свијету неутрализује деградација земљишта
+15-4-title: До 2030. године осигурати очување планинских екосистема, укључујући њихов биодиверзитет, како би се њихови капацитети унаприједили тако да пружају корист која има суштински значај за одрживи развој. 
+15-5-title: Подузети хитне и значајне активности за смањивање деградације природних станишта, зауставити губитак биодиверзитета и, до 2020. године, заштитити угрожене врсте и спријечити њихово изумирање
+15-6-title: Промовисати правично и једнако дијељење користи које произлазе из употребе генетских ресурса и промовисати одговарајући приступ таквим ресурсима, како је међународно договорено
+15-7-title: Take urgent action to end poaching and trafficking of protected species
+  of flora and fauna and address both demand and supply of illegal wildlife products
+15-8-title: До 2020. године увести мјере како би се значајно умањио утицај инванзивних страних врста на копнене и водне екосистеме те контролисати или искорјенити приоритетне врсте
+15-9-title: До 2020. године интегрисати вриједности екосистема и биодиверзитета у национално и локално планирање, развојне процесе, стратегије за смањење сиромаштва и извјештаје
+15-a-title: Мобилисати и значајно повећати финанцијска средства из свих извора ради очувања и одрживог коришћења биодиверзитета и екосистема
+15-b-title: Мобилизирати значајне ресурсе из свих извора и на свим нивоима за финансирање одрживог управљања шумама и пружити одговарајуће потицаје земљама у развоју да унаприједе такво управљање, укључујући очување и пошумљавање
+15-c-title: Enhance global support for efforts to combat poaching and trafficking
+  of protected species, including by increasing the capacity of local communities
+  to pursue sustainable livelihood opportunities
+16-1-title: Свуда значајно смањити све облике насиља и с тим повезане стопе смртности 
+16-10-title: Осигурати јавни приступ информацијама и заштиту основних слобода, у складу са националним законодавством и међународним споразумима
+16-2-title: Окончати злоупотребу и експлоатацију дјeце, трговину дјeцом и све облике насиља и тортуре над дјeцом
+16-3-title: Промовисати владавину права на националном и међународном нивоу и свима осигурати једнак приступ правди
+16-4-title: By 2030, significantly reduce illicit financial and arms flows, strengthen
+  the recovery and return of stolen assets and combat all forms of organized crime
+16-5-title: Значајно смањити корупцију и подмићивање у свим њиховим појавним облицима
+16-6-title: Развити дјeелотворне, одговорне и транспарентне институције на свим нивоима
+16-7-title: Осигурајте одговорно, инклузивно, партиципативно и репрезентативно доношење одлука на свим нивоима
+16-8-title: Проширити и повећати учешће земаља у развоју у институцијама глобалног управљања
+16-9-title: До 2030. године за све обезбједити законски идентитет, укључујући регистрацију приликом рођења
+16-a-title: Ојачати релевантне националне институције, укључујући и међународну сарадњу, за изградњу капацитета на свим нивоима, посебно у земљама у развоју, ради спречавања насиља и борбе против тероризма и криминала
+16-b-title: Промовирати и проводити недискриминацијске законе и политике за одрживи развој
+17-1-title: Ојачати мобилизацију домаћих ресурса, укључујући путем међународне подршке земљама у развоју, ради побољшања домаћих капацитета за прикупљање пореза и осталих прихода
+17-10-title: Промовисати универзални, заснован на правилима, отворен, недискриминаторски и правичан мултилатерални систем размјене под окриљем Свјетске трговинске организације, између осталог и преко закључивања преговора у оквиру њене „Развојне агенде из Дохе“. 
+17-11-title: Значајно повећати извоз земаља у развоју, посебно с циљем удвостручења удјела најмање развијених земаља у глобалном извозу до 2020. године
+17-12-title: Realize timely implementation of duty-free and quota-free market access
+  on a lasting basis for all least developed countries, consistent with World Trade
+  Organization decisions, including by ensuring that preferential rules of origin
+  applicable to imports from least developed countries are transparent and simple,
+  and contribute to facilitating market access
+17-13-title: Enhance global macroeconomic stability, including through policy coordination
+  and policy coherence
+17-14-title: Enhance policy coherence for sustainable development
+17-15-title: Поштовати простор политике сваке земље и вођство за успостављање и провођење политика за искорјењивање сиромаштва и одрживи развој
+17-16-title: Унаприједити глобално партнерство за постизање одрживог развоја, употпуњено вишестраним партнерствима која мобилишу и дијеле знања, стручност, технологију и финансијска средства, како бисе пружила подршка за постизање циљева одрживог развоја у свим земљама, а посебно у земљама у развоју
+17-17-title: Encourage and promote effective public, public-private and civil society
+  partnerships, building on the experience and resourcing strategies of partnerships
+17-18-title: До 2020. године унаприједити подршку за изградњу капацитета земаља у развоју, укључујући најнеразвијеније земље и мале острвске државе у развоју, како би се значајно повећала доступност висококвалитетних, благовремених и поузданих података разврстаних по дохотку, полу, старости, раси, етничкој припадности, миграционом статусу, инвалидности, географској локацији и осталим карактеристикама које су релевантне у датим националним контекстима
+17-19-title: До 2030. године надоградити постојеће иницијативе како би се развила мјерила напретка у одрживом развоју, комплементарномјерењу бруто домаћег производа, те Подржати стварање капацитета који се тичу статистичких података у земљама у развоју
+17-2-title: Развијене земље треба у потпуности да примјене своје званичне обавезе у вези са развојном помоћи, између осталог, да дају 0,7 одсто бруто националног дохотка у програме званичне развојне помоћи за земље у развоју, од чега 0,15 до 0,20 одсто треба обезбједити за најнеразвијеније земље
+17-3-title: Мобилисати додатна финансијска средства из вишеструких извора за потребе земаља у развоју
+17-4-title: Помоћи земљама у развоју да постигну дугорочну одрживост дугова кроз координисане политике усмјерене ка очувању начина за финанцирање дугова, отпис дугова и реструктурирање дугова на примјерен начин и бавити се спољним дуговима високо задужених сиромашних земаља како би се умањиле дужничке невоље
+17-5-title: Adopt and implement investment promotion regimes for least developed countries
+17-6-title: Унаприједити сарадњу сјевер–југ, југ–југ и триангуларну регионалну и међународну сарадњу у области науке, технологије и иновација, као и приступ овим областима, и унаприједити дјељење знања према узајамно договореним условима, између осталог и кроз унапријеђену координацију у оквиру постојећих механизама, а посебно на нивоу Уједињених нација, као и кроз глобалне механизме управљања технологијама када је тако договорено
+17-7-title: Promote the development, transfer, dissemination and diffusion of environmentally
+  sound technologies to developing countries on favourable terms, including on concessional
+  and preferential terms, as mutually agreed
+17-8-title: Потпуно операционализирати технолошку банку и механизам за изградњу капацитета за науку, технологију и иновације за најмање развијене земље до 2017. године и побољшати употребу омогућавајући технологије, посебно информационе и комуникацијске технологије
+17-9-title: Повећати међународну подршку за спровођење ефикасне и циљане изградње капацитета у земљама у развоју за подршку националним плановима за примену свих циљева одрживог развоја, укључујући кроз сарадњу сјевер-југ, југ-југ и трокутну сарадњу
+2-1-title: До 2030. године окончати глад и осигурати приступ свим људима, а посебно сиромашнима и лицима у стањима рањивости, укључујући новорођенчад, да имају приступ безбедној, нутритивној и довољној исхрани током цијеле године
+2-2-title: До 2030. године окончати све облике неухрањености, укључујући постизање, до 2025. године, међународно договорених циљева који се односе на заостајање у тјелесном развоју код дјeце млађе од 5 година, и усмјерити пажњу на нутритивне потребе адолесценткиња, трудница и дојиља као и старијих лица
+2-3-title: До 2030. године удвостручити пољопривредну продуктивност и приходе малих произвођача хране, а посебно жена, старосједилачког становништва, породичних пољопривредних произвођача, сточара и рибара, укључујући кроз сигуран и једнак приступ земљишту, других производних ресурса и улагања, знања, финанцијских услуга, тржишта и могућности за остваривање додатне вриједности и запошљавање ван пољопривреде
+2-4-title: By 2030, ensure sustainable food production systems and implement resilient
+  agricultural practices that increase productivity and production, that help maintain
+  ecosystems, that strengthen capacity for aПодржатиptation to climate change, extreme weather,
+  drought, flooding and other disasters and that progressively improve land and soil
+  quality
+2-5-title: До 2020. године одржавати генетску разноликост сјемена, култивисаних билјака и узгајаних и домаћих животиња, и њихових сродних дивљих врста, укључених преко правилно вођених и разноврсних банака сјемена и биљака на националном, регионалном и међународном нивоу, те промовисати приступ и правичну и једнаку пођелу користи које произлазе из употребе генетских ресурса и сродних традиционалних знања, а према међународном договору
+2-a-title: Повећати улагања, укључена кроз појачану међународну сарадњу, у руралну инфраструктуру, пољопривредна истраживања и услуге проширења, развој технологија и банака биљног и сточног генетског материјала како би се унаприједили пољопривредни производни капацитети у земљама у развоју,  а посебно у најнеразвијенијим земљама
+2-б-title: Исправити и спријечити трговинска ограничења и деформације на свјетским пољопривредним тржиштима, укључених преко паралелних елиминисања свих врста извозних субвенција у пољопривреди и свих извозних мјера са еквивалентним ефектом, у складу са овлаштењима из „Развојне агенде из Дохе“.
+2-c-title: Усвојити мјере како би се осигурало правилно функционирање тржишта прехрамбених производа и њихових деривата и олакшао правовремени приступ тржишним информацијама, укључујући резерве хране, како би се помогло у ограничавању екстремне нестабилности цијена хране
+3-1-title: До 2030. године смањити глобалну стопу смртности код мајки на мање од 70 на 100.000 живорођених
+3-2-title: До 2030. године окончати смртне случајеве који се могу спријечити код новорођенчади и дјeце млађе од 5 година где ће све земље имати за циљ смањење неонаталне смртности на не више од 12 на 1000 живорођених и смртности деце испод 5 година на не више од 25 на 1000 живорођених
+3-3-title: До 2030. године окончати епидемије АИДС-а, туберкулозе, маларије и занемарених тропских болести и наставити борбу против хепатитиса, болести које се преносе водом и осталих заразних болести
+3-4-title: До 2030. године смањити за једну трећину број пријевремених смртних случајева од незаразних болести кроз превенцију и лијечење и промовисати ментално здравље и благостање
+3-5-title: Појачати превенцију злоупотребе супстанци и лијечење посљедица такве злоупотребе, укључујући и злоупотребу опојних дрога и штетну употребу алкохола
+3-6-title: До 2020. године преполовити број глобалних смртних случајева и повреда у саобраћајним несрећама
+3-7-title: До 2030. године обезбиједити универзални приступ услугама заштите сексуалног и репродуктивног здравља, укључујући планирање породице, информисање и образовање, те интеграцију репродуктивног здравља у националне стратегије и програме
+3-8-title: Постићи универзални обухват здравственог осигурања, укључујући заштиту од финансијског ризика, приступ квалитетним основним здравственим услугама и приступ сигурним, ефикасним, квалитетним и приступачним основним лијековима и вакцинама за све
+3-9-title: До 2030. године значајно смањити број смртних случајева и обољења од опасних хемикалија и загађења ваздуха, воде и тла и загађења
+3-a-title: Ојачати проведбу „Оквирне конвенције Свјетске здравствене организације о контроли духана“ у свим државама, по потреби
+3-b-title: Подржати истраживање и развој вакцина и лијекова за заразне и незаразне болести које првенствено погађају земље у развоју, пружити приступ приступачним основним лијековима и вакцинама, у складу с "Декларацијом из Дохе о Споразуму о трговинским аспектима права интелектуалне својине (ТРИПС) и јавном здравству", којом се потврђује право земаља у развоју да у потпуности искористе одредбе "Споразума о трговинским аспектима права интелектуалног власништва" које се односе на флексибилност у заштити јавног здравља, а посебно осигуравају приступа лијековима за све
+3-c-title: Значајно повећати финанцирање у области здравства и регрутовање, развијање, обучавање и задржавање здравствених радника у земљама у развоју, посебно у најнеразвијенијим земљама и малим острвским државама у развоју
+3-d-title: Ојачати капацитете свих земаља, а посебно земаља у развоју, за рано упозоравање, смањивање ризика и управљање националним и глобалним здравственим ризицима
+4-1-title: До 2030. године обезбиједити да све дјевојице и дјeцаци заврше бесплатно, једнако и квалитетно основно и средње образовање које води према релевантним и ефикасним резултатима учења
+4-2-title: До 2030. године осигурати да све дјевојице и дјeцаци имају приступ квалитетном развоју у раном дјетињству, бризи и предшколском образовању како би били спремни за основно образовање
+4-3-title: До 2030. године осигурати једнак приступ свим женама и мушкарцима приступачном, квалитетном техничком, стручном и терцијарном образовању, укључујући универзитет
+4-4-title: До 2030. године знатно повећати број младих и одраслих који имају релевантне вјештине, укључујући техничке и стручне вјештине, за запошљавање, достојне послове и предузетништво
+4-5-title: До 2030. године елиминисати родну неједнакост у образовању и осигурати једнак приступ свим нивоима образовања и стручним обукама за рањиве групе, укључујући особе са инвалидитетом, старосједилачко становништво и дјецу у рањивим ситуацијама
+4-6-title: До 2030. године осигурати да сви млади и значајан удио одраслих, и мушкараца и жена, постигну писменост и рачунање
+4-7-title: By 2030, ensure that all learners acquire the knowledge and skills needed
+  to promote sustainable development, including, among others, through education for
+  sustainable development and sustainable lifestyles, human rights, gender equality,
+  promotion of a culture of peace and non-violence, global citizenship and appreciation
+  of cultural diversity and of culture’s contribution to sustainable development
+4-a-title: Изградити и надоградити образовне установе које су прилагођени дјеци, особама са инвалидитетом и родим разликама, и пружају сигурно, ненасилно, инклузивно и ефикасно окружење за учење за све
+4-b-title: До 2020. године значајно проширити глобални број стипендија доступних земљама у развоју, посебно најмање развијеним земљама, малим острвским државама у развоју и афричким земљама за упис у високо образовање, укључујући стручно оспособљавање информационе и комуникационе технологијe, техничке, инжењерске и научне програме, у развијеним земљама и другим земљама у развоју
+4-c-title: До 2030. године знатно повећати број квалификованих учитеља, укључујући путем међународне сарадње за образовање учитеља у земљама у развоју, посебно најмање развијеним земљама и малим острвским државама у развоју 
+5-1-title: Окончати свуда све облике дискриминације против жена и дјевојчица
+5-2-title: Елиминирати све облике насиља над свим женама и дјевојчицама у јавној и приватној сфери, укључујући трговину људима и сексуалне и друге облике експлоатације
+5-3-title: Елиминисати све штетне праксе као што су дјечији, рани и насилни бракови и обрезивање женских гениталија
+5-4-title: Препознати и вредновати неплаћено старање и рад у домаћинству кроз обезбјеђивање јавних услуга, инфраструктуре и политике социјалне заштите те кроз промовисање заједничке одговорности у домаћинству и породици као национално прикладним
+5-5-title: Осигурати женама пуно и ефикасно учешће и једнаке могућности за вођство на свим нивоима одлучивања у политичком, економском и јавном животу
+5-6-title: Осигурати универзални приступ полном и репродуктивном здрављу и репродуктивним правима како је договорено у складу с Програмом акције Међународне конференције о становништву и развоју“ и „Пекиншком платформом за акцију“, и исходним документима њихових ревизијских конференција 
+5-a-title: Провести реформе како би жене добиле једнака права на економске ресурсе, као и приступ власништву и контроли над земљиштем и осталим облицима власништва, финансијским услугама, насљедству и природним ресурсима, у складу са националним законима
+5-b-title: Повећати употребу иновативних технологија, посебно информационе и комуникационе технологије, ради промовисања оснаживања жена
+5-c-title: Усвојити и оснажити добре политике и извршно законодавство за промовисање родне равноправности и оснаживања свих жена и дјевојчица на свим нивоима
+6-1-title: До 2030. године постићи универзални и праведан приступ безбиједној и приступачној питкој води за све
+6-2-title: До  2030. године постићи адекватан и једнак приступ санитарним и хигијенским условима за све, као и окончање праксе обављања дефекације на отвореном, уз обраћање посебне пажње на потребе жена и дјевојчица, односно оних у рањивим ситуацијама
+6-3-title: До 2030. године побољшати квалитет воде смањењем загађења, елиминацијом одлагања и смањењем испуштања опасних хемикалија и материјала, преполовити удио непрочишћених отпадних вода и знатно повећати рециклирање и безбједну поновну употребу на глобалном нивоу
+6-4-title: До 2030. године битно повећати ефикасност коришћења воде у свим секторима и осигурати одрживу експлоатацију воде и снабдјевање водом како би се одговорило на несташицу воде и у знатној мјери смањио број људи који се суочавају са несташицом воде
+6-5-title: До 2030. године примјенити интегрисано управљање водним ресурсима на свим нивоима, укључујући и кроз прекограничну сарадњу, ако је то потребно
+6-6-title: До 2020. године заштитити и обновити екосистеме повезане с водом, укључујући планине, шуме, мочваре, ријеке, водоноснике и језера
+6-a-title: До 2030. године проширити међународну сарадњу са земљама у развоју и подршку тим земљама у стварању капацитета за активности и програме везане за воду и санитарне услове, укључујући прикупљање воде, десалинацију, ефикасно коришћење воде, третман отпадних вода, рециклирање и технологије поновне употребе воде
+6-b-title: Подржати и ојачати учешће локалних заједница у унапређивању управљања водом и санитарним условима
+7-1-title: До 2030. године осигурати приступ материјално приступачним, поузданим, одрживим и модерним енергетским услугама
+7-2-title: До 2030. године повећати одрживост удјела обновљиве енергије у глобалном енергетском миксу
+7-3-title: До 2030. године удвостручити глобалну стопу унапређења енергетске ефикасности
+7-a-title: До 2030. године унаприједити међународну сарадњу како би се олакшао приступ истраживању и технологији чисте енергије, укључујући обновљиву енергију, енергетску ефикасност и напредну и чистију технологију фосилних горива, и промовисати инвестирање у енергетску инфраструктуру и технологију чисте енергије
+7-b-title: До 2030. године проширити инфраструктуру и унаприједити технологију за снабдјевање свих корисника услугама модерне и одрживе енергије у земљама у развоју, а посебно у најнеразвијенијим земљама и малим острвским државама у развоју
+8-1-title: Одржати економски раст по глави становника у складу са националним околностима, а посебно у најнеразвијенијим земљама одржати раст бруто домаћег производа на нивоу од најмање 7 одсто годишње
+8-10-title: Ојачати капацитете домаћих финансијских институција како би се подстицала и ширила доступност банкарских, осигуравајућих и финансијских услуга за све
+8-2-title: Постићи више нивое економске продуктивности преко диверсификације, технолошких унапређења и иновација, између осталог и фокусирајући се на радно интензивне и високо профитабилне секторе
+8-3-title: Промовисати развојно оријентисане политике које подржавају производне активности, стварање пристојних послова, предузетништво, креативност и иновативност и подстицати формално оснивање и раст микропредузећа, односно малих и средњих предузећа, између осталог и кроз приступ финансијским услугама
+8-4-title: Прогресивно унаприједити, до 2030. године, глобалну ефикасност ресурса у потрошњи и производњи и уложити напоре да се економски раст раздвоји од деградације животне средине у складу са 10-годишњим оквиром "Програма о одрживој потрошњи и производњи", уз водећу улогу развијених земаља
+8-5-title: До 2030. године постићи пуну и продуктивну запосленост и достојанствен рад за све жене и мушкарце, што обухвата и млађе људе и особе са инвалидитетом, као и исту плату за рад једнаке вриједности
+8-6-title: By 2020, substantially reduce the proportion of youth not in employment, education or training
+8-7-title: Предузети тренутне и ефикасне мјере за искорјењивање присилног рада, окончање модерног ропства и трговине људима и осигурати забрану и елиминисати најгоре облике дјечијег рада, укључујући регрутовање и употребу дјeце војника, и до 2025. године дјечији рад у свим облицима
+8-8-title: Заштитити радна права и промовисати безбједно и сигурно радно окружење за све раднике, укључујући раднике мигранте, а посебно жене мигранте, и оне који раде опасне послове
+8-9-title: До 2030. године осмислити и имплементирати политике за промовисање одрживог туризма који ствара радна мјеста и промовише локалну културу и производе
+8-a-title: Повећати подршку на основу „Помоћи за трговину“ за земље у развоју, посебно за најнеразвијеније земље, укључујући и „Побољшани интегрирани оквир за трговинску техничку помоћ најмање развијеним земљама“. 
+8-b-title: До 2020. године развити и операционализовати глобалну стратегију за запошљавање младих и примјенити „Глобални пакт о запошљавању“ Међународне организације рада
+9-1-title: Развити квалитетну, поуздану, одрживу и прилагодљиву инфраструктуру, укључујући регионалну и међуграничну инфраструктуру, како би се подржали економски развој и људско благостање, са фокусом на јефтином и једнаком приступу за све
+9-2-title: Промовисати инклузивну и одрживу индустријализацију и, до 2030. године, значајно повећати удио индустрије у стопи запослености и бруто домаћем производу, у складу са националним околностима, а у најнеразвијенијим земљама удвостручити њен удио
+9-3-title: Повећати приступ малих индустријских и осталих предузећа финанцијским услугама, посебно у земљама у развоју, што обухвата и повољне кредите, и повећати њихову интеграцију у ланце вриједности и тржишта
+9-4-title: До 2030. године унаприједити инфраструктуру и прилагодити индустрије како би постале одрживе, уз већу ефикасност у коришћењу ресурса и шире усвајање чистих и еколошки исправних технологија и индустријских процеса, са свим земљама које подузимају акције у складу са својим могућностима
+9-5-title: Проширити научна истраживања, унаприједити технолошке капацитете индустријских сектора у свим земљама, а посебно у земљама у развоју, што подразумјева да се, до 2030. године подстичу иновације и да се број запослених у области истраживања и развоја на милион људи знатно повећа, као и да се повећа јавна и приватна потрошња на истраживање и развој
+9-a-title: Олакшати развој одрживе и прилагодљиве инфраструктуре у земљама у развоју кроз унапређивање финанцијске, технолошке и техничке подршке афричким земљама, најнеразвијенијим земљама, земљама у развоју које немају излаз на море и малим острвским државама у развоју
+9-b-title: Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities
+9-c-title: Значајно повећати приступ информацијској и комуникацијској технологији и тежити пружању универзалног и приступачног приступа интернету у најмање развијеним земљама до 2020. године
