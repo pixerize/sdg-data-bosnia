@@ -1,8 +1,6 @@
-instructions: Click on each goal, or %before_link search, %after_link
-  for %name statistics for Sustainable Development Goal global
-  indicators.
-heading: "%name data for Sustainable Development Goal indicators"
-download_all: Download all data
-zip_file: ZIP file
-intro_title: 17 goals to transform our world
-intro_body: The <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E">2030 Agenda for Sustainable Development</a>.
+instructions: Кликните на сваки циљ, или %before_link претрага, %after_link за %name статистику глобалних индикатора одрживих циљева.
+heading: "%name подаци за индикаторе циљева одрживог развоја"
+download_all: Преузми све податке
+zip_file: ZIP датотека
+intro_title: 17 циљева за трансформацију нашег свијета
+intro_body: Циљеви одрживог развоја универзални су позив за борбу против сиромаштва, заштиту планете и побољшање живота и изгледа за свакога, свуда. 17 циљева усвојиле су све државе чланице УН-а 2015. године, као дио Агенде за одрживи развој до 2030. године.
