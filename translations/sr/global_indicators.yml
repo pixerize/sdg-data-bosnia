@@ -3,9 +3,7 @@
 1-2-2-title: Удио мушкараца, жена и ђеце свих добних скупина који живе у сиромаштву у свим његовим димензијама према националним дефиницијама
 1-3-1-title: Проценат становништва покривених системима социјалне заштите, по полу, разликовању ђеце, незапослених лица, старијих особа, особа са инвалидитетом, трудница, новорођенчади, жртава повреде на раду и сиромашних и рањивих
 1-4-1-title: Удио становништва који живе у домаћинствима са приступом основним услугама
-1-4-2-title: Proportion of total adult population with secure tenure rights to land,
-  with legally recognized documentation, and who perceive their rights to land as
-  secure, by sex and by type of tenure
+1-4-2-title: Удио укупне популације одраслих особа које имају сигурна земљишна права, (а) са законски признатом документацијом, и (б) који сматрају да су њихова земљишна права сигурна, по сполу и врсти права на земљи
 1-5-1-title: Број смрти, несталих особа и директно погођених лица приписаних катастрофама на 100.000 становника
 1-5-2-title: Директни економски губитак узрокован несрећама у односу на глобални бруто домаћи производ (БДП)
 1-5-3-title: Број земаља које усвајају и имплементирају националне стратегије за смањење ризика од катастрофа у складу са Сендаи Оквиром за смањење ризика од катастрофа 2015-2030
@@ -14,16 +12,14 @@
 1-a-2-title: Удио укупне државне потрошње на основне услуге (образовање, здравство и социјална заштита)
 1-a-3-title: Sum of total grants and non-debt-creating inflows directly allocated
   to poverty reduction programmes as a proportion of GDP
-1-b-1-title: Proportion of government recurrent and capital spending to sectors that
-  disproportionately benefit women, the poor and vulnerable groups
+1-b-1-title: Јавна социјална потрошња у корист сиромашних
 10-1-1-title: Стопа раста потрошње домаћинстава или прихода по глави становника међу доњих 40 посто становништва и укупном становништву
 10-2-1-title: Удио људи који живе испод 50 процената средње вриједности прихода, по полу, старости и особама са инвалидитетом
 10-3-1-title: Удио становништва које је пријавило да се лично осјећа дискриминираним или малтретираним у претходних 12 мјесеци на основу дискриминације забрањене међународним људским правима
 10-4-1-title: Удио радне снаге у БДП-у
 10-5-1-title: Индикатори финансијске стабилности
 10-6-1-title: Удио чланова и права гласа земаља у развоју у међународним организацијама
-10-7-1-title: Recruitment cost borne by employee as a proportion of yearly income
-  earned in country of destination
+10-7-1-title: RТрошкови запошљавања које сносе запослени у односу на годишњи приход остварен у земљи одредишта
 10-7-2-title: Број земаља с миграцијским политикама које омогућавају уређену, сигурну, редовну и одговорну миграцију и мобилност људи 
 10-7-3-title: Број људи који су умрли или нестали у процесу миграције према међународној дестинацији
 10-7-4-title: Удио становништва избјеглица, према земљи поријекла
@@ -31,30 +27,20 @@
 10-b-1-title: Укупни токови ресурса за развој, према земљама примаоцима и земљама донаторима и врста тока (нпр. званична развојна помоћ, стране директне инвестиције и други токови)
 10-c-1-title: Трошкови дознака као пропорција дозначеног износа
 11-1-1-title: Удио урбане популације која живи у неформалним насељима или имају неадекватне услове становања
-11-2-1-title: Proportion of population that has convenient access to public transport,
-  by sex, age and persons with disabilities
-11-3-1-title: Ratio of land consumption rate to population growth rate
-11-3-2-title: Proportion of cities with a direct participation structure of civil
-  society in urban planning and management that operate regularly and democratically
-11-4-1-title: Total expenditure (public and private) per capita spent on the preservation,
-  protection and conservation of all cultural and natural heritage, by type of heritage
-  (cultural, natural, mixed and World Heritage Centre designation), level of government
-  (national, regional and local/municipal), type of expenditure (operating expenditure/investment)
-  and type of private funding (donations in kind, private non-profit sector and sponsorship)
+11-2-1-title: Удио становништва које има одговарајући приступ +Б171 јавном саобраћају, по полу, старости и инвалидитету
+11-3-1-title: Коефицијент стопе кориштења земљишта у односу на стопу раста становништва
+11-3-2-title: Удио градова са структуром директног учешћа цивилних друштава у урбанистичком планирању и управљању које функционишу редовно и на демократски начин
+11-4-1-title: Укупни издаци по глави становника за очување, заштиту и конзервацију цјелокупне културне и природне баштине, по врстама, врсти наслијеђа и нивоу управљања (национални, регионални и локални/опћински)
 11-5-1-title: Број умрлих, несталих особа и директно погођених лица узрокован катастрофама на 100.000 становника
 11-5-2-title: Непосредни економски губици у односу на глобални БДП, оштећења критичне инфраструктуре и број прекида основне услуге, узроковано катастрофама
 11-6-1-title: Удио сакупљеног урбаног отпадаса адекватним финалним одлагањем у односу на укупни урбани чврсти отпад, по градовима
 11-6-2-title: Годишњи средњи нивои финих честица (нпр. PM2.5 и PM10) у градовима (пондерисана популација)
-11-7-1-title: Average share of the built-up area of cities that is open space for
-  public use for all, by sex, age and persons with disabilities
-11-7-2-title: Proportion of persons victim of physical or sexual harassment, by sex,
-  age, disability status and place of occurrence, in the previous 12 months
+11-7-1-title: Просјечан удио отворених јавних површина у изграђеним површинама градова, према сполу, старости и инвалидитету
+11-7-2-title: Удио особа које су жртве физичког или сексуалног узнемиравања, по сполу, старости, инвалидитету, и мјесту дешавања, током претходних 12 мјесеци
 11-a-1-title: Број земаља које имају националне урбане политике или планове регионалног развоја који (а) одговарају на динамику становништва; (б) осигуравају уравнотежен територијални развој; и (ц) повећава локални фискални простор
 11-b-1-title: Број земаља које усвајају и имплементирају националне стратегије за смањење ризика од катастрофа у складу са Сендаи Оквиром за смањење ризика од катастрофа 2015-2030
 11-b-2-title: Удио локалних самоуправа које усвајају и спроведе стратегије за смањење ризика од катастрофа у складу са националним стратегијама за смањење ризика од катастрофа
-11-c-1-title: Proportion of financial support to the least developed countries that
-  is allocated to the construction and retrofitting of sustainable, resilient and
-  resource-efficient buildings utilizing local materials
+11-c-1-title: Тренутно нису доступни подаци за овај показатељ и његова методологија је још увијек у фази израде
 12-1-1-title: Број земаља које развијају, које усвајају или проводе инструменте политике усмјерене на подржавање преласка на одрживу потрошњу и производњу
 12-2-1-title: Материјални отисак, материјални отисак по глави становника и материјални отисак по БДП-у
 12-2-2-title: Потрошња домаћег материјала, потрошња домаћег материјала по глави становника и потрошња домаћег материјала по БДП-у
@@ -62,40 +48,24 @@
 12-4-1-title: Број страна међународних околишних мултилатералних споразума о опасном отпаду и другим хемикалијама које испуњавају своје обавезе и обавезе у преносу информација како то захтијева сваки релевантни споразум
 12-4-2-title: (а) опасни отпад створен по становнику; и (б) удио третираног опасног отпада према врсти обраде
 12-5-1-title: Национална стопа рециклирања, тоне рециклираног материјала
-12-6-1-title: Number of companies publishing sustainability reports
-12-7-1-title: Number of countries implementing sustainable public procurement policies
-  and action plans
-12-8-1-title: Extent to which (i) global citizenship education and (ii) education
-  for sustainable development (including climate change education) are mainstreamed
-  in (a) national education policies; (b) curricula; (c) teacher education; and (d)
-  student assessment
+12-6-1-title: Број компанија које објављују извјештаје о одрживости
+12-7-1-title: Степен одрживих политика јавних набавки и имплементације акционог плана
+12-8-1-title: Мјера у којој су на свим нивоима интегрисани образовање за (и) припадност глобалној заједници и (ии) одрживи развој, укључујући и родну равноправност и људска права на свим нивоима - (а) националних образовних политика; (б) курикулума; (ц) образовања наставника; и (д) процјене ученика и студената
 12-a-1-title: Инсталирани капацитети за производњу обновљивих извора енергије у земљама у развоју (у ватима по становнику)
 12-b-1-title: Број стратегија или политика одрживог туризма и иимплементираних акционих планова са договореним алатима за праћење и евалуацију
 12-c-1-title: (а) износ субвенција за фосилна горива као проценат БДП-а; и (б) износ субвенција за фосилна горива као удио у укупним националним издацима за фосилна горива
 13-1-1-title: Број умрлих, несталих особа и директно погођених лица узрокованих катастрофама на 100.000 становника
 13-1-2-title: Број земаља које усвајају и проводе националне стратегије за смањење ризика од катастрофа у складу са Сендаи оквиром за смањење ризика од катастрофа 2015-2030
 13-1-3-title: Удио локалних самоуправа које усвајају и спроводе стратегије за смањење ризика од катастрофа у складу са националним стратегијама за смањење ризика од катастрофа
-13-2-1-title: Number of countries that have communicated the establishment or operationalization
-  of an integrated policy/strategy/plan which increases their ability to adapt to
-  the adverse impacts of climate change, and foster climate resilience and low greenhouse
-  gas emissions development in a manner that does not threaten food production (including
-  a national adaptation plan, nationally determined contribution, national communication,
-  biennial update report or other)
-13-3-1-title: Number of countries that have integrated mitigation, adaptation, impact
-  reduction and early warning into primary, secondary and tertiary curricula
+13-2-1-title: Број земаља с утврђеним националним доприносима, дугорочним стратегијама, националним плановима адаптације, стратегијама како је пријављено у комуникацијама о прилагодби и националним комуникацијама
+13-3-1-title: Број земаља које су интегрисале питања (и) образовања глобалног грађанства и (ии) образовања за одрживи развој интегрирано је у (а) националне образовне политике; (б) наставне програме; (ц) образовање наставника; и (д) оцјењивање ученика
 13-3-2-title: Number of countries that have communicated the strengthening of institutional,
   systemic and individual capacity-building to implement adaptation, mitigation and
   technology transfer, and development actions
-13-a-1-title: Mobilized amount of United States dollars per year between 2020 and
-  2025 accountable towards the $100 billion commitment
-13-b-1-title: Number of least developed countries and small island developing States
-  that are receiving specialized support, and amount of support, including finance,
-  technology and capacity-building, for mechanisms for raising capacities for effective
-  climate change-related planning and management, including focusing on women, youth
-  and local and marginalized communities
+13-a-1-title: Износ осигураних и мобилисаних америчких долара годишње у односу на настављени постојећи колективни циљ мобилизације од 100 милијарди долара преузетих обавеза до 2025. године
+13-b-1-title: Број најнеразвијенијих земаља и малих острвских земаља у развоју с утврђеним националним доприносима дугорочним стратегијама, националним плановима адаптације, стратегијама како је наведено у комуникацијским адаптацијама и националним комуникацијама
 14-1-1-title: (а) индекс еутрофикације обале; и (б) густине пластичног отпада
-14-2-1-title: Proportion of national exclusive economic zones managed using ecosystem-based
-  approaches
+14-2-1-title: Број земаља које користе приступе засноване на екосистемима у управљању морским подручјима
 14-3-1-title: Просјечна поморска киселина (pH) мјерена на договореном пакету репрезентативних станица за узорковањa
 14-4-1-title: Удио рибљег фонда на биолошки одрживим нивоима
 14-5-1-title: Покривеност заштићених подручја у односу на морска подручја
@@ -103,11 +73,7 @@
 14-7-1-title: Одржив риболов као проценат БДП-а у малим острвским државама у развоју, најмање развијеним земљама и свим земљама
 14-a-1-title: Удио укупног истраживачког буџета намјењеног истраживањима у области поморске технологије
 14-b-1-title: Напредак земаља у степену примјене правног/регулаторног /политичког/институционалног оквира који препознаје и штити приступна права за мала рибарство
-14-c-1-title: Number of countries making progress in ratifying, accepting and implementing
-  through legal, policy and institutional frameworks, ocean-related instruments that
-  implement international law, as reflected in the United Nations Convention on the
-  Law of the Sea, for the conservation and sustainable use of the oceans and their
-  resources
+14-c-1-title: Број земаља које остварују напредак у ратификацији, прихватању и провођењу, кроз законске, политичке, и институционалне оквире, инструмената који се односе на океане а служе провођењу међународног права, онако како то предвиђа Конвенција Уједињених нација о поморском праву, за очување и одрживу употребу океана и њихових ресурса
 15-1-1-title: Подручје шума као удио укупне површине земљишта
 15-1-2-title: Удио важних локација за копнени и слатководни биодиверзитет који покривају заштићена подручја, према типу екосистема
 15-2-1-title: Напредак ка одрживом управљању шумама
@@ -116,12 +82,12 @@
 15-4-2-title: Индекс зеленог покривача
 15-5-1-title: Индекс црвене листе
 15-6-1-title: Број земаља које су усвојиле законске, административне и политичке оквире како би се осигурала правична и равноправна пођела накнада
-15-7-1-title: Proportion of traded wildlife that was poached or illicitly trafficked
+15-7-1-title: Удио дивлјих врста којима се тргује, а које потичу из криволова или незаконите трговине
 15-8-1-title: Удио земаља које усвајају у национално законодавство и адекватно обезбеђују средства за превенцију или контролу инвазивних врста
 15-9-1-title: (а) Број земаља које су утврдиле националне циљеве у складу са или сличне циљу 2 Аицхи биодиверзитета Стратешком Плана за биолошку разноликост 2011-2020 у својој националној стратегији и акционим плановима за биолошку разноликост и извјештавању о напретку према тим циљевима; и (б) интеграција биодиверзитета у националне системе рачуноводства и извјештавања, дефинисаних као имплементација Система еколошко-економског рачуноводства
 15-a-1-title: а) Службена развојна помоћ за очување и одрживу употребу биодиверзитета; и (б) приход и финансирање мобилизирано од економских инструмената битних за биолошку разноликост
 15-b-1-title: Службена развојна помоћ и јавни издаци за очување и одрживо кориштење биодиверзитета и екосистема
-15-c-1-title: Proportion of traded wildlife that was poached or illicitly trafficked
+15-c-1-title: Удио дивљих врста којима се тргује, а које потичу из криволова или незаконите трговине
 16-1-1-title: Број жртава убистава с намјером на 100.000 становника, према полу и старости
 16-1-2-title: Умрли повезане са сукобима на 100.000 становника, према полу, старости и узроку
 16-1-3-title: Удио становништва изложеног (а) физичком насиљу, (б) психичком насиљу и (ц) сексуалном насиљу у претходних 12 мјесеци
@@ -133,19 +99,14 @@
 16-2-3-title: Удио младих жена и мушкараца у доби од 18-29 година који су искусили сексуално насиље до 18 година
 16-3-1-title: Удио жртава насиља у задњих 12 мјесеци који су насиље пријавили надлежним органима или другим званично признатим механизмима за рјешавање сукоба
 16-3-2-title: Неосуђени притвореници као удио у укупној затворској популацији
-16-4-1-title: Total value of inward and outward illicit financial flows (in current
-  United States dollars)
-16-4-2-title: Proportion of seized, found or surrendered arms whose illicit origin
-  or context has been traced or established by a competent authority in line with
-  international instruments
+16-4-1-title: Укупна вриједност долазних и одлазних незаконитих финансијских токова (у текућој вриједности USD)
+16-4-2-title: Удио заплијењеног, пронађеног и предатог ватреног оружја за које су надлежни органи утврдили незаконито порекло или контекст у складу са међународним инструментима
 16-5-1-title: Удио особа које су имале најмање један контакт са државним службеником и које су платиле мито државном службенику или су им државни службеници тражили мито током претходних 12 мјесеци
 16-5-2-title: Удио предузећа која су имала најмање један контакт са државним службеником и која су платила мито државном службенику или су им државни службеници тражили мито током претходних 12 мјесеци
 16-6-1-title: Примарни државни расходи као дио првобитног одобреног буџета, по секторима (или по буџетским кодовима или слично) 
-16-6-2-title: Proportion of population satisfied with their last experience of public
-  services
+16-6-2-title: Удио становништва задовољног својим посљедњим искуством у пружању јавних услуга
 16-7-1-title: Удио положаја у националним и локалним институцијама, укључујући (а) законодавна тијела; (б) јавну службу; и (ц) правосуђе, у поређењу са националним дистрибуцијама, према полу, старости, особама са инвалидитетом и групама становништва
-16-7-2-title: Proportion of population who believe decision-making is inclusive and
-  responsive, by sex, age, disability and population group
+16-7-2-title: Удио становништва који вјерује да је доношење одлука инклузивно и одговара на потребе, по полу, старости, инвалидитету или популационим групама
 16-8-1-title: Удио чланова и права гласа земаља у развоју у међународним организацијама
 16-9-1-title: Удио дјеце млађе од 5 година чија су рођења регистрована у цивилним органима, према старосној доби
 16-a-1-title: Постојање независних националних институција за људска права у складу са Паришким принципима
@@ -154,33 +115,25 @@
 17-1-2-title: Удио домаћег буџета који се финансира из домаћих пореза
 17-10-1-title: Svetski ponderirani carinski prosjek
 17-11-1-title: Udio zemalja u razvoju i najmanje razvijenih zemalja u globalnom izvozu
-17-12-1-title: Average tariffs faced by developing countries, least developed countries
-  and small island developing States
-17-13-1-title: Macroeconomic Dashboard
-17-14-1-title: Number of countries with mechanisms in place to enhance policy coherence
-  of sustainable development
+17-12-1-title: Просјечне царине с којима се суочавају земље у развоју, најнеразвијеније земље, и мале острвске земље у развоју
+17-13-1-title: Главни макроекономски показатељи
+17-14-1-title: Број земаља које имају   механизме за унапређење кохерентности мјера политике за одрживи развој
 17-15-1-title: Obim korišćenja okvira državnih rezultata i planiranih alata od strane pružalaca razvojne saradnje
 17-16-1-title: Broj zemalja koje prijavljuju napredak u višekorisničkom razvoju efektivnosti koji podržavaju postizanje ciljeva održivog razvoja
-17-17-1-title: Amount of United States dollars committed to public-private and civil
-  society partnerships
-17-18-1-title: Proportion of sustainable development indicators produced at the national
-  level with full disaggregation when relevant to the target, in accordance with the
-  Fundamental Principles of Official Statistics
+17-17-1-title: Износ у америчким доларима опредијељен јавно-приватном партнерству за инфраструктуру
+17-18-1-title: Индикатор статистичких капацитета за праћење циљева одрживог развоја
 17-18-2-title: Broj zemalja koje imaju nacionalno statističko zakonodavstvo koje je u skladu sa Osnovnim principima zvanične statistike
 17-18-3-title: Broj zemalja sa nacionalnim statističkim planom koji je u potpunosti finansiran i koji se implementira prema izvorima finansiranja
 17-19-1-title: Dolarska vrijednost svih izvora sredstava dostupnih za jačanje statističkih kapaciteta u zemljama razvoja
-17-19-2-title: 'Procenat zemalja koje su: (a) provele najmanje jedan popis stanovništva i stanova u posljednjih 10 godina; i (b) postigli 100 procenata registracije rođenih i 80 procenata smrti'
+17-19-2-title: Procenat zemalja koje su - (a) provele najmanje jedan popis stanovništva i stanova u posljednjih 10 godina; i (b) postigli 100 procenata registracije rođenih i 80 procenata smrti'
 17-2-1-title: Нето званична развојна помоћ, укупно и најмање развијеним земљама, као дио Организације за економску сарадњу и развој (OECD) помоћи Комитета за развојну помоћбруто националног доходка донатора (GNI)
 17-3-1-title: Директна страна улагања, службена развојна помоћ и сарадња југ-југ као удио у бруто националном дохотку
 17-3-2-title: Обим дознака (у америчким доларима) као удио у укупном БДП-у
 17-4-1-title: Сервис дуга као дио извоза роба и услуга
-17-5-1-title: Number of countries that adopt and implement investment promotion regimes
-  for least developed countries
+17-5-1-title: Број земаља које усвајају и проводе режиме промоције инвестиција за земље у развоју, укључујући и најмање развијене земље
 17-6-1-title: Pretplata na fiksni internet širokopojasnog pristupa na 100 stanovnika, brzinom
 17-6-2-title: Fixed Internet broadband subscriptions per 100 inhabitants, by speed
-17-7-1-title: Total amount of approved funding for developing countries to promote
-  the development, transfer, dissemination and diffusion of environmentally sound
-  technologies
+17-7-1-title: Укупан износ одобреног финансирања за земље у развоју за промовисање, пријенос и ширење еколошки прихватљивих технологија
 17-8-1-title: Udio pojedinaca koji koriste internet
 17-9-1-title: Vrijednost finansijske i tehničke pomoći u dolarima (uključujući kroz sjever-jug, jug-jug i trouglastu saradnju) posvećena zemljama u razvoju
 2-1-1-title: Распрострањеност подхрањености
@@ -189,7 +142,7 @@
 2-2-2-title: Распрострањеност потхрањености (тежина према висини >+2 или <-2 стандардне девијације од средње вриједности (WHO) Стандарда раста ђеце, међу ђецом млађом од 5 година, према врсти (мршатост и прекомјерна тежина)
 2-3-1-title: Обим производње по јединици радне снаге према класама величине пољопривредног/шумарског предузећа
 2-3-2-title: Просјечни приходи малих произвођача хране, према полу и староседелачком статусу
-2-4-1-title: Proportion of agricultural area under productive and sustainable agriculture
+2-4-1-title: Удио пољопривредног земљишта под продуктивном и одрживом пољопривредном дјелатношћу
 2-5-1-title: Број биљних и животињских генетичких ресурса за храну и пољопривреду осигураних у средњорочним или дугорочним конзерваторским објектима
 2-5-2-title: Удио локалних сорти класифицираних као у опасности од изумирања
 2-a-1-title: Индекс пољопривредне оријентације за државне расходе
@@ -220,8 +173,7 @@
 3-a-1-title: Старосна стандардизирана распрострањеност тренутне употребе духана међу особама од 15 година и више
 3-b-1-title: Удио циљане популације обухваћене свим вакцинама укључених у националним програма
 3-b-2-title: Укупна нето службена развојна помоћ медицинским истраживањима и основним здравственим секторима
-3-b-3-title: Proportion of health facilities that have a core set of relevant essential
-  medicines available and affordable on a sustainable basis
+3-b-3-title: Удио здравствених установа које имају основни пакет релевантних есенцијалних лијекова који су приуштиви и доступни на одрживој основи
 3-c-1-title: Густина и дистрибуција здравствених радника
 3-d-1-title: Капацитет међународних здравствених прописа (ИХР) и спремност за хитне случајеве у здравству
 3-d-2-title: Проценат инфекција крвотока због одабраних организама отпорних на антимикробне болести
@@ -233,18 +185,13 @@
 4-4-1-title: Удио младих и одраслих са вјештинама информационих и комуникационих технологија (ИКТ), према врсти вјештине
 4-5-1-title: Индекси паритета (женске/мушкарци, рурална/урбана, најнижи/највиши квинтил богатства и други као што су статус инвалидности, аутохтони народи и погођени сукобима, када подаци постану доступни) за све индикаторе образовања на овој листи који могу бити разврстани
 4-6-1-title: Удио становништва у датој старосној групи која постиже најмање фиксни ниво знања у функционалним вјештинама (а) писмености и (б) рачунања, према полу
-4-7-1-title: Extent to which (i) global citizenship education and (ii) education for
-  sustainable development, including gender equality and human rights, are mainstreamed
-  at all levels in (a) national education policies; (b) curricula; (c) teacher education;
-  and (d) student assessment
+4-7-1-title: Мјера у којој су на свим нивоима интегрисани образовање за (и) припадност глобалној заједници и (ии) одрживи развој, укључујући и родну равноправност и људска права на свим нивоима - (а) националних образовних политика; (б) курикулума; (ц) образовања наставника; и (д) процјене ученика и студената
 4-a-1-title: Удио школа које нуде основне услуге, према врсти услуге
 4-b-1-title: Oбим службене развојне помоћи за стипендије по секторима и врстама студија
 4-c-1-title: Пропорција учитеља са минимално потребним квалификацијама, према нивоу образовања
 5-1-1-title: Постојали или не законски оквири су за промоцију, провођење и надгледање једнакост и недискриминацију на основу пола
 5-2-1-title: Удио жена и ђевојчицама у партнерству доби од 15 и више година које су подвргнуте физичком, сексуалном или психичком насиљу тренутног или бившег интимног партнера у претходних 12 мјесеци, по облику насиља и старости
-5-2-2-title: Proportion of women and girls aged 15 years and older subjected to sexual
-  violence by persons other than an intimate partner in the previous 12 months, by
-  age and place of occurrence
+5-2-2-title: Удио жена и ђевојчица старости 15 година и више које су биле изложене сексуалном насиљу од стране особа које нису њихов блиски партнер током протеклих 12 мјесеци, по старости и мјесту дешавања
 5-3-1-title: Удио жена старости од 20-24 године које су биле у браку или у заједници прије 15 и прије 18 година старости
 5-3-2-title: Удио ђевојчица и жена у доби од 15 до 49 година која су подвргнуте резању женских гениталија, према старости
 5-4-1-title: Удио времена проведеног на неплаћеном раду у домаћинству и његоватељском раду, према полу, старости и локацији
@@ -287,8 +234,7 @@
 8-8-1-title: Фаталне и нефаталне повреде на раду на 100.000 радника, према полу и мигрантском статусу
 8-8-2-title: Ниво националне усклађености радних права (слобода удруживања и колективног преговарања) на основу текстуалних извора Међународне организације рада (ИЛО) и националног законодавства, према полу и статусу миграната
 8-9-1-title: Туризам директног БДП-а као проценат укупног БДП-а и стопе раста
-8-9-2-title: Proportion of jobs in sustainable tourism industries out of total tourism
-  jobs
+8-9-2-title: Proportion of jobs in sustainable tourism industries out of total tourism  jobs
 8-a-1-title: Pomoћ за трговинске обавезе и исплате
 8-b-1-title: Постојање развијене и операционализоване националне стратегије за запошљавање младих, као посебна стратегија или као дио националне стратегије запошљавања
 9-1-1-title: Удио руралног становништва које живи на удаљености од 2 км од цјелогодишње цесте
