@@ -5,6 +5,6 @@ graph_type: line
 indicator_name: global_indicators.18-c-3-title
 standalone: true
 reporting_status: complete
-permalink: covid-19-impact/export-imports
+permalink: covid-19-impact/bih-export-imports
 national_geographical_coverage: National
 ---
