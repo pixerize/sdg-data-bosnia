@@ -1,5 +1,5 @@
-Month,Type,Value
-january,VAT,102.68
-january,Customs,102.24
-february,VAT,108.04
-february,Customs,109
+Year,Month,Type,Value
+2020,january,VAT,102.68
+2020,january,Customs,102.24
+2020,february,VAT,108.04
+2020,february,Customs,109
