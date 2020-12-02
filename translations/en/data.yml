@@ -5,3 +5,17 @@ Value: Value
 Entity: Entity
 Male: male
 Female: female
+1-2019 2020 jan: "2019 - 2020 January"
+2-2019 2020 feb: "2019 - 2020 February"
+3-2019 2020 mar: "2019 - 2020 March"
+4-2019 2020 apr: "2019 - 2020 April"
+5-2019 2020 may: "2019 - 2020 May"
+6-2019 2020 june: "2019 - 2020 June"
+7-2019 2020 july: "2019 - 2020 July"
+8-2019 2020 aug: "2019 - 2020 August"
+9-2019 2020 sept: "2019 - 2020 September"
+10-2019 2020 oct: "2019 - 2020 October"
+11-2019 2020 nov: "2019 - 2020 November"
+12-2019 2020 dec: "2019 - 2020 December"
+vat: VAT
+customs: Customs
