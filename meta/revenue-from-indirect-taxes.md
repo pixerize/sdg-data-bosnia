@@ -5,6 +5,6 @@ graph_type: line
 indicator_name: global_indicators.18-c-2-title
 standalone: true
 reporting_status: complete
-permalink: revenue-from-indirect-taxes
+permalink: covid-19-impact/revenue-from-indirect-taxes
 national_geographical_coverage: National
 ---
