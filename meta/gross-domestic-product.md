@@ -5,6 +5,6 @@ graph_type: line
 indicator_name: global_indicators.18-c-1-title
 standalone: true
 reporting_status: complete
-permalink: covid-19-impact/tourist-nights
+permalink: covid-19-impact/gross-domestic-product
 national_geographical_coverage: National
 ---
