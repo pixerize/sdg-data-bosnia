@@ -20,3 +20,7 @@ Female: female
 vat: VAT
 customs: Customs
 type of revenue: Type of revenue
+non seasonal: "Non-Seasonally adjusted Q/Q-4"
+seasonal: "Seasonally adjusted Q/Q-1"
+final trend: "Final trend Q/Q-1"
+Type: Type
