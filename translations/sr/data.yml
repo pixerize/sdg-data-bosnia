@@ -20,3 +20,8 @@ Female: Женски
 vat: Порез на додану вриједност
 customs: Царинске дажбине, накнаде за царинско евидентирање и посебне дажбине
 type of revenue: Назив прихода
+type of revenue: Type of revenue
+non seasonal: "Недесезонирани подаци Q/Q-4"
+seasonal: "Десезонирани подаци Q/Q-1"
+final trend: "Финални тренд Q/Q-1"
+Type: Тип
