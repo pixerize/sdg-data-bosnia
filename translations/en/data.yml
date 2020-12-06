@@ -3,8 +3,8 @@ Sex: Sex
 Month: Month
 Value: Value
 Entity: Entity
-Male: male
-Female: female
+Male: Male
+Female: Female
 1-2019 2020 jan: "a)2019 - 2020 January"
 2-2019 2020 feb: "b)2019 - 2020 February"
 3-2019 2020 mar: "c)2019 - 2020 March"
@@ -24,3 +24,4 @@ non seasonal: "Non-Seasonally adjusted Q/Q-4"
 seasonal: "Seasonally adjusted Q/Q-1"
 final trend: "Final trend Q/Q-1"
 Type: Type
+Age: Age
