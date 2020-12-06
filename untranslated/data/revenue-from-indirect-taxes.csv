@@ -7,10 +7,6 @@ Year,type of revenue,Value
 6-2019 2020 june,vat,93.0
 7-2019 2020 july,vat,98.56
 8-2019 2020 aug,vat,84.9
-9-2019 2020 sept,vat,
-10-2019 2020 oct,vat,
-11-2019 2020 nov,vat,
-12-2019 2020 dec,vat,
 1-2019 2020 jan,customs,102.24
 2-2019 2020 feb,customs,109.0
 3-2019 2020 mar,customs,90.08
@@ -19,7 +15,3 @@ Year,type of revenue,Value
 6-2019 2020 june,customs,89.74
 7-2019 2020 july,customs,92.66
 8-2019 2020 aug,customs,82.75
-9-2019 2020 sept,customs,
-10-2019 2020 oct,customs,
-11-2019 2020 nov,customs,
-12-2019 2020 dec,customs,
