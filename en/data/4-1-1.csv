@@ -1,7 +1,7 @@
-Year,Units,Sex,Type of skill,Value
-2018,%,Bothsex,Math,42.44
-2018,%,Bothsex,Read,46.33
-2018,%,Female,Math,42.57
-2018,%,Female,Read,54.77
-2018,%,Male,Math,42.31
-2018,%,Male,Read,38.29
+Year,Units,Education level,Sex,Type of skill,Value
+2018,%,Lowsec,Bothsex,Math,42.44
+2018,%,Lowsec,Bothsex,Read,46.33
+2018,%,Lowsec,Female,Math,42.57
+2018,%,Lowsec,Female,Read,54.77
+2018,%,Lowsec,Male,Math,42.31
+2018,%,Lowsec,Male,Read,38.29

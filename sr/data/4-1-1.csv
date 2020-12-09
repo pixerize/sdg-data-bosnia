@@ -1,7 +1,7 @@
-Year,Units,Пол,Type of skill,Value
-2018,%,Bothsex,Math,42.44
-2018,%,Bothsex,Read,46.33
-2018,%,Женски,Math,42.57
-2018,%,Женски,Read,54.77
-2018,%,Мушко,Math,42.31
-2018,%,Мушко,Read,38.29
+Year,Units,Education level,Пол,Type of skill,Value
+2018,%,Lowsec,Bothsex,Math,42.44
+2018,%,Lowsec,Bothsex,Read,46.33
+2018,%,Lowsec,Женски,Math,42.57
+2018,%,Lowsec,Женски,Read,54.77
+2018,%,Lowsec,Мушко,Math,42.31
+2018,%,Lowsec,Мушко,Read,38.29
