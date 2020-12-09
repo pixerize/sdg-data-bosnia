@@ -3,6 +3,7 @@ Sex: Sex
 Month: Month
 Value: Value
 Entity: Entity
+Bothsex: Bothsex
 Male: Male
 Female: Female
 1-2019 2020 jan: "a)2019 - 2020 January"
@@ -28,3 +29,19 @@ Age: Age
 excise duties on import goods: Excise duties on import goods
 number of undernourish people: Number of undernourish people (millions)
 prevalence of undernourishment: Prevalence of undernourishment (%)
+prevalence of moderate or severe food insecurity in the adult population: Prevalence of moderate or severe food insecurity in the adult population (%)
+prevalence of severe food insecurity in the adult population: Prevalence of severe food insecurity in the adult population (%)
+education level: Education level
+type of skill: Type of skill
+lowsec: Lowsec
+math: Math
+read: Read
+proportion of women aged 20-24 years who were married or in a union before age 15: Proportion of women aged 20-24 years who were married or in a union before age 15
+proportion of women aged 20-24 years who were married or in a union before age 18: Proportion of women aged 20-24 years who were married or in a union before age 18
+location: Location
+all area: All Area
+rural: Rural
+urban: Urban
+annual growth rate of real GDP per capita: Annual growth rate of real GDP per capita
+freight volume, by mode of transport: Freight volume, by mode of transport (tonne kilometres) 
+passenger volume, by mode of transport: Passenger volume (passenger kilometres), by mode of transport 
