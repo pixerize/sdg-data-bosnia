@@ -48,3 +48,4 @@ passenger volume, by mode of transport: Passenger volume (passenger kilometres),
 all: All
 domestic material consumption per capita: Domestic material consumption per capita, by type of raw material
 tonnes: Tonnes
+type of product: Type of product
