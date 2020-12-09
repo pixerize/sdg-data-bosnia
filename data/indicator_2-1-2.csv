@@ -1,22 +1,25 @@
-Year,Series,Sex,Value
-2001,Prevalence of moderate or severe food insecurity in the adult population (%),Female,0.1
-2002,Prevalence of moderate or severe food insecurity in the adult population (%),Male,0.1
-2003,Prevalence of moderate or severe food insecurity in the adult population (%),Bothsex,0.1
-2001,Prevalence of undernourishment,Bothsex,3.2
-2002,Prevalence of undernourishment,Bothsex,3.1
-2003,Prevalence of undernourishment,Bothsex,2.7
-2004,Prevalence of undernourishment,Bothsex,2.5
-2005,Prevalence of undernourishment,Bothsex,2.5
-2006,Prevalence of undernourishment,Bothsex,2.5
-2007,Prevalence of undernourishment,Bothsex,2.5
-2008,Prevalence of undernourishment,Bothsex,2.5
-2009,Prevalence of undernourishment,Bothsex,2.5
-2010,Prevalence of undernourishment,Bothsex,2.5
-2011,Prevalence of undernourishment,Bothsex,2.5
-2012,Prevalence of undernourishment,Bothsex,2.5
-2013,Prevalence of undernourishment,Bothsex,2.5
-2014,Prevalence of undernourishment,Bothsex,2.5
-2015,Prevalence of undernourishment,Bothsex,2.5
-2016,Prevalence of undernourishment,Bothsex,2.5
-2017,Prevalence of undernourishment,Bothsex,2.5
-2018,Prevalence of undernourishment,Bothsex,2.5
+Year,Series,Age,Sex,Value
+2015,prevalence of moderate or severe food insecurity in the adult population,15+,Female,9.61
+2015,prevalence of moderate or severe food insecurity in the adult population,15+,Male,9.19
+2015,prevalence of moderate or severe food insecurity in the adult population,All,Bothsex,9.59
+2016,prevalence of moderate or severe food insecurity in the adult population,15+,Female,9.07
+2016,prevalence of moderate or severe food insecurity in the adult population,15+,Male,10.96
+2016,prevalence of moderate or severe food insecurity in the adult population,All,Bothsex,10.27
+2017,prevalence of moderate or severe food insecurity in the adult population,15+,Female,7.79
+2017,prevalence of moderate or severe food insecurity in the adult population,15+,Male,9.20
+2017,prevalence of moderate or severe food insecurity in the adult population,All,Bothsex,8.68
+2018,prevalence of moderate or severe food insecurity in the adult population,15+,Female,8.17
+2018,prevalence of moderate or severe food insecurity in the adult population,15+,Male,9.62
+2018,prevalence of moderate or severe food insecurity in the adult population,All,Bothsex,9.19
+2015,prevalence of severe food insecurity in the adult population,15+,Female,3.2
+2015,prevalence of severe food insecurity in the adult population,15+,Male,3.1
+2015,prevalence of severe food insecurity in the adult population,All,Bothsex,2.7
+2016,prevalence of severe food insecurity in the adult population,15+,Female,3.2
+2016,prevalence of severe food insecurity in the adult population,15+,Male,3.1
+2016,prevalence of severe food insecurity in the adult population,All,Bothsex,2.7
+2017,prevalence of severe food insecurity in the adult population,15+,Female,3.2
+2017,prevalence of severe food insecurity in the adult population,15+,Male,3.1
+2017,prevalence of severe food insecurity in the adult population,All,Bothsex,2.7
+2018,prevalence of severe food insecurity in the adult population,15+,Female,3.2
+2018,prevalence of severe food insecurity in the adult population,15+,Male,3.1
+2018,prevalence of severe food insecurity in the adult population,All,Bothsex,2.7
