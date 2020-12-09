@@ -45,8 +45,8 @@ urban: Urbana
 freight volume, by mode of transport: Obim tereta, po granama saobraćaja (tonskim kilometrima)
 passenger volume, by mode of transport: Obim putnika (putničkih kilometara), po granama saobraćaja
 all: Ukupno
-domestic material consumption per capita: Materijalni otisak po glavi stanovnika, prema vrsti sirovine (%)
+domestic material consumption per capita: Materijalni otisak po glavi stanovnika, prema vrsti sirovine (tone)
 tonnes: Tone
 type of product: Vrsta proizvoda
 domestic material consumption per unit of GDP: Materijalni otisak po BDP-u, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru 2010)
-domestic material consumption by type of raw material: Materijalni otisak, prema vrsti sirovine (%)
+domestic material consumption by type of raw material: Materijalni otisak, prema vrsti sirovine (tone)
