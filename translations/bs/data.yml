@@ -3,6 +3,7 @@ Sex: Spol
 Month: Mjesec
 Value: Vrijednost
 Entity: Entitet
+Bothsex: Ukupno
 Male: Muški
 Female: Ženski
 1-2019 2020 jan: "a)2019 - 2020 Januar"
@@ -28,3 +29,18 @@ Age: Starost
 excise duties on import goods: Akciza na uvozne proizvode
 number of undernourish people: Broj pothranjenih ljudi (milioni)
 prevalence of undernourishment: Rasprostranjenost podhranjenosti (%)
+prevalence of moderate or severe food insecurity in the adult population: Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane u odrasloj populaciji(%)
+prevalence of severe food insecurity in the adult population: Rasprostranjenost ozbiljne nesigurnosti hrane u odrasloj populaciji (%)
+education level: Nivo obrazovanja
+type of skill: Vrsta vještine
+lowsec: Lowsec
+math: Matematika
+read: Čitanje
+proportion of women aged 20-24 years who were married or in a union before age 15: Udio žena u dobi od 20 do 24 godine koje su bile u braku ili u zajednici prije 15. godine (%)
+proportion of women aged 20-24 years who were married or in a union before age 18: Udio žena u dobi od 20 do 24 godine koje su bile u braku ili u zajednici prije 18. godine (%)
+location: Lokacija
+all area: Ukupna površina
+rural: Ruralna
+urban: Urbana
+freight volume, by mode of transport: Obim tereta, po granama saobraćaja (tonskim kilometrima)
+passenger volume, by mode of transport: Obim putnika (putničkih kilometara), po granama saobraćaja
