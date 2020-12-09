@@ -47,7 +47,7 @@ jobs:
         CLEAN: true
     - name: Waiting 4 minutes for staging data deployment
       run: |
-        sleep 120
+        sleep 240
     - name: Rebuild site
       run: |
         curl -X POST https://api.github.com/repos/pixerize/sdg-site-bih/dispatches \
