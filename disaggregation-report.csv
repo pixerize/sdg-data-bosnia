@@ -1,6 +1,6 @@
 Disaggregation,bs,sr,hr,Number of indicators,Number of values
-Age,Starost,Старост,Starost,3,4
+Age,Starost,Старост,Starost,4,5
 Education level,Education level,Education level,Education level,1,1
-Group,Group,Group,Group,1,2
-Sex,Spol,Пол,Spol,4,3
+Group,Group,Group,Group,2,4
+Sex,Spol,Пол,Spol,5,3
 Type of skill,Type of skill,Type of skill,Type of skill,1,2
