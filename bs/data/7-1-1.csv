@@ -1,7 +1,11 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Lokacija,Value
+2000,Ukupna površina,100
+2000,Ruralna,100
+2000,Urbana,100
+2001,Ukupna površina,100
+2001,Ruralna,100
+2001,Ukupna površina,100
+2000,Ruralna,100
+2000,Ukupna površina,100
+2000,Ruralna,100
+2000,Urbana,100
