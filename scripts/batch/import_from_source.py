@@ -331,7 +331,9 @@ for indicator_id in data:
     slug = indicator_id.replace('.', '-')
     data_path = os.path.join('data', 'indicator_' + slug + '.csv')
     df = data[indicator_id]
-    df = df.drop(columns=drop_these_columns())
+    for column in drop_these_columns():
+        if column in df.columns:
+            df = df.drop(columns=[column])
     df = df.dropna(subset=['Value'], how='all')
     df = df.rename(columns=get_column_name_changes())
     df = df.dropna(axis='columns', how='all')
