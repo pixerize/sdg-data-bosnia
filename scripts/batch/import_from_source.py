@@ -136,7 +136,8 @@ def clean_data_value(value):
     value = value.strip()
     if value == '':
         return pd.NA
-    return float(value)
+    test = float(value)
+    return value
 
 
 def clean_disaggregation_value(value, column=''):
