@@ -160,7 +160,8 @@ def drop_these_columns():
 def get_column_name_changes():
     changes = {
         # These serve specific purposes in Open SDG.
-        'Unit': 'Units',
+        'Unit': 'UNIT_MEASURE',
+        'Series': 'SERIES',
         # These changes are for compatibility with SDMX.
     }
     sdmx_changes = {
@@ -475,9 +476,9 @@ def clean_unit(unit):
     fixed = unit
     if unit in fixes:
         fixed = fixes[unit]
-    if 'Units' not in things_to_translate:
-        things_to_translate['Units'] = {}
-    things_to_translate['Units'][fixed] = fixed
+    if 'UNIT_MEASURE' not in things_to_translate:
+        things_to_translate['UNIT_MEASURE'] = {}
+    things_to_translate['UNIT_MEASURE'][fixed] = fixed
     return fixed
 
 
