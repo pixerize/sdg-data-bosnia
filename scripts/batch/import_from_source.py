@@ -139,6 +139,18 @@ def clean_data_value(value):
     return float(value)
 
 
+def clean_disaggregation_value(value, column=''):
+    conversions = {}
+    if column == 'Age':
+        conversions = {
+            'ALL': 'ALL AGE',
+            '<5y': '<5Y',
+        }
+    if value in conversions:
+        return conversions[value]
+    return value
+
+
 def clean_metadata_value(column, value):
     return value.strip()
 
@@ -201,6 +213,9 @@ for sheet in sheet_info:
         na_values=['-'],
         converters = converters
     )
+    for col in info['disaggregations']:
+        df[col] = df[col].apply(clean_disaggregation_value, column=col)
+
     # Fill in the merged cells.
     df['SDG target'] = df['SDG target'].fillna(method='ffill')
     df['SDG indicator'] = df['SDG indicator'].fillna(method='ffill')
