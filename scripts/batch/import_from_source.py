@@ -5,6 +5,8 @@ import numpy as np
 import yaml
 import yamlmd
 
+sdmx_compatibility = False
+
 path = 'SDG_Indicators_Global_BIH_oct_2020_EN.xls'
 start_cols = [
     'SDG target',
@@ -140,6 +142,40 @@ def clean_data_value(value):
     return value
 
 
+def drop_these_columns():
+    # These columns aren't useful for some reason.
+    return [
+        # This only had 1 value in the source data.
+        'Reporting Type',
+        # This only had 1 value in the source data.
+        'Level/Status',
+        # These are in the metadata.
+        'SDG target',
+        'SDG indicator',
+    ]
+
+
+def get_column_name_changes():
+    changes = {
+        # These serve specific purposes in Open SDG.
+        'Unit': 'Units',
+        # These changes are for compatibility with SDMX.
+    }
+    sdmx_changes = {
+        'Sex': 'SEX',
+        'Age': 'AGE',
+        'Location': 'URBANISATION',
+        'Quantile': 'INCOME_WEALTH_QUANTILE',
+        'Education level': 'EDUCATION_LEV',
+        'Activity': 'ACTIVITY',
+        'IHR Capacity': 'COMPOSITE_BREAKDOWN',
+    }
+    if sdmx_compatibility:
+        return dict(changes.items() + sdmx_changes.items())
+    else:
+        return changes
+
+
 def clean_disaggregation_value(value, column=''):
     conversions = {}
     if column == 'Age':
@@ -147,11 +183,42 @@ def clean_disaggregation_value(value, column=''):
             'ALL': 'ALL AGE',
             '<5y': '<5Y',
         }
-    if column == 'Sex':
-        conversions = {
-            'Female': 'FEMALE',
-            'Male': 'MALE',
-        }
+    if sdmx_compatibility:
+        if column == 'Sex':
+            conversions = {
+                'FEMALE': 'F',
+                'MALE': 'M',
+                'BOTHSEX': '_T',
+            }
+        if column == 'IHR Capacity':
+            conversions = {
+                'IHR01': 'IHR_01',
+                'IHR02': 'IHR_02',
+                'IHR03': 'IHR_03',
+                'IHR04': 'IHR_04',
+                'IHR05': 'IHR_05',
+                'IHR06': 'IHR_06',
+                'IHR07': 'IHR_07',
+                'IHR08': 'IHR_08',
+                'IHR09': 'IHR_09',
+                'IHR10': 'IHR_10',
+                'IHR11': 'IHR_11',
+                'IHR12': 'IHR_12',
+                'IHR13': 'IHR_13',
+                'SPAR01': 'SPAR_01',
+                'SPAR02': 'SPAR_02',
+                'SPAR03': 'SPAR_03',
+                'SPAR04': 'SPAR_04',
+                'SPAR05': 'SPAR_05',
+                'SPAR06': 'SPAR_06',
+                'SPAR07': 'SPAR_07',
+                'SPAR08': 'SPAR_08',
+                'SPAR09': 'SPAR_09',
+                'SPAR10': 'SPAR_10',
+                'SPAR11': 'SPAR_11',
+                'SPAR12': 'SPAR_12',
+                'SPAR13': 'SPAR_13',
+            }
     if value in conversions:
         return conversions[value]
     return value
@@ -264,10 +331,13 @@ for indicator_id in data:
     slug = indicator_id.replace('.', '-')
     data_path = os.path.join('data', 'indicator_' + slug + '.csv')
     df = data[indicator_id]
-    df = df.drop(columns=['SDG target', 'SDG indicator', 'Reporting Type'])
+    df = df.drop(columns=drop_these_columns())
     df = df.dropna(subset=['Value'], how='all')
-    df = df.rename(columns={'Unit': 'Units'})
+    df = df.rename(columns=get_column_name_changes())
     df = df.dropna(axis='columns', how='all')
+    non_value_columns = df.columns.tolist()
+    non_value_columns.pop(non_value_columns.index('Value'))
+    df = df.drop_duplicates(subset=non_value_columns)
 
     # Rearrange the columns.
     cols = df.columns.tolist()
