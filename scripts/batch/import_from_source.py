@@ -548,9 +548,10 @@ for indicator_id in data:
     for column in drop_these_columns():
         if column in df.columns:
             df = df.drop(columns=[column])
+    df = df.replace(r'^\s*$', np.nan, regex=True)
     df = df.dropna(subset=['Value'], how='all')
-    df = df.rename(columns=get_column_name_changes())
     df = df.dropna(axis='columns', how='all')
+    df = df.rename(columns=get_column_name_changes())
     non_value_columns = df.columns.tolist()
     non_value_columns.pop(non_value_columns.index('Value'))
     df = df.drop_duplicates(subset=non_value_columns)
