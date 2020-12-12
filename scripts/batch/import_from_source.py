@@ -146,6 +146,11 @@ def clean_disaggregation_value(value, column=''):
             'ALL': 'ALL AGE',
             '<5y': '<5Y',
         }
+    if column == 'Sex':
+        conversions = {
+            'Female': 'FEMALE',
+            'Male': 'MALE',
+        }
     if value in conversions:
         return conversions[value]
     return value
