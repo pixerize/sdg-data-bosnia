@@ -71,6 +71,8 @@ translations:
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
     tag: master
+  - class: TranslationInputSdmx
+    source: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
@@ -109,3 +111,9 @@ docs_intro: This is a list of examples of endpoints and output that are
 # This can be uncommented and updated so allow links to your indicator pages.
 # The URL here should have [id] instead of the indicator ID.
 docs_indicator_url: https://sdgbosnia.co.uk/[id]
+
+indicator_options:
+  non_disaggregation_columns:
+    - Year
+    - UNIT_MEASURE
+    - SERIES
