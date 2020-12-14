@@ -214,14 +214,14 @@ def clean_disaggregation_value(value, column=''):
     if sdmx_compatibility:
         if column == 'Location':
             conversions = {
-                'ALL AREA': '', # Instead of _T
+                'ALL AREA': '_T', # Instead of _T
                 'RURAL': 'R',
                 'URBAN': 'U',
             }
         if column == 'Age':
             conversions = {
-                'ALL': '', # Instead of _T
-                'ALL AGE': '', # Instead of _T
+                'ALL': '_T', # Instead of _T
+                'ALL AGE': '_T', # Instead of _T
                 '15-19': 'Y15T19',
                 '15-24': 'Y15T24',
                 '15-25': 'Y15T25', # custom
@@ -245,7 +245,7 @@ def clean_disaggregation_value(value, column=''):
             conversions = {
                 'FEMALE': 'F',
                 'MALE': 'M',
-                'BOTHSEX': '', # Instead of _T
+                'BOTHSEX': '_T', # Instead of _T
             }
         if column == 'Mode of transportation':
             conversions = {
@@ -301,7 +301,7 @@ def clean_disaggregation_value(value, column=''):
             }
         if column == 'Quantile':
             conversions = {
-                '_T': '', # Instead of _T
+                '_T': '_T', # Instead of _T
             }
         if column == 'Type of occupation':
             conversions = {
@@ -365,13 +365,13 @@ def clean_disaggregation_value(value, column=''):
                 '256KT2MBPS': 'IS_256KT2M',
                 '2MT10MBPS': 'IS_2MT10M',
                 '10MBPS': 'IS_GE10M',
-                'ANYS': '', # Instead of _T
+                'ANYS': '_T', # Instead of _T
             }
         if column == 'Activity':
             conversions = {
                 'ISIC4_A': 'ISIC4_A',
                 'NONAGR': 'ISIC4_BTU',
-                'TOTAL': '', # Instead of _T
+                'TOTAL': '_T', # Instead of _T
             }
         if column == 'Parliamentary committees':
             conversions = {
@@ -435,8 +435,8 @@ def clean_unit(unit):
     sdmx_fixes = {
         '% (PERCENT)': 'PT',
         '$ (USD)': 'USD',
-        'MILLIONS': 'MILLIONS', # Would actually be UNIT_MULT
-        'THOUSANDS': 'THOUSANDS', # Would actually be UNIT_MULT
+        'MILIONS': 'MILLIONS', # SDMX mapping needed! This is a UNIT_MULT.
+        'THOUSANDS': 'THOUSANDS', # SDMX mapping needed! This is a UNIT_MULT.
         'INDEX': 'IX',
         'PER 100000 LIVE BIRTHS': 'PER_100000_LIVE_BIRTHS',
         'PER 1000 LIVE BIRTHS': 'PER_1000_LIVE_BIRTHS',
@@ -585,4 +585,4 @@ for indicator_id in data:
         meta[0][field] = metadata[indicator_id][field]
     yamlmd.write_yamlmd(meta, meta_path)
 
-#print(things_to_translate)
+print(things_to_translate)
