@@ -435,8 +435,8 @@ def clean_unit(unit):
     sdmx_fixes = {
         '% (PERCENT)': 'PT',
         '$ (USD)': 'USD',
-        'MILIONS': 'MILIONS', # SDMX mapping needed!
-        'THOUSANDS': 'THOUSANDS', # SDMX mapping needed!
+        'MILLIONS': 'MILLIONS', # Would actually be UNIT_MULT
+        'THOUSANDS': 'THOUSANDS', # Would actually be UNIT_MULT
         'INDEX': 'IX',
         'PER 100000 LIVE BIRTHS': 'PER_100000_LIVE_BIRTHS',
         'PER 1000 LIVE BIRTHS': 'PER_1000_LIVE_BIRTHS',
@@ -541,6 +541,10 @@ for sheet in sheet_info:
         metadata[indicator_id]['indicator_number'] = indicator_id
         if 'source_organisation_1' in metadata[indicator_id]:
             metadata[indicator_id]['source_active_1'] = True
+        # Set up dynamic graph titles by series.
+        if 'graph_titles' not in metadata[indicator_id]:
+            metadata[indicator_id]['graph_titles'] = {}
+        metadata[indicator_id]['graph_titles'][row['Series']] = True
 
 for indicator_id in data:
     slug = indicator_id.replace('.', '-')
@@ -565,6 +569,15 @@ for indicator_id in data:
     df = df[cols]
 
     df.to_csv(data_path, index=False)
+
+    # Fix the special "graph_titles" metadata field we added above.
+    graph_titles = []
+    for series in metadata[indicator_id]['graph_titles']:
+        graph_titles.append({
+            'series': 'SERIES.' + series,
+            'title': 'SERIES.' + series,
+        })
+    metadata[indicator_id]['graph_titles'] = graph_titles
 
     meta_path = os.path.join('meta', slug + '.md')
     meta = yamlmd.read_yamlmd(meta_path)
