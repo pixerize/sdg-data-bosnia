@@ -16,7 +16,7 @@ BX_TRF_PWKR: Volume of remittances (in United States dollars) as a proportion of
 DC_FTA_TOTAL: Total official development assistance (gross disbursement) for technical
   cooperation
 DC_ODA_BDVL: Total official development assistance for biodiversity, by recipient
-  countries [15.a.1, 15.b.1]
+  countries
 DC_ODA_POVLG: Official development assistance grants for poverty reduction, by recipient
   countries (percentage of GNI)
 DC_TOF_AGRL: Total official flows (disbursements) for agriculture, by recipient countries
@@ -200,10 +200,9 @@ SG_DMK_PARLSP_LC: Number of speakers in parliament, by age and sex , Lower Chamb
   or Unicameral
 SG_DMK_PARLSP_UC: Number of speakers in parliament, by age and sex, Upper Chamber
 SG_DSR_SILN: Number of local governments that adopt and implement local DRR strategies
-  in line with national strategies [1.5.4, 11.b.2, 13.1.3]
+  in line with national strategies
 SG_DSR_SILS: Proportion of local governments that adopt and implement local disaster
   risk reduction strategies in line with national disaster risk reduction strategies
-  [1.5.4, 11.b.2, 13.1.3]
 SG_GEN_EQPWN: Proportion of countries with systems to track and make public allocations
   for gender equality and women's empowerment
 SG_GEN_LOCGELS: Proportion of elected seats held by women in deliberative bodies of
@@ -212,7 +211,7 @@ SG_GEN_PARL: Proportion of seats held by women in national parliaments (% of tot
   number of seats)
 SG_GEN_PARLN: Number of seats held by women in national parliaments
 SG_GEN_PARLNT: Number of seats in national parliaments
-SG_GOV_LOGV: Number of local governments [1.5.4, 11.b.2, 13.1.3]
+SG_GOV_LOGV: Number of local governments
 SG_HAZ_CMRBASEL: Compliance with the Basel Convention on hazardous waste and other
   chemicals
 SG_HAZ_CMRMNTRL: Compliance with the Montreal Protocol on hazardous waste and other
@@ -224,9 +223,9 @@ SG_HAZ_CMRSTHOLM: Compliance with the Stockholm Convention on hazardous waste an
 SG_INF_ACCSS: Countries that adopt and implement constitutional, statutory and/or
   policy guarantees for public access to information
 SG_INT_MBRDEV: Proportion of members of developing countries in international organizations,
-  by organization [10.6.1, 16.8.1]
+  by organization
 SG_INT_VRTDEV: Proportion of voting rights of developing countries in international
-  organizations, by organization [10.6.1, 16.8.1]
+  organizations, by organization
 SG_NHR_IMPLN: Countries with National Human Rights Institutions in compliance with
   the Paris Principles, A status (1 = YES; 0 = NO)
 SG_NHR_NOAPPLN: Countries with no application for accreditation with the Paris Principles,
