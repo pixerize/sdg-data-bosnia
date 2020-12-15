@@ -1,0 +1,31 @@
+BOOL: Boolean or binary measure
+CON_USD: Constant USD
+CU USD: CU USD
+CUR LCU M: CUR LCU M
+GPERM3: Micrograms per cubic meter
+HA TH: HA TH
+IX: Index
+KG: Kilograms
+KG_PER_CON_USD: Kilograms per constant USD
+KM2: Square kilometers
+LITRES: LITRES
+MILLIONS: MILLIONS
+MJ_PER_GDP_CON_PPP_USD: Megajoules per USD constant PPP GDP
+NUMBER: Number
+PER_1000000_POP: Per million population
+PER_100000_LIVE_BIRTHS: Per 100,000 live births
+PER_100000_POP: Per 100,000 population
+PER_10000_POP: Per 10,000 population
+PER_1000_LIVE_BIRTHS: Per 1,000 live births
+PER_1000_POP: Per 1,000 population
+PER_1000_UNINFECTED_POP: Per 1,000 uninfected population
+PER_100_POP: Per 100 population
+PT: Percent
+P_KM: Passenger kilometres
+RO: Ratio
+SCORE: Score
+T: Metric Tons
+THOUSANDS: THOUSANDS
+T_KM: Tonne kilometres
+UNIT_MEASURE: Unit of measure
+USD: USD
