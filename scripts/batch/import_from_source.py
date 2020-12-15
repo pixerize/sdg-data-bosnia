@@ -4,6 +4,11 @@ import pandas as pd
 import numpy as np
 import yaml
 import yamlmd
+import sdg
+
+translations = sdg.translations.TranslationInputSdmx(source='https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children')
+translations.execute()
+english = translations.get_translations()['en']
 
 sdmx_compatibility = True
 
@@ -157,6 +162,16 @@ def drop_these_columns():
     ]
 
 
+def convert_composite_breakdown_label(label):
+    return label.replace(' ', '_').replace('-', '_').lower()
+
+
+def translate(group, key):
+    if group in english and key in english[group]:
+        return english[group][key]
+    return key
+
+
 def get_column_name_changes():
     changes = {
         # These serve specific purposes in Open SDG.
@@ -191,10 +206,10 @@ def get_column_name_changes():
         if changed not in things_to_translate:
             things_to_translate[changed] = {}
         if changed == 'COMPOSITE_BREAKDOWN':
-            comp_breakdown_label = key.replace(' ', '_').replace('-', '_').lower()
+            comp_breakdown_label = convert_composite_breakdown_label(key)
             things_to_translate[changed][comp_breakdown_label] = key
         else:
-            things_to_translate[changed][changed] = changed
+            things_to_translate[changed][changed] = translate(changed, changed)
     return changes
 # run it right away
 get_column_name_changes()
@@ -386,7 +401,7 @@ def clean_disaggregation_value(value, column=''):
     fixed_column = get_column_name_changes()[column]
     if fixed_column not in things_to_translate:
         things_to_translate[fixed_column] = {}
-    things_to_translate[fixed_column][fixed] = fixed
+    things_to_translate[fixed_column][fixed] = translate(fixed_column, fixed)
     return fixed
 
 
@@ -478,7 +493,7 @@ def clean_unit(unit):
         fixed = fixes[unit]
     if 'UNIT_MEASURE' not in things_to_translate:
         things_to_translate['UNIT_MEASURE'] = {}
-    things_to_translate['UNIT_MEASURE'][fixed] = fixed
+    things_to_translate['UNIT_MEASURE'][fixed] = translate('UNIT_MEASURE', fixed)
     return fixed
 
 
@@ -546,6 +561,12 @@ for sheet in sheet_info:
             metadata[indicator_id]['graph_titles'] = {}
         metadata[indicator_id]['graph_titles'][row['Series']] = True
 
+        column_name_changes = get_column_name_changes()
+        for column in info['disaggregations']:
+            if column_name_changes[column] == 'COMPOSITE_BREAKDOWN':
+                metadata[indicator_id]['composite_breakdown_label'] = 'COMPOSITE_BREAKDOWN.' + convert_composite_breakdown_label(column)
+                break
+
 for indicator_id in data:
     slug = indicator_id.replace('.', '-')
     data_path = os.path.join('data', 'indicator_' + slug + '.csv')
@@ -585,4 +606,10 @@ for indicator_id in data:
         meta[0][field] = metadata[indicator_id][field]
     yamlmd.write_yamlmd(meta, meta_path)
 
-print(things_to_translate)
+skip_translations = drop_these_columns()
+for key in things_to_translate:
+    if key in skip_translations:
+        continue
+    filepath = os.path.join('translations', 'en', key + '.yml')
+    with open(filepath, 'w') as file:
+        yaml.dump(things_to_translate[key], file)
