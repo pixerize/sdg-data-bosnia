@@ -21,7 +21,6 @@ DC_CST_EFICP: Proportion of financial support to the least developed countries t
   is allocated to the construction and retrofitting of sustainable, resilient and
   resource-efficient buildings utilizing local materials
 DC_ODA_BDVDL: Total official development assistance for biodiversity, by donor countries
-  [15.a.1, 15.b.1]
 DC_ODA_LDCG: Net official development assistance (ODA) to LDCs as a percentage of
   OECD-DAC donors' GNI, by donor countries
 DC_ODA_LDCS: Net official development assistance (ODA) to LDCs from OECD-DAC countries,
@@ -63,8 +62,7 @@ EG_CFT_COOK: Proportion of population with primary reliance on clean fuels and t
   for cooking
 EG_CFT_LIGHT: Proportion of population with primary reliance on clean fuels and technology
   for lighting
-EG_EGY_RNEW: "Installed renewable\_electricity-generating capacity (watts per capita)\
-  \ [7.b.1, 12.a.1]"
+EG_EGY_RNEW: "Installed renewable\_electricity-generating capacity (watts per capita)"
 EG_IFF_RANDN: International financial flows to developing countries in support of
   clean energy research and development and renewable energy production, including
   in hybrid systems
@@ -75,12 +73,12 @@ EN_HAZ_TRTDISV: Hazardous waste treated or disposed (Tonnes)
 EN_LND_CNSPOP: Ratio of land consumption rate to population growth rate
 EN_LND_SLUMN: Urban population living in slums (number)
 EN_MAR_BEALIT: Beach litter originating from national land-based sources
-EN_MAR_CHLDEV: 'Chlorophyll-a deviations, remote sensing '
+EN_MAR_CHLDEV: Chlorophyll-a deviations, remote sensing
 EN_MAR_COEUPO: Coastal eutrophication potential (N and P loading)
 EN_MAR_PLASPA: Number of patches of plastic greater than 10 sq. meters
-EN_MAT_FTPRPC: Material footprint per capita [8.4.1, 12.2.1]
-EN_MAT_FTPRPG: Material footprint per unit of GDP [8.4.1, 12.2.1]
-EN_MAT_FTPRTN: Material footprint [8.4.1, 12.2.1]
+EN_MAT_FTPRPC: Material footprint per capita
+EN_MAT_FTPRPG: Material footprint per unit of GDP
+EN_MAT_FTPRTN: Material footprint
 EN_REF_COLDIS: Proportion of population served by municipal waste collection
 EN_SCP_ECSYBA: Countries using ecosystem-based approaches (1 = YES; 0 = NO)
 EN_SCP_EZECO: Proportion of national exclusive economic zones managed using ecosystem-based
@@ -218,9 +216,9 @@ SG_CPA_SDEV: Countries with mechanisms in place to enhance policy coherence of s
 SG_DSR_LEGREG: Countries with legislative and/or regulatory provisions been made for
   managing disaster risk (1 = YES; 0 = NO)
 SG_DSR_LGRGSR: Score of adoption and implementation of national DRR strategies in
-  line with the Sendai Framework [1.5.3, 11.b.1, 13.1.2]
+  line with the Sendai Framework
 SG_DSR_SFDRR: Countries that reported having a National DRR Strategy which is aligned
-  to the Sendai Framework to a certain extent (1 = YES; 0 = NO) [1.5.3, 11.b.1, 13.1.2]
+  to the Sendai Framework to a certain extent (1 = YES; 0 = NO)
 SG_GEN_LOCG: Proportion of seats held by women in local governments (% of total number
   of seats)
 SG_HAZ_CMRMNMT: Parties meeting their commitments and obligations in transmitting
@@ -251,8 +249,8 @@ SG_NHR_NOSTUSN: Countries with National Human Rights Institutions and no status 
 SG_PLN_MSTKSDG: Progress in multi-stakeholder development effectiveness monitoring
   frameworks that support the achievement of the sustainable development goals (1
   = YES; 0 = NO)
-SG_PLN_PRPOLRES: 'Extent of use of country-owned results frameworks and planning tools
-  by providers of development cooperation - data by provider (%) '
+SG_PLN_PRPOLRES: Extent of use of country-owned results frameworks and planning tools
+  by providers of development cooperation - data by provider (%)
 SG_PLN_PRVNDI: Proportion of new development interventions drawn from country-led
   result frameworks - data by provider (%)
 SG_PLN_PRVRICTRY: Proportion of results indicators drawn from country-led results
@@ -435,10 +433,10 @@ SP_TRN_PUBL: Proportion of population that has convenient access to public trans
 ST_EMP_SUST: Proportion of jobs in sustainable tourism industries out of total tourism
   jobs
 ST_GDP_ZS: Tourism direct GDP as a proportion of total GDP
-TM_TAX_DMFN: "Average tariff applied by developed countries, most-favored nation status,\
-  \ by type of product (%)\_"
-TM_TAX_DPRF: "Average tariff applied by developed countries, preferential status,\
-  \ by type of product (%)\_"
+TM_TAX_DMFN: Average tariff applied by developed countries, most-favored nation status,
+  by type of product (%)
+TM_TAX_DPRF: Average tariff applied by developed countries, preferential status, by
+  type of product (%)
 TM_TAX_WM: Average tariff applied by developed countries
 TX_EXP_GBMRCH: "Developing countries\u2019 and least developed countries\u2019 share\
   \ of global merchandise exports"
@@ -451,48 +449,41 @@ TX_IMP_GBSVR: "Developing countries\u2019 and least developed countries\u2019 sh
 VC_ARM_SZTRACE: Proportion of seized, found or surrendered arms whose illicit origin
   or context has been traced or established by a competent authority in line with
   international instruments
-VC_DSR_AFFCT: Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]
-VC_DSR_AGLH: Direct agriculture loss attributed to disasters [1.5.2, 11.5.2]
+VC_DSR_AFFCT: Number of people affected by disaster
+VC_DSR_AGLH: Direct agriculture loss attributed to disasters
 VC_DSR_BSDN: Number of disruptions to basic services attributed to disasters
 VC_DSR_CDAN: Number of damaged critical infrastructure attributed to disasters
 VC_DSR_CDYN: Number of other destroyed or damaged critical infrastructure units and
   facilities attributed to disasters
 VC_DSR_CHLN: Direct economic loss to cultural heritage damaged or destroyed attributed
-  to disasters [1.5.2, 11.5.2]
+  to disasters
 VC_DSR_CILN: Direct economic loss resulting from damaged or destroyed critical infrastructure
-  attributed to disasters [1.5.2, 11.5.2]
+  attributed to disasters
 VC_DSR_DAFF: Number of directly affected persons attributed to disasters per 100,000
-  population [1.5.1, 11.5.1, 13.1.1]
-VC_DSR_DDHN: Number damaged dwellings attributed to disasters [1.5.1, 11.5.1, 13.1.1]
+  population
+VC_DSR_DDHN: Number damaged dwellings attributed to disasters
 VC_DSR_DDPA: Direct economic loss to other damaged or destroyed productive assets
-  attributed to disasters [1.5.2, 11.5.2]
-VC_DSR_DYDN: Number of destroyed dwellings attributed to disasters [1.5.1, 11.5.1,
-  13.1.1]
-VC_DSR_DYHN: Number destroyed dwellings attributed to disasters, by hazard type [1.5.1,
-  11.5.1, 13.1.1]
+  attributed to disasters
+VC_DSR_DYDN: Number of destroyed dwellings attributed to disasters
+VC_DSR_DYHN: Number destroyed dwellings attributed to disasters, by hazard type
 VC_DSR_EFDN: Number of destroyed or damaged educational facilities attributed to disasters
 VC_DSR_ESDN: Number of disruptions to educational services attributed to disasters
 VC_DSR_GDPLS: Direct economic loss attributed to disasters
 VC_DSR_HFDN: Number of destroyed or damaged health facilities attributed to disasters
 VC_DSR_HOLH: Direct economic loss in the housing sector attributed to disasters, by
-  hazard type [1.5.2, 11.5.2]
+  hazard type
 VC_DSR_HSDN: Number of disruptions to health services attributed to disasters
-VC_DSR_IJILN: Number of injured or ill people attributed to disasters [1.5.1, 11.5.1,
-  13.1.1]
-VC_DSR_LSGP: Direct economic loss attributed to disasters relative to GDP [1.5.2,
-  11.5.2]
-VC_DSR_MISS: Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]
-VC_DSR_MMHN: Number of deaths and missing persons attributed to disasters [1.5.1,
-  11.5.1, 13.1.1]
-VC_DSR_MORT: Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]
+VC_DSR_IJILN: Number of injured or ill people attributed to disasters
+VC_DSR_LSGP: Direct economic loss attributed to disasters relative to GDP
+VC_DSR_MISS: Number of missing persons due to disaster
+VC_DSR_MMHN: Number of deaths and missing persons attributed to disasters
+VC_DSR_MORT: Number of deaths due to disaster
 VC_DSR_MTMP: Number of deaths and missing persons attributed to disasters per 100,000
-  population [1.5.1, 11.5.1, 13.1.1]
+  population
 VC_DSR_PDAN: Number of people whose damaged dwellings were attributed to disasters
-  [1.5.1, 11.5.1, 13.1.1]
 VC_DSR_PDLN: Number of people whose livelihoods were disrupted or destroyed, attributed
-  to disasters [1.5.1, 11.5.1, 13.1.1]
+  to disasters
 VC_DSR_PDYN: Number of people whose destroyed dwellings were attributed to disasters
-  [1.5.1, 11.5.1, 13.1.1]
 VC_DTH_TOCV: Conflict-related deaths per 100,000 population
 VC_DTH_TOCVN: Number of conflict-related deaths (civilians), by sex, age and cause
   of death
@@ -527,9 +518,8 @@ VC_VOH_SXPH: Proportion of persons victim of physical or sexual harassment, in t
   previous 12 months
 VC_VOV_DCMN: Proportion of population reporting having personally felt discriminated
   against or harassed in the previous 12 months on the basis of a ground of discrimination
-  prohibited under international human rights law [10.3.1, 16.b.1]
+  prohibited under international human rights law
 VC_VOV_GDSD: Proportion of population reporting having felt discriminated against
-  [10.3.1, 16.b.1]
 VC_VOV_PHYL: Proportion of population subjected to physical violence in the previous
   12 months
 VC_VOV_ROBB: Proportion of population subjected to robbery in the previous 12 months

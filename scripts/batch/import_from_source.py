@@ -248,7 +248,6 @@ def clean_disaggregation_value(value, column=''):
                 '<18Y': 'Y0T17',
                 '<1M': 'M0',
                 '<1Y': 'Y0',
-                '14-Feb': '14-Feb', # SDMX mapping needed!
                 '20-24': 'Y20T24',
                 '25+': 'Y_GE25',
                 '30-70': 'Y30T70',
@@ -675,10 +674,10 @@ skip_translations = [
 def convert_translated_text(group, key, text):
     # Remove the bracketed indicator number from SERIES codes
     if group == 'SERIES':
-        words = text.split(' ')
-        last = words.pop()
-        if last.startswith('[') and last.endswith(']'):
-            text = ' '.join(words)
+        first_bracket = text.find('[')
+        if first_bracket > -1:
+            text = text[0:first_bracket].strip()
+
     if group == 'COMPOSITE_BREAKDOWN':
         text = text.strip().split(': ')[-1]
     return text
