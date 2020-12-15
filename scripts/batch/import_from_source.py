@@ -167,9 +167,10 @@ def convert_composite_breakdown_label(label):
 
 
 def translate(group, key):
+    translated = key
     if group in english and key in english[group]:
-        return english[group][key]
-    return key
+        translated = english[group][key]
+    return translated
 
 
 def get_column_name_changes():
@@ -669,6 +670,7 @@ skip_translations = [
     'TIME_DETAIL',
     'UNIT_MULT',
     'UPPER_BOUND',
+    'FREQ',
 ]
 def convert_translated_text(group, key, text):
     # Remove the bracketed indicator number from SERIES codes
@@ -677,6 +679,8 @@ def convert_translated_text(group, key, text):
         last = words.pop()
         if last.startswith('[') and last.endswith(']'):
             text = ' '.join(words)
+    if group == 'COMPOSITE_BREAKDOWN':
+        text = text.strip().split(': ')[-1]
     return text
 
 for group in english:
