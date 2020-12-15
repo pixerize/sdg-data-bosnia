@@ -432,15 +432,46 @@ def get_indicator_name(indicator_name):
 
 
 def clean_series(series):
-    series = series.strip()
+    fixed = series.strip()
     # Weird space character.
-    series = series.replace(' ', ' ')
+    fixed = fixed.replace(' ', ' ')
     # Some have line breaks.
-    if '\n' in series:
-        series = series.split('\n')[-1]
-    # Finally return the last word.
-    series = series.split(' ')[-1]
-    return series
+    if '\n' in fixed:
+        fixed = fixed.split('\n')[-1]
+    # Return the last word.
+    fixed = fixed.split(' ')[-1]
+    fixed = fixed.upper()
+    # From this point, perform a few manual fixes.
+    conversions = {
+        'IT_NET_BB': 'IT_NET_BBND',
+        'IT_NET_BBN': 'IT_NET_BBNDN',
+        'AG_PRD_FIESMSI': 'AG_PRD_FIESMS',
+        'AG_PRD_FIESMSIN': 'AG_PRD_FIESMSN',
+        'AG_PRD_FIESSI': 'AG_PRD_FIESS',
+        'AG_PRD_FIESSIN': 'AG_PRD_FIESSN',
+        'EG_ELC_ACCS': 'EG_ACS_ELEC',
+        'ER_PTD_FRWRT': 'ER_PTD_FRHWTR',
+        'ER_PTD_MOTN': 'ER_PTD_MTN',
+        'ER_PTD_TERRS': 'ER_PTD_TERR',
+        'ER_RSK_LSTI': 'ER_RSK_LST',
+        'SH_DTH_RNCOM': 'SH_DTH_NCD',
+        'SH_MED_HEAWOR': 'SH_MED_DEN',
+        'SH_STA_MMR': 'SH_STA_MORT',
+        'SH_STA_OVRWGT': 'SN_STA_OVWGT',
+        'SH_STA_OVRWGTN': 'SN_STA_OVWGTN',
+        'SH_STA_STUNT': 'SH_STA_STNT',
+        'SH_STA_STUNTN': 'SH_STA_STNTN',
+        'SH_STA_WASTE': 'SH_STA_WAST',
+        'SH_STA_WASTEN': 'SH_STA_WASTN',
+        'SH_TBS_INCID': 'SH_TBS_INCD',
+        'VC_PRS_UNSEC': 'VC_PRS_UNSNT',
+    }
+    if fixed in conversions:
+        fixed = conversions[fixed]
+
+    if fixed.strip() != '':
+        things_to_translate['SERIES'][fixed] = series
+    return fixed
 
 
 def clean_unit(unit):
@@ -506,8 +537,6 @@ for sheet in sheet_info:
     year_cols = [str(year) for year in range(info['year_start'], info['year_end'] + 1)]
     columns = start_cols + info['disaggregations'] + year_cols + end_cols
     converters = { year: clean_data_value for year in year_cols }
-    converters['Series'] = clean_series
-    converters['Unit'] = clean_unit
     df = pd.read_excel(path,
         sheet_name=sheet,
         usecols=columns,
@@ -518,13 +547,17 @@ for sheet in sheet_info:
     )
     for col in info['disaggregations']:
         df[col] = df[col].apply(clean_disaggregation_value, column=col)
-
     # Fill in the merged cells.
     df['SDG target'] = df['SDG target'].fillna(method='ffill')
     df['SDG indicator'] = df['SDG indicator'].fillna(method='ffill')
     df['Series'] = df['Series'].fillna(method='ffill')
+
     # Drop rows without data.
     df = df.dropna(subset=year_cols, how='all')
+    # Convert units and series.
+    df['Series'] = df['Series'].apply(clean_series)
+    df['Unit'] = df['Unit'].apply(clean_unit)
+
     for index, row in df.iterrows():
 
         # Convert the data.
@@ -610,6 +643,57 @@ skip_translations = drop_these_columns()
 for key in things_to_translate:
     if key in skip_translations:
         continue
-    filepath = os.path.join('translations', 'en', key + '.yml')
+    if key not in english:
+        english[key] = things_to_translate[key]
+    else:
+        for item in things_to_translate[key]:
+            if item not in english[key]:
+                english[key][item] = things_to_translate[key][item]
+
+skip_translations = [
+    'BASE_PER',
+    'COMMENT_OBS',
+    'COMMENT_TS',
+    'CUST_BREAKDOWN',
+    'CUST_BREAKDOWN_LB',
+    'DATA_LAST_UPDATE',
+    'GEO_INFO_TYPE',
+    'GEO_INFO_URL',
+    'LOWER_BOUND',
+    'NATURE',
+    'OBS_STATUS',
+    'REF_AREA',
+    'REPORTING_TYPE',
+    'SOURCE_DETAIL',
+    'TIME_COVERAGE',
+    'TIME_DETAIL',
+    'UNIT_MULT',
+    'UPPER_BOUND',
+]
+def convert_translated_text(group, key, text):
+    # Remove the bracketed indicator number from SERIES codes
+    if group == 'SERIES':
+        words = text.split(' ')
+        last = words.pop()
+        if last.startswith('[') and last.endswith(']'):
+            text = ' '.join(words)
+    return text
+
+for group in english:
+    add_to_end = {}
+    if group in skip_translations:
+        continue
+    for key in english[group]:
+        english[group][key] = convert_translated_text(group, key, english[group][key])
+        if group not in things_to_translate or key not in things_to_translate[group]:
+            add_to_end[key] = english[group][key]
+    for key in add_to_end:
+        del english[group][key]
+
+    filepath = os.path.join('translations', 'en', group + '.yml')
     with open(filepath, 'w') as file:
-        yaml.dump(things_to_translate[key], file)
+        yaml.dump(english[group], file)
+
+    filepath = os.path.join('translations', 'en', group + '--UNUSED.yml')
+    with open(filepath, 'w') as file:
+        yaml.dump(add_to_end, file)
