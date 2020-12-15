@@ -694,10 +694,12 @@ for group in english:
     for key in add_to_end:
         del english[group][key]
 
-    filepath = os.path.join('translations', 'en', group + '.yml')
-    with open(filepath, 'w') as file:
-        yaml.dump(english[group], file)
+    if english[group]:
+        filepath = os.path.join('translations', 'en', group + '.yml')
+        with open(filepath, 'w') as file:
+            yaml.dump(english[group], file)
 
-    filepath = os.path.join('translations', 'en', group + '--UNUSED.yml')
-    with open(filepath, 'w') as file:
-        yaml.dump(add_to_end, file)
+    if add_to_end:
+        filepath = os.path.join('translations-unused', 'en', group + '.yml')
+        with open(filepath, 'w') as file:
+            yaml.dump(add_to_end, file)
