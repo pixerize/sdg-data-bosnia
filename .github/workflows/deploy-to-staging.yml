@@ -18,7 +18,7 @@ name: Deploy to staging
 on:
   push:
     branches:
-      - source-data-import
+      - develop
 
 jobs:
   build:
