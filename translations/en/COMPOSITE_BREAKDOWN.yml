@@ -1,7 +1,3 @@
-ARSP: ARSP
-COPA: COPA
-EMAIL: EMAIL
-EPRS: EPRS
 IHR_01: National legislation, policy and financing
 IHR_02: Coordination and National Focal Point communications
 IHR_03: Surveillance
@@ -32,14 +28,19 @@ NCD_CARDIO: Cardiovascular disease
 NCD_CNCR: Cancer
 NCD_CRESPD: Chronic respiratory disease
 NCD_DIABTS: Diabetes
-PCPR: PCPR
 PC_DEFENCE: Defence
 PC_FINANCE: Finance
 PC_FOR_AFF: Foreign Affairs
 PC_GEN_EQU: Gender Equality
 PC_HUM_RIGH: Human Rights
+SKILL_ICTATCH: Sending e-mails with attached files
 SKILL_ICTCMFL: Copying or moving a file or folder
+SKILL_ICTCPT: Using copy and paste tools to duplicate or move information within a
+  document
+SKILL_ICTPRGM: Writing a computer program using a specialized programming language
+SKILL_ICTPST: Creating electronic presentations with presentation software
 SKILL_ICTSFWR: Finding, downloading, installing and configuring software
+SKILL_ICTSSHT: Using basic arithmetic formula in a spreadsheet
 SKILL_ICTTRFF: Transferring files between a computer and other devices
 SKILL_MATH: Mathematics
 SKILL_READ: Reading

@@ -1,9 +1,8 @@
 BOOL: Boolean or binary measure
 CON_USD: Constant USD
-CU USD: CU USD
-CUR LCU M: CUR LCU M
+CUR_LCU_M: CUR_LCU_M
 GPERM3: Micrograms per cubic meter
-HA TH: HA TH
+HA_TH: HA_TH
 IX: Index
 KG: Kilograms
 KG_PER_CON_USD: Kilograms per constant USD
@@ -24,8 +23,9 @@ PT: Percent
 P_KM: Passenger kilometres
 RO: Ratio
 SCORE: Score
-T: Metric Tons
 THOUSANDS: THOUSANDS
+TONNES: TONNES
+TONNES_M: TONNES_M
 T_KM: Tonne kilometres
 UNIT_MEASURE: Unit of measure
 USD: USD

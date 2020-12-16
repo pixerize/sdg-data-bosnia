@@ -20,6 +20,7 @@ PER_USD_GDP_PPP: Per 1 USD GDP (PPP)
 PH: pH
 PROB: Probability
 PV_USD: USD in net present value terms
+T: Metric Tons
 TEU: Twenty-foot equivalent units (TEUs)
 T_PER_HA: Tonnes per hectare
 USD_PER_M3: United States dollars per cubic metre

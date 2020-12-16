@@ -230,14 +230,14 @@ def clean_disaggregation_value(value, column=''):
     if sdmx_compatibility:
         if column == 'Location':
             conversions = {
-                'ALL AREA': '_T', # Instead of _T
+                'ALL AREA': '_T',
                 'RURAL': 'R',
                 'URBAN': 'U',
             }
         if column == 'Age':
             conversions = {
                 'ALL': '_T', # Instead of _T
-                'ALL AGE': '_T', # Instead of _T
+                'ALL AGE': '_T',
                 '15-19': 'Y15T19',
                 '15-24': 'Y15T24',
                 '15-25': 'Y15T25', # custom
@@ -260,7 +260,7 @@ def clean_disaggregation_value(value, column=''):
             conversions = {
                 'FEMALE': 'F',
                 'MALE': 'M',
-                'BOTHSEX': '_T', # Instead of _T
+                'BOTHSEX': '_T',
             }
         if column == 'Mode of transportation':
             conversions = {
@@ -316,7 +316,7 @@ def clean_disaggregation_value(value, column=''):
             }
         if column == 'Quantile':
             conversions = {
-                '_T': '_T', # Instead of _T
+                '_T': '_T',
             }
         if column == 'Type of occupation':
             conversions = {
@@ -329,32 +329,32 @@ def clean_disaggregation_value(value, column=''):
         if column == 'Type of product':
             conversions = {
                 'AGR': 'AGG_AGR',
-                'ALP': 'ALP', # SDMX mapping needed!
+                'ALP': '_T',
                 'ARM': 'AGG_ARMS',
-                'BIM': 'BIM', # SDMX mapping needed!
-                'CLO': 'AGG_CLTH', # Clothing?
-                'COL': 'COL', # SDMX mapping needed!
-                'CPR': 'CPR', # SDMX mapping needed!
-                'CRO': 'CRO', # SDMX mapping needed!
-                'FEO': 'FEO', # SDMX mapping needed!
-                'FOF': 'FOF', # SDMX mapping needed!
-                'GAS': 'GAS', # SDMX mapping needed!
-                'GBO': 'GBO', # SDMX mapping needed!
+                'BIM': 'MF1',
+                'CLO': 'AGG_CLTH',
+                'COL': 'MF41',
+                'CPR': 'MF121',
+                'CRO': 'MF11',
+                'FEO': 'MF21',
+                'FOF': 'MF4',
+                'GAS': 'MF422',
+                'GBO': 'MF122',
                 'IND': 'AGG_IND',
-                'MEO': 'MEO', # SDMX mapping needed!
-                'NFO': 'NFO', # SDMX mapping needed!
-                'NMA': 'NMA', # SDMX mapping needed!
-                'NMC': 'NMC', # SDMX mapping needed!
-                'NMM': 'NMM', # SDMX mapping needed!
+                'MEO': 'MF2',
+                'NFO': 'MF22',
+                'NMA': 'MF_AGG3B',
+                'NMC': 'MF_AGG3A',
+                'NMM': 'MF3',
                 'OIL': 'AGG_OIL',
-                'PET': 'MF421', # Petroleum?
+                'PET': 'MF421',
                 'TEX': 'AGG_TXT',
-                'WCH': 'WCH', # SDMX mapping needed!
-                'WOD': 'MF13', # Wood?
-                'MAZ': 'CPC2_1_112', # Maize?
-                'RIC': 'CPC2_1_113', # Rice?
-                'SOR': 'CPC2_1_114', # Sorghum?
-                'WHE': 'CPC2_1_111', # Wheat?
+                'WCH': 'MF14',
+                'WOD': 'MF13',
+                'MAZ': 'CPC2_1_112',
+                'RIC': 'CPC2_1_113',
+                'SOR': 'CPC2_1_114',
+                'WHE': 'CPC2_1_111',
             }
         if column == 'Education level':
             conversions = {
@@ -369,24 +369,24 @@ def clean_disaggregation_value(value, column=''):
                 'SOFT': 'SKILL_ICTSFWR',
                 'TRAF': 'SKILL_ICTTRFF',
                 'CMFL': 'SKILL_ICTCMFL',
-                'PCPR': 'PCPR', # SDMX mapping needed!
-                'EPRS': 'EPRS', # SDMX mapping needed!
-                'EMAIL': 'EMAIL', # SDMX mapping needed!
-                'COPA': 'COPA', # SDMX mapping needed!
-                'ARSP': 'ARSP', # SDMX mapping needed!
+                'PCPR': 'SKILL_ICTPRGM',
+                'EPRS': 'SKILL_ICTPST',
+                'EMAIL': 'SKILL_ICTATCH',
+                'COPA': 'SKILL_ICTCPT',
+                'ARSP': 'SKILL_ICTSSHT',
             }
         if column == 'Type of speed':
             conversions = {
                 '256KT2MBPS': 'IS_256KT2M',
                 '2MT10MBPS': 'IS_2MT10M',
                 '10MBPS': 'IS_GE10M',
-                'ANYS': '_T', # Instead of _T
+                'ANYS': '_T',
             }
         if column == 'Activity':
             conversions = {
                 'ISIC4_A': 'ISIC4_A',
                 'NONAGR': 'ISIC4_BTU',
-                'TOTAL': '_T', # Instead of _T
+                'TOTAL': '_T',
             }
         if column == 'Parliamentary committees':
             conversions = {
@@ -481,15 +481,15 @@ def clean_unit(unit):
     sdmx_fixes = {
         '% (PERCENT)': 'PT',
         '$ (USD)': 'USD',
-        'MILIONS': 'MILLIONS', # SDMX mapping needed! This is a UNIT_MULT.
-        'THOUSANDS': 'THOUSANDS', # SDMX mapping needed! This is a UNIT_MULT.
+        'MILIONS': 'MILLIONS', # custom
+        'THOUSANDS': 'THOUSANDS', # custom
         'INDEX': 'IX',
         'PER 100000 LIVE BIRTHS': 'PER_100000_LIVE_BIRTHS',
         'PER 1000 LIVE BIRTHS': 'PER_1000_LIVE_BIRTHS',
         'PER 1000 UNINFECTED POPULATION': 'PER_1000_UNINFECTED_POP',
         'PER 100000 POPULATION': 'PER_100000_POP',
         'PER 1000  POPULATION': 'PER_1000_POP',
-        'LITRES': 'LITRES', # SDMX mapping needed! LITRES_PURE_ALCOHOL?
+        'LITRES': 'LITRES', # custom
         'PER 1000 POPULATION': 'PER_1000_POP',
         "'PER 10000 POPULATION": 'PER_10000_POP',
         'RATIO': 'RO',
@@ -499,23 +499,23 @@ def clean_unit(unit):
         'M M3 PER ANNUM': 'M_M3_PER_YR',
         'MJPER GDP CON PPP USD': 'MJ_PER_GDP_CON_PPP_USD',
         'W PER CAPITA': 'W_PER_CAPITA',
-        'TONNES': 'T', # Metric tons?
+        'TONNES': 'TONNES', # custom
         'KG PER CON USD': 'KG_PER_CON_USD',
         'CUR LCU': 'CUR_LCU',
         'PER 100000 EMPLOYEES': 'PER_100000_EMP',
         'CON USD': 'CON_USD',
         '%': 'PT',
-        'METONS': 'T', # Metric tons?
+        'METONS': 'T',
         'T KM': 'T_KM',
         'P KM': 'P_KM',
-        'TONNES M': 'T', # Metric tons?
+        'TONNES M': 'TONNES_M', # custom
         'PER 1000000 POPULATION': 'PER_1000000_POP',
-        'mgr/m^3': 'GPERM3', # micrograms per m3?
-        'CU USD B': 'CU USD B', # SDMX mapping needed!
-        'HA TH': 'HA TH', # SDMX mapping needed! Hectares?
-        'CUR LCU M': 'CUR LCU M', # SDMX mapping needed! CUR_LCU?
+        'mgr/m^3': 'GPERM3',
+        'CU USD B': 'USD_B', # custom
+        'HA TH': 'HA_TH', # custom
+        'CUR LCU M': 'CUR_LCU_M', # custom
         'PER 100 POPULATION': 'PER_100_POP',
-        'CU USD': 'CU USD', # SDMX mapping needed! USD?
+        'CU USD': 'USD',
     }
     if sdmx_compatibility:
         fixes.update(sdmx_fixes)
@@ -680,6 +680,9 @@ def convert_translated_text(group, key, text):
 
     if group == 'COMPOSITE_BREAKDOWN':
         text = text.strip().split(': ')[-1]
+
+    if group == 'PRODUCT':
+        text = text.replace(' (material flows)', '')
     return text
 
 for group in english:

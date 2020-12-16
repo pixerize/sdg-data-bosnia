@@ -4,25 +4,25 @@ AGG_CLTH: Clothing
 AGG_IND: Industrial products
 AGG_OIL: Oil
 AGG_TXT: Textiles
-ALP: ALP
-BIM: BIM
-COL: COL
 CPC2_1_111: Wheat
 CPC2_1_112: Maize
 CPC2_1_113: Rice
 CPC2_1_114: Sorghum
-CPR: CPR
-CRO: CRO
-FEO: FEO
-FOF: FOF
-GAS: GAS
-GBO: GBO
-MEO: MEO
-MF13: Wood (material flows)
-MF421: Petroleum (material flows)
-NFO: NFO
-NMA: NMA
-NMC: NMC
-NMM: NMM
+MF1: Biomass
+MF11: Crops
+MF121: Crop residues
+MF122: Grazed biomass and fodder crops
+MF13: Wood
+MF14: Wild catch and harvest
+MF2: Metal ores
+MF21: Ferrous ores
+MF22: Non-ferrous ores
+MF3: Non-metallic minerals
+MF4: Fossil fuels
+MF41: Coal
+MF421: Petroleum
+MF422: Natural gas
+MF_AGG3A: Non-metallic minerals - construction dominant
+MF_AGG3B: Non-metallic minerals - industrial or agricultural dominant
 PRODUCT: Type of product
-WCH: WCH
+_T: No breakdown

@@ -1,17 +1,2 @@
 CPC2_1_118: Millet
-MF1: Biomass (material flows)
-MF11: Crops (material flows)
-MF121: Crop residues (material flows)
-MF122: Grazed biomass and fodder crops (material flows)
-MF14: Wild catch and harvest (material flows)
-MF2: Metal ores (material flows)
-MF21: Ferrous ores (material flows)
-MF22: Non-ferrous ores (material flows)
-MF3: Non-metallic minerals (material flows)
-MF4: Fossil fuels (material flows)
-MF41: Coal (material flows)
-MF413: Oil shale and tar sands (material flows)
-MF422: Natural gas (material flows)
-MF_AGG3A: Non-metallic minerals - construction dominant (material flows)
-MF_AGG3B: Non-metallic minerals - industrial or agricultural dominant (material flows)
-_T: No breakdown
+MF413: Oil shale and tar sands

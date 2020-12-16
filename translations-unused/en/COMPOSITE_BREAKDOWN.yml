@@ -129,13 +129,7 @@ POL_MACRO: Macro policies (e.g. national strategies/action plans, new institutio
 POL_REGLEG: Regulatory and legal instruments (e.g. laws, standards, enforcement measures)
 POL_VOLSRG: Voluntary and self-regulation schemes (e.g. sectoral partnerships, codes
   of conduct, CSR initiatives)
-SKILL_ICTATCH: Sending e-mails with attached files
 SKILL_ICTCDV: connecting and installing new devices
-SKILL_ICTCPT: Using copy and paste tools to duplicate or move information within a
-  document
-SKILL_ICTPRGM: Writing a computer program using a specialized programming language
-SKILL_ICTPST: Creating electronic presentations with presentation software
-SKILL_ICTSSHT: Using basic arithmetic formula in a spreadsheet
 SKILL_LTRCY: Functional literacy
 SKILL_NMRCY: Functional numeracy
 SUD_ALCOHOL: Alcohol
