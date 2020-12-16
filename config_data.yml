@@ -115,3 +115,5 @@ indicator_options:
     - Year
     - UNIT_MEASURE
     - SERIES
+    - Value
+    - GeoCode
