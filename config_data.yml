@@ -108,4 +108,12 @@ docs_intro: This is a list of examples of endpoints and output that are
   on the available output.
 # This can be uncommented and updated so allow links to your indicator pages.
 # The URL here should have [id] instead of the indicator ID.
-#docs_indicator_url: https://my-github-org/my-site-repository/[id]
+docs_indicator_url: https://sdgbosnia.co.uk/[id]
+
+indicator_options:
+  non_disaggregation_columns:
+    - Year
+    - UNIT_MEASURE
+    - SERIES
+    - Value
+    - GeoCode
