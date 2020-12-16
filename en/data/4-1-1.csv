@@ -1,7 +1,7 @@
-Year,Units,Education level,Sex,Type of skill,Value
-2018,%,Lowsec,Bothsex,Math,42.44
-2018,%,Lowsec,Bothsex,Read,46.33
-2018,%,Lowsec,Female,Math,42.57
-2018,%,Lowsec,Female,Read,54.77
-2018,%,Lowsec,Male,Math,42.31
-2018,%,Lowsec,Male,Read,38.29
+Year,SERIES,UNIT_MEASURE,Education level,Sex,COMPOSITE_BREAKDOWN,Value
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics,Percent,Lower secondary education,Both sexes or no breakdown by sex,Mathematics,42.4365892249964
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics,Percent,Lower secondary education,Both sexes or no breakdown by sex,Reading,46.324932261413004
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics,Percent,Lower secondary education,Female,Mathematics,42.5678637665707
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics,Percent,Lower secondary education,Female,Reading,54.766622776236105
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics,Percent,Lower secondary education,Male,Mathematics,42.311625596573
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics,Percent,Lower secondary education,Male,Reading,38.2890689164767

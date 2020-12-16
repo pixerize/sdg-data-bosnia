@@ -1,8 +1,10 @@
-Disaggregation,bs,sr,hr,Number of indicators,Number of values
-Age,Starost,Старост,Starost,4,5
-Education level,Nivo obrazovanja,Ниво образовања,Nivo obrazovanja,1,1
-Group,Group,Group,Group,2,4
-Location,Lokacija,Локација,Lokacija,2,3
-Sex,Spol,Пол,Spol,6,4
-Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,1,17
-Type of skill,Vrsta vještine,Врста вјештине,Vrsta vještine,1,2
+Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
+ACTIVITY,Economic activity,ACTIVITY,ACTIVITY,ACTIVITY,1,3
+AGE,Age,AGE,AGE,AGE,23,19
+COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,10,58
+EDUCATION_LEV,Education level,EDUCATION_LEV,EDUCATION_LEV,EDUCATION_LEV,3,3
+INCOME_WEALTH_QUANTILE,Income or wealth quantile,INCOME_WEALTH_QUANTILE,INCOME_WEALTH_QUANTILE,INCOME_WEALTH_QUANTILE,2,6
+OCCUPATION,Occupation,OCCUPATION,OCCUPATION,OCCUPATION,1,5
+PRODUCT,Type of product,PRODUCT,PRODUCT,PRODUCT,4,23
+SEX,Sex,SEX,SEX,SEX,31,5
+URBANISATION,Degree of urbanisation,URBANISATION,URBANISATION,URBANISATION,9,3

@@ -1,6 +1,20 @@
-Value,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-15-24,15-24,15-24,15-24,6,2
-15+,15+,15+,15+,10,3
-20-24,20-24,20-24,20-24,2,1
-25+,25+,25+,25+,6,2
-All,Ukupno,Укупно,Ukupno,2,1
+Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
+_T,All age ranges or no breakdown by age,_T,_T,_T,17,3
+_U,Unknown,_U,_U,_U,5,1
+_X,Not available,_X,_X,_X,2,1
+M0,under 1 month old,M0,M0,M0,2,1
+Y0,under 1 year old,Y0,Y0,Y0,6,1
+Y0T17,under 18 years old,Y0T17,Y0T17,Y0T17,8,1
+Y0T4,under 5 years old,Y0T4,Y0T4,Y0T4,14,5
+Y15T19,15 to 19 years old,Y15T19,Y15T19,Y15T19,1,1
+Y15T24,15 to 24 years old,Y15T24,Y15T24,Y15T24,10,4
+Y15T25,Y15T25,Y15T25,Y15T25,Y15T25,1,1
+Y15T26,Y15T26,Y15T26,Y15T26,Y15T26,1,1
+Y15T49,15 to 49 years old,Y15T49,Y15T49,Y15T49,4,2
+Y20T24,20 to 24 years old,Y20T24,Y20T24,Y20T24,2,1
+Y2T14,2 to 14 years old,Y2T14,Y2T14,Y2T14,1,1
+Y30T70,30 to exact 70 years old,Y30T70,Y30T70,Y30T70,3,1
+Y_GE15,15 years old and over,Y_GE15,Y_GE15,Y_GE15,28,8
+Y_GE18,18 years old and over,Y_GE18,Y_GE18,Y_GE18,8,1
+Y_GE25,25 years old and over,Y_GE25,Y_GE25,Y_GE25,6,2
+Y_GE46,46 years old and over,Y_GE46,Y_GE46,Y_GE46,6,1

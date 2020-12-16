@@ -1,7 +1,7 @@
-Year,Series,Value
-2017,number of local governments,143
-2018,number of local governments,143
-2017,number of local governments that adopt and implement local DRR strategies in,0
-2018,number of local governments that adopt and implement local DRR strategies in,0
-2017,proportion of local governments that adopt and implement local disaster risk,0
-2018,proportion of local governments that adopt and implement local disaster risk,0
+Year,SERIES,UNIT_MEASURE,Value
+2017,SG_GOV_LOGV,NUMBER,143
+2018,SG_GOV_LOGV,NUMBER,143
+2017,SG_DSR_SILN,NUMBER,0
+2018,SG_DSR_SILN,NUMBER,0
+2017,SG_DSR_SILS,PT,0
+2018,SG_DSR_SILS,PT,0

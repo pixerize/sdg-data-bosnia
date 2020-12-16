@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2015,2015,2016,2016,2016],"Group":["A","B",null,"A","B",null],"Value":[1,3,2,1,3,2]},"edges":[]}
+{"data":{"Year":[2017,2018,2017,2018,2017,2018],"SERIES":["SG_GOV_LOGV","SG_GOV_LOGV","SG_DSR_SILN","SG_DSR_SILN","SG_DSR_SILS","SG_DSR_SILS"],"UNIT_MEASURE":["NUMBER","NUMBER","NUMBER","NUMBER","PT","PT"],"Value":[143,143,0,0,0,0]},"edges":[]}

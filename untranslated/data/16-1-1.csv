@@ -1,53 +1,53 @@
-Year,Series,Sex,Value
-2000,"number of victims of intentional homicide per 100,000 population, by sex",Female,1.04736
-2001,"number of victims of intentional homicide per 100,000 population, by sex",Female,1.5173299999999998
-2002,"number of victims of intentional homicide per 100,000 population, by sex",Female,1.3068899999999999
-2009,"number of victims of intentional homicide per 100,000 population, by sex",Female,0.789
-2010,"number of victims of intentional homicide per 100,000 population, by sex",Female,0.5302399999999999
-2011,"number of victims of intentional homicide per 100,000 population, by sex",Female,0.85845
-2012,"number of victims of intentional homicide per 100,000 population, by sex",Female,1.30739
-2013,"number of victims of intentional homicide per 100,000 population, by sex",Female,0.77581
-2014,"number of victims of intentional homicide per 100,000 population, by sex",Female,0.61995
-2015,"number of victims of intentional homicide per 100,000 population, by sex",Female,1.0297399999999999
-2016,"number of victims of intentional homicide per 100,000 population, by sex",Female,0.86879
-2017,"number of victims of intentional homicide per 100,000 population, by sex",Female,0.58505
-2018,"number of victims of intentional homicide per 100,000 population, by sex",Female,0.47181999999999996
-2000,"number of victims of intentional homicide per 100,000 population, by sex",Male,4.28972
-2001,"number of victims of intentional homicide per 100,000 population, by sex",Male,2.87378
-2002,"number of victims of intentional homicide per 100,000 population, by sex",Male,3.52028
-2009,"number of victims of intentional homicide per 100,000 population, by sex",Male,3.0521
-2010,"number of victims of intentional homicide per 100,000 population, by sex",Male,2.52812
-2011,"number of victims of intentional homicide per 100,000 population, by sex",Male,1.9473
-2012,"number of victims of intentional homicide per 100,000 population, by sex",Male,2.20433
-2013,"number of victims of intentional homicide per 100,000 population, by sex",Male,1.84115
-2014,"number of victims of intentional homicide per 100,000 population, by sex",Male,2.28369
-2015,"number of victims of intentional homicide per 100,000 population, by sex",Male,2.31957
-2016,"number of victims of intentional homicide per 100,000 population, by sex",Male,1.8075299999999999
-2017,"number of victims of intentional homicide per 100,000 population, by sex",Male,1.94852
-2018,"number of victims of intentional homicide per 100,000 population, by sex",Male,1.9037400000000002
-2000,"number of victims of intentional homicide, by sex",Female,20.0
-2001,"number of victims of intentional homicide, by sex",Female,29.0
-2002,"number of victims of intentional homicide, by sex",Female,25.0
-2009,"number of victims of intentional homicide, by sex",Female,15.0
-2010,"number of victims of intentional homicide, by sex",Female,10.0
-2011,"number of victims of intentional homicide, by sex",Female,16.0
-2012,"number of victims of intentional homicide, by sex",Female,24.0
-2013,"number of victims of intentional homicide, by sex",Female,14.0
-2014,"number of victims of intentional homicide, by sex",Female,11.0
-2015,"number of victims of intentional homicide, by sex",Female,18.0
-2016,"number of victims of intentional homicide, by sex",Female,15.0
-2017,"number of victims of intentional homicide, by sex",Female,10.0
-2018,"number of victims of intentional homicide, by sex",Female,8.0
-2000,"number of victims of intentional homicide, by sex",Male,79.0
-2001,"number of victims of intentional homicide, by sex",Male,53.0
-2002,"number of victims of intentional homicide, by sex",Male,65.0
-2009,"number of victims of intentional homicide, by sex",Male,56.0
-2010,"number of victims of intentional homicide, by sex",Male,46.0
-2011,"number of victims of intentional homicide, by sex",Male,35.0
-2012,"number of victims of intentional homicide, by sex",Male,39.0
-2013,"number of victims of intentional homicide, by sex",Male,32.0
-2014,"number of victims of intentional homicide, by sex",Male,39.0
-2015,"number of victims of intentional homicide, by sex",Male,39.0
-2016,"number of victims of intentional homicide, by sex",Male,30.0
-2017,"number of victims of intentional homicide, by sex",Male,32.0
-2018,"number of victims of intentional homicide, by sex",Male,31.0
+Year,SERIES,UNIT_MEASURE,SEX,Value
+2000,VC_IHR_PSRC,PER_100000_POP,F,1.04736
+2001,VC_IHR_PSRC,PER_100000_POP,F,1.5173299999999998
+2002,VC_IHR_PSRC,PER_100000_POP,F,1.3068899999999999
+2009,VC_IHR_PSRC,PER_100000_POP,F,0.789
+2010,VC_IHR_PSRC,PER_100000_POP,F,0.5302399999999999
+2011,VC_IHR_PSRC,PER_100000_POP,F,0.85845
+2012,VC_IHR_PSRC,PER_100000_POP,F,1.30739
+2013,VC_IHR_PSRC,PER_100000_POP,F,0.77581
+2014,VC_IHR_PSRC,PER_100000_POP,F,0.61995
+2015,VC_IHR_PSRC,PER_100000_POP,F,1.0297399999999999
+2016,VC_IHR_PSRC,PER_100000_POP,F,0.86879
+2017,VC_IHR_PSRC,PER_100000_POP,F,0.58505
+2018,VC_IHR_PSRC,PER_100000_POP,F,0.47181999999999996
+2000,VC_IHR_PSRC,PER_100000_POP,M,4.28972
+2001,VC_IHR_PSRC,PER_100000_POP,M,2.87378
+2002,VC_IHR_PSRC,PER_100000_POP,M,3.52028
+2009,VC_IHR_PSRC,PER_100000_POP,M,3.0521
+2010,VC_IHR_PSRC,PER_100000_POP,M,2.52812
+2011,VC_IHR_PSRC,PER_100000_POP,M,1.9473
+2012,VC_IHR_PSRC,PER_100000_POP,M,2.20433
+2013,VC_IHR_PSRC,PER_100000_POP,M,1.84115
+2014,VC_IHR_PSRC,PER_100000_POP,M,2.28369
+2015,VC_IHR_PSRC,PER_100000_POP,M,2.31957
+2016,VC_IHR_PSRC,PER_100000_POP,M,1.8075299999999999
+2017,VC_IHR_PSRC,PER_100000_POP,M,1.94852
+2018,VC_IHR_PSRC,PER_100000_POP,M,1.9037400000000002
+2000,VC_IHR_PSRCN,NUMBER,F,20.0
+2001,VC_IHR_PSRCN,NUMBER,F,29.0
+2002,VC_IHR_PSRCN,NUMBER,F,25.0
+2009,VC_IHR_PSRCN,NUMBER,F,15.0
+2010,VC_IHR_PSRCN,NUMBER,F,10.0
+2011,VC_IHR_PSRCN,NUMBER,F,16.0
+2012,VC_IHR_PSRCN,NUMBER,F,24.0
+2013,VC_IHR_PSRCN,NUMBER,F,14.0
+2014,VC_IHR_PSRCN,NUMBER,F,11.0
+2015,VC_IHR_PSRCN,NUMBER,F,18.0
+2016,VC_IHR_PSRCN,NUMBER,F,15.0
+2017,VC_IHR_PSRCN,NUMBER,F,10.0
+2018,VC_IHR_PSRCN,NUMBER,F,8.0
+2000,VC_IHR_PSRCN,NUMBER,M,79.0
+2001,VC_IHR_PSRCN,NUMBER,M,53.0
+2002,VC_IHR_PSRCN,NUMBER,M,65.0
+2009,VC_IHR_PSRCN,NUMBER,M,56.0
+2010,VC_IHR_PSRCN,NUMBER,M,46.0
+2011,VC_IHR_PSRCN,NUMBER,M,35.0
+2012,VC_IHR_PSRCN,NUMBER,M,39.0
+2013,VC_IHR_PSRCN,NUMBER,M,32.0
+2014,VC_IHR_PSRCN,NUMBER,M,39.0
+2015,VC_IHR_PSRCN,NUMBER,M,39.0
+2016,VC_IHR_PSRCN,NUMBER,M,30.0
+2017,VC_IHR_PSRCN,NUMBER,M,32.0
+2018,VC_IHR_PSRCN,NUMBER,M,31.0

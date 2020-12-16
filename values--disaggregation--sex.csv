@@ -1,5 +1,6 @@
-Value,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-Bothsex,Ukupno,Укупно,Ukupno,4,2
-Female,Ženski,Женски,Ženski,14,6
-Male,Muški,Мушки,Muški,12,5
-Total,Ukupno,Укупно,Ukupno,3,1
+Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
+_T,Both sexes or no breakdown by sex,_T,_T,_T,94,24
+_U,Unknown,_U,_U,_U,5,1
+_X,Not available,_X,_X,_X,2,1
+F,Female,F,F,F,113,29
+M,Male,M,M,M,108,24

@@ -1,7 +1,7 @@
-Year,Series,Value
-2017,Broj lokalnih samouprava (broj),143
-2018,Broj lokalnih samouprava (broj),143
-2017,Broj lokalnih samouprava koje usvajaju i provode lokalne strategije smanjenja rizika od katastrofa u skladu s nacionalnim strategijama (broj),0
-2018,Broj lokalnih samouprava koje usvajaju i provode lokalne strategije smanjenja rizika od katastrofa u skladu s nacionalnim strategijama (broj),0
-2017,Udio lokalnih samouprava koje usvajaju i provode lokalne strategije smanjenja rizika od katastrofa u skladu s nacionalnim strategijama smanjenja rizika od katastrofe (%),0
-2018,Udio lokalnih samouprava koje usvajaju i provode lokalne strategije smanjenja rizika od katastrofa u skladu s nacionalnim strategijama smanjenja rizika od katastrofe (%),0
+Year,SERIES,UNIT_MEASURE,Value
+2017,SG_GOV_LOGV,NUMBER,143
+2018,SG_GOV_LOGV,NUMBER,143
+2017,SG_DSR_SILN,NUMBER,0
+2018,SG_DSR_SILN,NUMBER,0
+2017,SG_DSR_SILS,PT,0
+2018,SG_DSR_SILS,PT,0

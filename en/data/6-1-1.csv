@@ -1,20 +1,19 @@
-Year,Location,Value
-2000,All Area,87.35
-2001,All Area,87.47
-2002,All Area,87.59
-2003,All Area,87.71
-2004,All Area,87.83
-2005,All Area,87.95
-2006,All Area,88.07
-2007,All Area,88.19
-2008,All Area,88.3
-2009,All Area,88.42
-2010,All Area,88.53
-2011,All Area,88.65
-2012,All Area,88.7
-2013,All Area,88.8
-2014,All Area,88.82
-2015,All Area,88.83
-2016,All Area,88.83
-2017,All Area,88.84
-2018,All Area,77.8
+Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Value
+2000,Proportion of population using safely managed drinking water services,Percent,Total,87.34998
+2001,Proportion of population using safely managed drinking water services,Percent,Total,87.47272
+2002,Proportion of population using safely managed drinking water services,Percent,Total,87.59461999999999
+2003,Proportion of population using safely managed drinking water services,Percent,Total,87.71558
+2004,Proportion of population using safely managed drinking water services,Percent,Total,87.83569
+2005,Proportion of population using safely managed drinking water services,Percent,Total,87.95483
+2006,Proportion of population using safely managed drinking water services,Percent,Total,88.07303
+2007,Proportion of population using safely managed drinking water services,Percent,Total,88.19037
+2008,Proportion of population using safely managed drinking water services,Percent,Total,88.30676
+2009,Proportion of population using safely managed drinking water services,Percent,Total,88.42222
+2010,Proportion of population using safely managed drinking water services,Percent,Total,88.53673
+2011,Proportion of population using safely managed drinking water services,Percent,Total,88.65034
+2012,Proportion of population using safely managed drinking water services,Percent,Total,88.70229
+2013,Proportion of population using safely managed drinking water services,Percent,Total,88.79768
+2014,Proportion of population using safely managed drinking water services,Percent,Total,88.81719
+2015,Proportion of population using safely managed drinking water services,Percent,Total,88.82513
+2016,Proportion of population using safely managed drinking water services,Percent,Total,88.83336
+2017,Proportion of population using safely managed drinking water services,Percent,Total,88.84189
