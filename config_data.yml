@@ -109,6 +109,12 @@ docs_intro: This is a list of examples of endpoints and output that are
 # This can be uncommented and updated so allow links to your indicator pages.
 # The URL here should have [id] instead of the indicator ID.
 docs_indicator_url: https://sdgbosnia.co.uk/[id]
+# This shows the translations in the disaggregation report.
+docs_translate_disaggregations: true
+# This includes additional columns in the disaggregation report.
+docs_extra_disaggregations:
+  - UNIT_MEASURE
+  - SERIES
 
 indicator_options:
   non_disaggregation_columns:
