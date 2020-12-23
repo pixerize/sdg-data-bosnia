@@ -1,13 +1,13 @@
 Year,SERIES,UNIT_MEASURE,Godine,Value
-2000,SN_STA_OVWGTN,Hiljade,Ispod 5 godina,38.20568
-2006,SN_STA_OVWGTN,Hiljade,Ispod 5 godina,42.348440000000004
-2012,SN_STA_OVWGTN,Hiljade,Ispod 5 godina,31.75099
-2000,SH_STA_WASTN,Hiljade,Ispod 5 godina,17.266029999999997
-2006,SH_STA_WASTN,Hiljade,Ispod 5 godina,6.6519699999999995
-2012,SH_STA_WASTN,Hiljade,Ispod 5 godina,4.29692
-2000,SN_STA_OVWGT,Procenat,Ispod 5 godina,16.3
-2006,SN_STA_OVWGT,Procenat,Ispod 5 godina,25.7
-2012,SN_STA_OVWGT,Procenat,Ispod 5 godina,17.4
-2000,SH_STA_WAST,Procenat,Ispod 5 godina,7.36389
-2006,SH_STA_WAST,Procenat,Ispod 5 godina,4.03126
-2012,SH_STA_WAST,Procenat,Ispod 5 godina,2.34816
+2000,Djeca sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom (broj),Hiljade,Ispod 5 godina,38.20568
+2006,Djeca sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom (broj),Hiljade,Ispod 5 godina,42.348440000000004
+2012,Djeca sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom (broj),Hiljade,Ispod 5 godina,31.75099
+2000,Djeca umjereno ili ozbiljno iscrpljena (broj),Hiljade,Ispod 5 godina,17.266029999999997
+2006,Djeca umjereno ili ozbiljno iscrpljena (broj),Hiljade,Ispod 5 godina,6.6519699999999995
+2012,Djeca umjereno ili ozbiljno iscrpljena (broj),Hiljade,Ispod 5 godina,4.29692
+2000,Udio djece sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom,Procenat,Ispod 5 godina,16.3
+2006,Udio djece sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom,Procenat,Ispod 5 godina,25.7
+2012,Udio djece sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom,Procenat,Ispod 5 godina,17.4
+2000,Udio djece koja su umjereno ili ozbiljno iscrpljena,Procenat,Ispod 5 godina,7.36389
+2006,Udio djece koja su umjereno ili ozbiljno iscrpljena,Procenat,Ispod 5 godina,4.03126
+2012,Udio djece koja su umjereno ili ozbiljno iscrpljena,Procenat,Ispod 5 godina,2.34816
