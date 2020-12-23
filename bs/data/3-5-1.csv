@@ -1,4 +1,4 @@
-Year,SERIES,UNIT_MEASURE,AGE,SEX,Value
-2017,SH_SUD_ALCOL,PT,Y_GE15,_T,6.0
-2017,SH_SUD_ALCOL,PT,Y_GE15,F,2.2
-2017,SH_SUD_ALCOL,PT,Y_GE15,M,9.8
+Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
+2017,SH_SUD_ALCOL,Procenat,15 godina i više,Oba spola ili bez podjele po spolu,6.0
+2017,SH_SUD_ALCOL,Procenat,15 godina i više,Žene,2.2
+2017,SH_SUD_ALCOL,Procenat,15 godina i više,Muškarci,9.8

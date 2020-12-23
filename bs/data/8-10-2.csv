@@ -1,10 +1,10 @@
-Year,SERIES,UNIT_MEASURE,SEX,AGE,Value
-2011,FB_BNK_ACCSS,PT,_T,Y_GE15,56.21
-2014,FB_BNK_ACCSS,PT,_T,Y_GE15,52.69
-2017,FB_BNK_ACCSS,PT,_T,Y_GE15,58.84
-2011,FB_BNK_ACCSS,PT,F,Y_GE15,47.72
-2014,FB_BNK_ACCSS,PT,F,Y_GE15,47.06
-2017,FB_BNK_ACCSS,PT,F,Y_GE15,54.74
-2011,FB_BNK_ACCSS,PT,M,Y_GE15,67.23
-2014,FB_BNK_ACCSS,PT,M,Y_GE15,58.82
-2017,FB_BNK_ACCSS,PT,M,Y_GE15,63.18
+Year,SERIES,UNIT_MEASURE,Spol,Godine,Value
+2011,FB_BNK_ACCSS,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,56.21
+2014,FB_BNK_ACCSS,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,52.69
+2017,FB_BNK_ACCSS,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,58.84
+2011,FB_BNK_ACCSS,Procenat,Žene,15 godina i više,47.72
+2014,FB_BNK_ACCSS,Procenat,Žene,15 godina i više,47.06
+2017,FB_BNK_ACCSS,Procenat,Žene,15 godina i više,54.74
+2011,FB_BNK_ACCSS,Procenat,Muškarci,15 godina i više,67.23
+2014,FB_BNK_ACCSS,Procenat,Muškarci,15 godina i više,58.82
+2017,FB_BNK_ACCSS,Procenat,Muškarci,15 godina i više,63.18

@@ -1,59 +1,59 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,No breakdown,_T,_T,_T,2,1
-IHR_01,"National legislation, policy and financing",IHR_01,IHR_01,IHR_01,1,1
-IHR_02,Coordination and National Focal Point communications,IHR_02,IHR_02,IHR_02,1,1
-IHR_03,Surveillance,IHR_03,IHR_03,IHR_03,1,1
-IHR_04,Response,IHR_04,IHR_04,IHR_04,1,1
-IHR_05,Preparedness,IHR_05,IHR_05,IHR_05,1,1
-IHR_06,Risk communication,IHR_06,IHR_06,IHR_06,1,1
-IHR_07,Human resources,IHR_07,IHR_07,IHR_07,1,1
-IHR_08,Laboratory,IHR_08,IHR_08,IHR_08,1,1
-IHR_09,Points of entry,IHR_09,IHR_09,IHR_09,1,1
-IHR_10,Zoonotic events,IHR_10,IHR_10,IHR_10,1,1
-IHR_11,Food safety,IHR_11,IHR_11,IHR_11,1,1
-IHR_12,Chemical events,IHR_12,IHR_12,IHR_12,1,1
-IHR_13,Radionuclear emergencies,IHR_13,IHR_13,IHR_13,1,1
-IO_ECOSOC,UN Economic and Social Council,IO_ECOSOC,IO_ECOSOC,IO_ECOSOC,4,2
-IO_IBRD,International Bank for Reconstruction and Development,IO_IBRD,IO_IBRD,IO_IBRD,4,2
-IO_IFC,International Finance Corporation,IO_IFC,IO_IFC,IO_IFC,4,2
-IO_IMF,International Monetary Fund,IO_IMF,IO_IMF,IO_IMF,4,2
-IO_UNGA,UN General Assembly,IO_UNGA,IO_UNGA,IO_UNGA,4,2
-IO_UNSC,UN Security Council,IO_UNSC,IO_UNSC,IO_UNSC,4,2
-IS_256KT2M,256 kbit/s to less than 2 Mbit/s,IS_256KT2M,IS_256KT2M,IS_256KT2M,2,1
-IS_2MT10M,2 Mbit/s to less than 10 Mbit/s,IS_2MT10M,IS_2MT10M,IS_2MT10M,2,1
-IS_GE10M,10 Mbit/s or above,IS_GE10M,IS_GE10M,IS_GE10M,2,1
-MOT_IWW,Inland waterway transport,MOT_IWW,MOT_IWW,MOT_IWW,1,1
-MOT_RAI,Rail,MOT_RAI,MOT_RAI,MOT_RAI,2,1
-MOT_ROA,Road,MOT_ROA,MOT_ROA,MOT_ROA,2,1
-NCD_CARDIO,Cardiovascular disease,NCD_CARDIO,NCD_CARDIO,NCD_CARDIO,3,1
-NCD_CNCR,Cancer,NCD_CNCR,NCD_CNCR,NCD_CNCR,3,1
-NCD_CRESPD,Chronic respiratory disease,NCD_CRESPD,NCD_CRESPD,NCD_CRESPD,3,1
-NCD_DIABTS,Diabetes,NCD_DIABTS,NCD_DIABTS,NCD_DIABTS,3,1
-PC_DEFENCE,Defence,PC_DEFENCE,PC_DEFENCE,PC_DEFENCE,2,1
-PC_FINANCE,Finance,PC_FINANCE,PC_FINANCE,PC_FINANCE,2,1
-PC_FOR_AFF,Foreign Affairs,PC_FOR_AFF,PC_FOR_AFF,PC_FOR_AFF,2,1
-PC_GEN_EQU,Gender Equality,PC_GEN_EQU,PC_GEN_EQU,PC_GEN_EQU,2,1
-PC_HUM_RIGH,Human Rights,PC_HUM_RIGH,PC_HUM_RIGH,PC_HUM_RIGH,2,1
-SKILL_ICTATCH,Sending e-mails with attached files,SKILL_ICTATCH,SKILL_ICTATCH,SKILL_ICTATCH,3,1
-SKILL_ICTCMFL,Copying or moving a file or folder,SKILL_ICTCMFL,SKILL_ICTCMFL,SKILL_ICTCMFL,3,1
-SKILL_ICTCPT,Using copy and paste tools to duplicate or move information within a document,SKILL_ICTCPT,SKILL_ICTCPT,SKILL_ICTCPT,3,1
-SKILL_ICTPRGM,Writing a computer program using a specialized programming language,SKILL_ICTPRGM,SKILL_ICTPRGM,SKILL_ICTPRGM,3,1
-SKILL_ICTPST,Creating electronic presentations with presentation software,SKILL_ICTPST,SKILL_ICTPST,SKILL_ICTPST,3,1
-SKILL_ICTSFWR,"Finding, downloading, installing and configuring software",SKILL_ICTSFWR,SKILL_ICTSFWR,SKILL_ICTSFWR,3,1
-SKILL_ICTSSHT,Using basic arithmetic formula in a spreadsheet,SKILL_ICTSSHT,SKILL_ICTSSHT,SKILL_ICTSSHT,3,1
-SKILL_ICTTRFF,Transferring files between a computer and other devices,SKILL_ICTTRFF,SKILL_ICTTRFF,SKILL_ICTTRFF,3,1
-SKILL_MATH,Mathematics,SKILL_MATH,SKILL_MATH,SKILL_MATH,8,2
-SKILL_READ,Reading,SKILL_READ,SKILL_READ,SKILL_READ,8,2
-SPAR_01,Legislation and Financing,SPAR_01,SPAR_01,SPAR_01,1,1
-SPAR_02,IHR Coordination and National IHR Focal Point Functions,SPAR_02,SPAR_02,SPAR_02,1,1
-SPAR_03,Zoonotic events and the human–animal interface,SPAR_03,SPAR_03,SPAR_03,1,1
-SPAR_04,Food safety,SPAR_04,SPAR_04,SPAR_04,1,1
-SPAR_05,Laboratory,SPAR_05,SPAR_05,SPAR_05,1,1
-SPAR_06,Surveillance,SPAR_06,SPAR_06,SPAR_06,1,1
-SPAR_07,Human resources,SPAR_07,SPAR_07,SPAR_07,1,1
-SPAR_08,National Health Emergency Framework,SPAR_08,SPAR_08,SPAR_08,1,1
-SPAR_09,Health Service Provision,SPAR_09,SPAR_09,SPAR_09,1,1
-SPAR_10,Risk Communication,SPAR_10,SPAR_10,SPAR_10,1,1
-SPAR_11,Points of entry,SPAR_11,SPAR_11,SPAR_11,1,1
-SPAR_12,Chemical events,SPAR_12,SPAR_12,SPAR_12,1,1
-SPAR_13,Radiation emergencies,SPAR_13,SPAR_13,SPAR_13,1,1
+_T,No breakdown,Bez podjele,_T,_T,2,1
+IHR_01,"National legislation, policy and financing","Nacionalno zakonodavstvo, politika i finansiranje",IHR_01,IHR_01,1,1
+IHR_02,Coordination and National Focal Point communications,Koordinacija i nacionalna kontakt tačka za komunikaciju,IHR_02,IHR_02,1,1
+IHR_03,Surveillance,Nadzor,IHR_03,IHR_03,1,1
+IHR_04,Response,Odgovor,IHR_04,IHR_04,1,1
+IHR_05,Preparedness,Spremnost,IHR_05,IHR_05,1,1
+IHR_06,Risk communication,Komunikacija o riziku,IHR_06,IHR_06,1,1
+IHR_07,Human resources,Ljudski resursi,IHR_07,IHR_07,1,1
+IHR_08,Laboratory,Laboratorija,IHR_08,IHR_08,1,1
+IHR_09,Points of entry,Tačke ulaska,IHR_09,IHR_09,1,1
+IHR_10,Zoonotic events,Zoonotski događaji,IHR_10,IHR_10,1,1
+IHR_11,Food safety,Sigurnost hrane,IHR_11,IHR_11,1,1
+IHR_12,Chemical events,Hemijski događaji,IHR_12,IHR_12,1,1
+IHR_13,Radionuclear emergencies,Vanredne situacije u vezi sa zračenjem,IHR_13,IHR_13,1,1
+IO_ECOSOC,UN Economic and Social Council,Ekonomsko i socijalno vijeće UN-a,IO_ECOSOC,IO_ECOSOC,4,2
+IO_IBRD,International Bank for Reconstruction and Development,Međunarodna banka za obnovu i razvoj,IO_IBRD,IO_IBRD,4,2
+IO_IFC,International Finance Corporation,Međunarodna finansijska korporacija,IO_IFC,IO_IFC,4,2
+IO_IMF,International Monetary Fund,Međunarodni monetarni fond,IO_IMF,IO_IMF,4,2
+IO_UNGA,UN General Assembly,Generalna skupština UN-a,IO_UNGA,IO_UNGA,4,2
+IO_UNSC,UN Security Council,Vijeće sigurnosti UN-a,IO_UNSC,IO_UNSC,4,2
+IS_256KT2M,256 kbit/s to less than 2 Mbit/s,256 kbit/s do manje od 2 Mbit/s,IS_256KT2M,IS_256KT2M,2,1
+IS_2MT10M,2 Mbit/s to less than 10 Mbit/s,2 Mbit/s do manje od 10 Mbit/s,IS_2MT10M,IS_2MT10M,2,1
+IS_GE10M,10 Mbit/s or above,10 Mbit/s ili više,IS_GE10M,IS_GE10M,2,1
+MOT_IWW,Inland waterway transport,Unutrašnji plovni put,MOT_IWW,MOT_IWW,1,1
+MOT_RAI,Rail,Željeznički,MOT_RAI,MOT_RAI,2,1
+MOT_ROA,Road,Cestovni,MOT_ROA,MOT_ROA,2,1
+NCD_CARDIO,Cardiovascular disease,Kardiovaskularne bolesti,NCD_CARDIO,NCD_CARDIO,3,1
+NCD_CNCR,Cancer,Rak,NCD_CNCR,NCD_CNCR,3,1
+NCD_CRESPD,Chronic respiratory disease,Hronična respiratorna bolest,NCD_CRESPD,NCD_CRESPD,3,1
+NCD_DIABTS,Diabetes,Dijabetes,NCD_DIABTS,NCD_DIABTS,3,1
+PC_DEFENCE,Defence,Odbrana,PC_DEFENCE,PC_DEFENCE,2,1
+PC_FINANCE,Finance,Finansije,PC_FINANCE,PC_FINANCE,2,1
+PC_FOR_AFF,Foreign Affairs,Vanjski poslovi,PC_FOR_AFF,PC_FOR_AFF,2,1
+PC_GEN_EQU,Gender Equality,Ravnopravnost spolova,PC_GEN_EQU,PC_GEN_EQU,2,1
+PC_HUM_RIGH,Human Rights,Ljudska prava,PC_HUM_RIGH,PC_HUM_RIGH,2,1
+SKILL_ICTATCH,Sending e-mails with attached files,Slanje e-pošte s priloženim datotekama,SKILL_ICTATCH,SKILL_ICTATCH,3,1
+SKILL_ICTCMFL,Copying or moving a file or folder,Kopiranje ili premještanje datoteke ili mape,SKILL_ICTCMFL,SKILL_ICTCMFL,3,1
+SKILL_ICTCPT,Using copy and paste tools to duplicate or move information within a document,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,SKILL_ICTCPT,SKILL_ICTCPT,3,1
+SKILL_ICTPRGM,Writing a computer program using a specialized programming language,Pisanje računarskog programa pomoću specijalizovanog programskog jezika,SKILL_ICTPRGM,SKILL_ICTPRGM,3,1
+SKILL_ICTPST,Creating electronic presentations with presentation software,Izrada elektronskih prezentacija pomoću softvera za prezentacije,SKILL_ICTPST,SKILL_ICTPST,3,1
+SKILL_ICTSFWR,"Finding, downloading, installing and configuring software","Pronalaženje, preuzimanje, instaliranje i konfigurisanje softvera",SKILL_ICTSFWR,SKILL_ICTSFWR,3,1
+SKILL_ICTSSHT,Using basic arithmetic formula in a spreadsheet,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,SKILL_ICTSSHT,SKILL_ICTSSHT,3,1
+SKILL_ICTTRFF,Transferring files between a computer and other devices,Prijenos datoteka između računara i drugih uređaja,SKILL_ICTTRFF,SKILL_ICTTRFF,3,1
+SKILL_MATH,Mathematics,Matematika,SKILL_MATH,SKILL_MATH,8,2
+SKILL_READ,Reading,Čitanje,SKILL_READ,SKILL_READ,8,2
+SPAR_01,Legislation and Financing,Zakonodavstvo i finansiranje,SPAR_01,SPAR_01,1,1
+SPAR_02,IHR Coordination and National IHR Focal Point Functions,Koordinacija Međunarodnih zdravstvenih propisa (IHR) i nacionalne funkcije kontakt osoba za IHR,SPAR_02,SPAR_02,1,1
+SPAR_03,Zoonotic events and the human–animal interface,Zoonotski događaji i sučelje čovjeka i životinje,SPAR_03,SPAR_03,1,1
+SPAR_04,Food safety,Sigurnost hrane,SPAR_04,SPAR_04,1,1
+SPAR_05,Laboratory,Laboratorija,SPAR_05,SPAR_05,1,1
+SPAR_06,Surveillance,Nadzor,SPAR_06,SPAR_06,1,1
+SPAR_07,Human resources,Ljudski resursi,SPAR_07,SPAR_07,1,1
+SPAR_08,National Health Emergency Framework,Nacionalni okvir za hitnu medicinsku pomoć,SPAR_08,SPAR_08,1,1
+SPAR_09,Health Service Provision,Pružanje zdravstvene usluge,SPAR_09,SPAR_09,1,1
+SPAR_10,Risk Communication,Komunikacija o riziku,SPAR_10,SPAR_10,1,1
+SPAR_11,Points of entry,Tačke ulaska,SPAR_11,SPAR_11,1,1
+SPAR_12,Chemical events,Hemijski događaji,SPAR_12,SPAR_12,1,1
+SPAR_13,Radiation emergencies,Vanredne situacije u vezi sa zračenjem,SPAR_13,SPAR_13,1,1
