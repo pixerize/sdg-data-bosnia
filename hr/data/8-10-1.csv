@@ -1,28 +1,28 @@
-Year,SERIES,UNIT_MEASURE,AGE,Value
-2006,FB_ATM_TOTL,NUMBER,Y_GE15,15.7603554664889
-2007,FB_ATM_TOTL,NUMBER,Y_GE15,20.8961213927472
-2008,FB_ATM_TOTL,NUMBER,Y_GE15,28.7130590242978
-2009,FB_ATM_TOTL,NUMBER,Y_GE15,43.2367234540877
-2010,FB_ATM_TOTL,NUMBER,Y_GE15,35.1659332423759
-2011,FB_ATM_TOTL,NUMBER,Y_GE15,38.9598561143151
-2012,FB_ATM_TOTL,NUMBER,Y_GE15,42.191874449599794
-2013,FB_ATM_TOTL,NUMBER,Y_GE15,45.6265850902459
-2014,FB_ATM_TOTL,NUMBER,Y_GE15,48.31007888500611
-2015,FB_ATM_TOTL,NUMBER,Y_GE15,51.9150244970796
-2016,FB_ATM_TOTL,NUMBER,Y_GE15,52.4818500268657
-2017,FB_ATM_TOTL,NUMBER,Y_GE15,53.8932535381674
-2018,FB_ATM_TOTL,NUMBER,Y_GE15,55.8396955995355
-2005,FB_CBK_BRCH,NUMBER,Y_GE15,27.494540623345102
-2006,FB_CBK_BRCH,NUMBER,Y_GE15,28.2853534083531
-2007,FB_CBK_BRCH,NUMBER,Y_GE15,31.806767982548102
-2008,FB_CBK_BRCH,NUMBER,Y_GE15,33.9075414005026
-2009,FB_CBK_BRCH,NUMBER,Y_GE15,32.2919292513186
-2010,FB_CBK_BRCH,NUMBER,Y_GE15,31.514825419397003
-2011,FB_CBK_BRCH,NUMBER,Y_GE15,32.444938411338896
-2012,FB_CBK_BRCH,NUMBER,Y_GE15,32.235380712661
-2013,FB_CBK_BRCH,NUMBER,Y_GE15,33.186003044440604
-2014,FB_CBK_BRCH,NUMBER,Y_GE15,34.3523281833073
-2015,FB_CBK_BRCH,NUMBER,Y_GE15,31.6513071817848
-2016,FB_CBK_BRCH,NUMBER,Y_GE15,30.302020551226
-2017,FB_CBK_BRCH,NUMBER,Y_GE15,30.4659717857087
-2018,FB_CBK_BRCH,NUMBER,Y_GE15,30.5318183903908
+Year,SERIES,UNIT_MEASURE,Godine,Value
+2006,Broj automatiziranih bankomata (ATM) na 100.000 odraslih stanovnika,Broj,15 godina i više,15.7603554664889
+2007,Broj automatiziranih bankomata (ATM) na 100.000 odraslih stanovnika,Broj,15 godina i više,20.8961213927472
+2008,Broj automatiziranih bankomata (ATM) na 100.000 odraslih stanovnika,Broj,15 godina i više,28.7130590242978
+2009,Broj automatiziranih bankomata (ATM) na 100.000 odraslih stanovnika,Broj,15 godina i više,43.2367234540877
+2010,Broj automatiziranih bankomata (ATM) na 100.000 odraslih stanovnika,Broj,15 godina i više,35.1659332423759
+2011,Broj automatiziranih bankomata (ATM) na 100.000 odraslih stanovnika,Broj,15 godina i više,38.9598561143151
+2012,Broj automatiziranih bankomata (ATM) na 100.000 odraslih stanovnika,Broj,15 godina i više,42.191874449599794
+2013,Broj automatiziranih bankomata (ATM) na 100.000 odraslih stanovnika,Broj,15 godina i više,45.6265850902459
+2014,Broj automatiziranih bankomata (ATM) na 100.000 odraslih stanovnika,Broj,15 godina i više,48.31007888500611
+2015,Broj automatiziranih bankomata (ATM) na 100.000 odraslih stanovnika,Broj,15 godina i više,51.9150244970796
+2016,Broj automatiziranih bankomata (ATM) na 100.000 odraslih stanovnika,Broj,15 godina i više,52.4818500268657
+2017,Broj automatiziranih bankomata (ATM) na 100.000 odraslih stanovnika,Broj,15 godina i više,53.8932535381674
+2018,Broj automatiziranih bankomata (ATM) na 100.000 odraslih stanovnika,Broj,15 godina i više,55.8396955995355
+2005,Broj filijala komercijalnih banaka na 100 000 odraslih,Broj,15 godina i više,27.494540623345102
+2006,Broj filijala komercijalnih banaka na 100 000 odraslih,Broj,15 godina i više,28.2853534083531
+2007,Broj filijala komercijalnih banaka na 100 000 odraslih,Broj,15 godina i više,31.806767982548102
+2008,Broj filijala komercijalnih banaka na 100 000 odraslih,Broj,15 godina i više,33.9075414005026
+2009,Broj filijala komercijalnih banaka na 100 000 odraslih,Broj,15 godina i više,32.2919292513186
+2010,Broj filijala komercijalnih banaka na 100 000 odraslih,Broj,15 godina i više,31.514825419397003
+2011,Broj filijala komercijalnih banaka na 100 000 odraslih,Broj,15 godina i više,32.444938411338896
+2012,Broj filijala komercijalnih banaka na 100 000 odraslih,Broj,15 godina i više,32.235380712661
+2013,Broj filijala komercijalnih banaka na 100 000 odraslih,Broj,15 godina i više,33.186003044440604
+2014,Broj filijala komercijalnih banaka na 100 000 odraslih,Broj,15 godina i više,34.3523281833073
+2015,Broj filijala komercijalnih banaka na 100 000 odraslih,Broj,15 godina i više,31.6513071817848
+2016,Broj filijala komercijalnih banaka na 100 000 odraslih,Broj,15 godina i više,30.302020551226
+2017,Broj filijala komercijalnih banaka na 100 000 odraslih,Broj,15 godina i više,30.4659717857087
+2018,Broj filijala komercijalnih banaka na 100 000 odraslih,Broj,15 godina i više,30.5318183903908

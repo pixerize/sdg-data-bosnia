@@ -1,12 +1,12 @@
 Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
-ACTIVITY,Economic activity,Privredna aktivnost,ACTIVITY,ACTIVITY,1,3
-AGE,Age,Godine,AGE,AGE,23,19
+ACTIVITY,Economic activity,Privredna aktivnost,ACTIVITY,Privredna aktivnost,1,3
+AGE,Age,Godine,AGE,Godine,23,19
 COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,10,58
-EDUCATION_LEV,Education level,Nivo obrazovanja,EDUCATION_LEV,EDUCATION_LEV,3,3
-INCOME_WEALTH_QUANTILE,Income or wealth quantile,Kvantil dohotka ili bogatstva,INCOME_WEALTH_QUANTILE,INCOME_WEALTH_QUANTILE,2,6
-OCCUPATION,Occupation,Zanimanje,OCCUPATION,OCCUPATION,1,5
-PRODUCT,Type of product,Vrsta proizvoda,PRODUCT,PRODUCT,4,23
-SERIES,SDG Series,SDG Varijable,SERIES,SERIES,146,261
-SEX,Sex,Spol,SEX,SEX,31,5
-UNIT_MEASURE,Unit of measure,Mjerna jedinica,UNIT_MEASURE,UNIT_MEASURE,146,30
-URBANISATION,Degree of urbanisation,Stepen urbanizacije,URBANISATION,URBANISATION,9,3
+EDUCATION_LEV,Education level,Nivo obrazovanja,EDUCATION_LEV,Razina obrazovanja,3,3
+INCOME_WEALTH_QUANTILE,Income or wealth quantile,Kvantil dohotka ili bogatstva,INCOME_WEALTH_QUANTILE,Kvantil dohotka ili bogatstva,2,6
+OCCUPATION,Occupation,Zanimanje,OCCUPATION,Zanimanje,1,5
+PRODUCT,Type of product,Vrsta proizvoda,PRODUCT,Vrsta proizvoda,4,23
+SERIES,SDG Series,SDG Varijable,SERIES,SDG Varijable,146,261
+SEX,Sex,Spol,SEX,Spol,31,5
+UNIT_MEASURE,Unit of measure,Mjerna jedinica,UNIT_MEASURE,Mjerna jedinica,146,30
+URBANISATION,Degree of urbanisation,Stepen urbanizacije,URBANISATION,Stupanj urbanizacije,9,3

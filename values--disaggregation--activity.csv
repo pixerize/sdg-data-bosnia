@@ -1,4 +1,4 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,No breakdown,Bez podjele,_T,_T,3,1
-ISIC4_A,"Agriculture, forestry and fishing","Poljoprivreda, šumarstvo i ribolov",ISIC4_A,ISIC4_A,3,1
-ISIC4_BTU,Non-agriculture,Nepoljoprivredna,ISIC4_BTU,ISIC4_BTU,3,1
+_T,No breakdown,Bez podjele,_T,Bez podjele,3,1
+ISIC4_A,"Agriculture, forestry and fishing","Poljoprivreda, šumarstvo i ribolov",ISIC4_A,"Poljoprivreda, šumarstvo i ribolov",3,1
+ISIC4_BTU,Non-agriculture,Nepoljoprivredna,ISIC4_BTU,Nepoljoprivredna,3,1

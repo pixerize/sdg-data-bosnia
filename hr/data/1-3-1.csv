@@ -1,13 +1,13 @@
-Year,SERIES,UNIT_MEASURE,SEX,Value
-2009,SI_COV_PENSN,PT,_T,29.6
-2001,SI_COV_UEMP,PT,_T,1.2
-2005,SI_COV_UEMP,PT,_T,1.6
-2007,SI_COV_UEMP,PT,_T,1.6
-2009,SI_COV_UEMP,PT,_T,2.4
-2010,SI_COV_UEMP,PT,_T,2.6
-2011,SI_COV_UEMP,PT,_T,2.0
-2007,SI_COV_LMKT,PT,,2.03118
-2007,SI_COV_SOCAST,PT,,20.50947
-2015,SI_COV_SOCAST,PT,,17.4175
-2007,SI_COV_SOCINS,PT,,41.523790000000005
-2015,SI_COV_SOCINS,PT,,40.16296
+Year,SERIES,UNIT_MEASURE,Spol,Value
+2009,Udio stanovništva iznad zakonske dobne granice za mirovinu koji primaju mirovinu,Postotak,Oba spola ili bez podjele po spolu,29.6
+2001,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Postotak,Oba spola ili bez podjele po spolu,1.2
+2005,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Postotak,Oba spola ili bez podjele po spolu,1.6
+2007,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Postotak,Oba spola ili bez podjele po spolu,1.6
+2009,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Postotak,Oba spola ili bez podjele po spolu,2.4
+2010,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Postotak,Oba spola ili bez podjele po spolu,2.6
+2011,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Postotak,Oba spola ili bez podjele po spolu,2.0
+2007,Udio stanovništva obuhvaćenog programima tržišta rada,Postotak,,2.03118
+2007,Udio stanovništva obuhvaćenog programima socijalne skrbi,Postotak,,20.50947
+2015,Udio stanovništva obuhvaćenog programima socijalne skrbi,Postotak,,17.4175
+2007,Udio stanovništva obuhvaćenog programima socijalnog osiguranja,Postotak,,41.523790000000005
+2015,Udio stanovništva obuhvaćenog programima socijalnog osiguranja,Postotak,,40.16296

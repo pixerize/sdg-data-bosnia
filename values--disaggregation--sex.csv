@@ -1,6 +1,6 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,Both sexes or no breakdown by sex,Oba spola ili bez podjele po spolu,_T,_T,94,24
-_U,Unknown,Nepoznato,_U,_U,5,1
-_X,Not available,Nije dostupno,_X,_X,2,1
-F,Female,Žene,F,F,113,29
-M,Male,Muškarci,M,M,108,24
+_T,Both sexes or no breakdown by sex,Oba spola ili bez podjele po spolu,_T,Oba spola ili bez podjele po spolu,94,24
+_U,Unknown,Nepoznato,_U,Nepoznato,5,1
+_X,Not available,Nije dostupno,_X,Nije dostupno,2,1
+F,Female,Žene,F,Žene,113,29
+M,Male,Muškarci,M,Muškarci,108,24

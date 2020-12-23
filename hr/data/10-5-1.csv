@@ -1,134 +1,134 @@
 Year,SERIES,UNIT_MEASURE,Value
-2000,FI_FSI_FSLS,PT,54.049403667562295
-2001,FI_FSI_FSLS,PT,65.07871304080629
-2002,FI_FSI_FSLS,PT,51.5190348825523
-2003,FI_FSI_FSLS,PT,58.7375213456581
-2004,FI_FSI_FSLS,PT,59.5254449010301
-2005,FI_FSI_FSLS,PT,61.912742893894
-2006,FI_FSI_FSLS,PT,60.7730615475189
-2007,FI_FSI_FSLS,PT,61.284708589615796
-2008,FI_FSI_FSLS,PT,51.800986165646705
-2009,FI_FSI_FSLS,PT,52.8860411982102
-2010,FI_FSI_FSLS,PT,49.707368149003706
-2011,FI_FSI_FSLS,PT,46.670917605577095
-2012,FI_FSI_FSLS,PT,44.053109343285
-2013,FI_FSI_FSLS,PT,46.22966161950829
-2014,FI_FSI_FSLS,PT,46.138343168112705
-2015,FI_FSI_FSLS,PT,44.03978050924629
-2016,FI_FSI_FSLS,PT,44.0938567313618
-2017,FI_FSI_FSLS,PT,44.309757521127395
-2018,FI_FSI_FSLS,PT,44.6595444498472
-2000,FI_FSI_FSSNO,PT,0.0
-2001,FI_FSI_FSSNO,PT,0.0
-2002,FI_FSI_FSSNO,PT,0.0
-2003,FI_FSI_FSSNO,PT,42.1821411110154
-2004,FI_FSI_FSSNO,PT,11.555883494208699
-2005,FI_FSI_FSSNO,PT,8.28096322435092
-2006,FI_FSI_FSSNO,PT,8.86905149119733
-2007,FI_FSI_FSSNO,PT,5.89756294023394
-2008,FI_FSI_FSSNO,PT,6.2230590329163595
-2009,FI_FSI_FSSNO,PT,1.6983681988869501
-2010,FI_FSI_FSSNO,PT,4.36946617542722
-2011,FI_FSI_FSSNO,PT,15.985010797193901
-2012,FI_FSI_FSSNO,PT,5.34710950449262
-2013,FI_FSI_FSSNO,PT,6.69157732243825
-2014,FI_FSI_FSSNO,PT,10.232227266882
-2015,FI_FSI_FSSNO,PT,8.970821380820508
-2016,FI_FSI_FSSNO,PT,1.6966661563472802
-2017,FI_FSI_FSSNO,PT,-0.22757156549238197
-2018,FI_FSI_FSSNO,PT,2.2410250402879797
-2000,FI_FSI_FSKNL,PT,32.4693389054788
-2001,FI_FSI_FSKNL,PT,37.6090647205685
-2002,FI_FSI_FSKNL,PT,27.514714500471396
-2003,FI_FSI_FSKNL,PT,25.200873982285
-2004,FI_FSI_FSKNL,PT,19.494333340705303
-2005,FI_FSI_FSKNL,PT,20.415840577499896
-2006,FI_FSI_FSKNL,PT,15.3083015592223
-2007,FI_FSI_FSKNL,PT,12.9598497952939
-2008,FI_FSI_FSKNL,PT,13.8901872212992
-2009,FI_FSI_FSKNL,PT,25.464485699359102
-2010,FI_FSI_FSKNL,PT,42.009689201385996
-2011,FI_FSI_FSKNL,PT,25.9173608461831
-2012,FI_FSI_FSKNL,PT,30.0463912520826
-2013,FI_FSI_FSKNL,PT,30.9744996912242
-2014,FI_FSI_FSKNL,PT,27.922027925918602
-2015,FI_FSI_FSKNL,PT,26.8841920515272
-2016,FI_FSI_FSKNL,PT,18.4798679001815
-2017,FI_FSI_FSKNL,PT,14.3545245961634
-2018,FI_FSI_FSKNL,PT,12.1460435458492
-2000,FI_FSI_FSANL,PT,21.215964833505
-2001,FI_FSI_FSANL,PT,17.9071007297324
-2002,FI_FSI_FSANL,PT,11.017219625819399
-2003,FI_FSI_FSANL,PT,8.38582572565641
-2004,FI_FSI_FSANL,PT,6.07354427319199
-2005,FI_FSI_FSANL,PT,5.27605366757593
-2006,FI_FSI_FSANL,PT,3.9987615025115497
-2007,FI_FSI_FSANL,PT,3.01859191826486
-2008,FI_FSI_FSANL,PT,3.0912079422106498
-2009,FI_FSI_FSANL,PT,5.871207251876299
-2010,FI_FSI_FSANL,PT,11.421782175376
-2011,FI_FSI_FSANL,PT,11.7997140822193
-2012,FI_FSI_FSANL,PT,13.4656882284517
-2013,FI_FSI_FSANL,PT,15.1198478740683
-2014,FI_FSI_FSANL,PT,14.1653123764986
-2015,FI_FSI_FSANL,PT,13.7084158662801
-2016,FI_FSI_FSANL,PT,11.777719084596301
-2017,FI_FSI_FSANL,PT,10.046275152463199
-2018,FI_FSI_FSANL,PT,8.770335479676572
-2000,FI_FSI_FSKRTC,PT,26.4758691558612
-2001,FI_FSI_FSKRTC,PT,22.3586710421588
-2002,FI_FSI_FSKRTC,PT,18.2029212704059
-2003,FI_FSI_FSKRTC,PT,15.9222609694411
-2004,FI_FSI_FSKRTC,PT,14.9250443993237
-2005,FI_FSI_FSKRTC,PT,13.6714789097788
-2006,FI_FSI_FSKRTC,PT,13.617048392226401
-2007,FI_FSI_FSKRTC,PT,12.5972463295307
-2008,FI_FSI_FSKRTC,PT,12.0085239404031
-2009,FI_FSI_FSKRTC,PT,12.3948490369898
-2010,FI_FSI_FSKRTC,PT,12.640142484609699
-2011,FI_FSI_FSKRTC,PT,13.5692695579269
-2012,FI_FSI_FSKRTC,PT,14.062592230113802
-2013,FI_FSI_FSKRTC,PT,15.234217504719
-2014,FI_FSI_FSKRTC,PT,14.3452279119259
-2015,FI_FSI_FSKRTC,PT,13.7612358561706
-2016,FI_FSI_FSKRTC,PT,15.028388380123598
-2017,FI_FSI_FSKRTC,PT,14.767781340475599
-2018,FI_FSI_FSKRTC,PT,16.4870496553286
-2000,FI_FSI_FSKA,PT,20.439232259874
-2001,FI_FSI_FSKA,PT,14.527655611921501
-2002,FI_FSI_FSKA,PT,14.3457936836765
-2003,FI_FSI_FSKA,PT,11.7934618614307
-2004,FI_FSI_FSKA,PT,10.7372308611601
-2005,FI_FSI_FSKA,PT,9.72960582201421
-2006,FI_FSI_FSKA,PT,9.73688626796929
-2007,FI_FSI_FSKA,PT,8.817806517454288
-2008,FI_FSI_FSKA,PT,9.37215106339801
-2009,FI_FSI_FSKA,PT,10.7212574953015
-2010,FI_FSI_FSKA,PT,11.765449821522
-2011,FI_FSI_FSKA,PT,13.614428007970801
-2012,FI_FSI_FSKA,PT,14.2134322942846
-2013,FI_FSI_FSKA,PT,14.367667765343098
-2014,FI_FSI_FSKA,PT,14.377745547704402
-2015,FI_FSI_FSKA,PT,14.0982658596697
-2016,FI_FSI_FSKA,PT,14.354691636029198
-2017,FI_FSI_FSKA,PT,14.009650914740698
-2018,FI_FSI_FSKA,PT,13.1861645768664
-2000,FI_FSI_FSERA,PT,-1.76461726674205
-2001,FI_FSI_FSERA,PT,-1.0688454216849201
-2002,FI_FSI_FSERA,PT,-0.285976995872053
-2003,FI_FSI_FSERA,PT,0.44729594193314204
-2004,FI_FSI_FSERA,PT,0.6885794719622611
-2005,FI_FSI_FSERA,PT,0.694024200985177
-2006,FI_FSI_FSERA,PT,0.869776327088587
-2007,FI_FSI_FSERA,PT,0.8350243196840541
-2008,FI_FSI_FSERA,PT,0.413425110169344
-2009,FI_FSI_FSERA,PT,0.0883703101394783
-2010,FI_FSI_FSERA,PT,-0.604156469153203
-2011,FI_FSI_FSERA,PT,0.6749504007051961
-2012,FI_FSI_FSERA,PT,0.7231166218635309
-2013,FI_FSI_FSERA,PT,-0.0689789693939072
-2014,FI_FSI_FSERA,PT,0.785877546036617
-2015,FI_FSI_FSERA,PT,0.29853483873533504
-2016,FI_FSI_FSERA,PT,1.0778077072966499
-2017,FI_FSI_FSERA,PT,1.46374049149548
-2018,FI_FSI_FSERA,PT,1.3110732924383102
+2000,Likvidna imovina na kratkoročnim obvezama (%),Postotak,54.049403667562295
+2001,Likvidna imovina na kratkoročnim obvezama (%),Postotak,65.07871304080629
+2002,Likvidna imovina na kratkoročnim obvezama (%),Postotak,51.5190348825523
+2003,Likvidna imovina na kratkoročnim obvezama (%),Postotak,58.7375213456581
+2004,Likvidna imovina na kratkoročnim obvezama (%),Postotak,59.5254449010301
+2005,Likvidna imovina na kratkoročnim obvezama (%),Postotak,61.912742893894
+2006,Likvidna imovina na kratkoročnim obvezama (%),Postotak,60.7730615475189
+2007,Likvidna imovina na kratkoročnim obvezama (%),Postotak,61.284708589615796
+2008,Likvidna imovina na kratkoročnim obvezama (%),Postotak,51.800986165646705
+2009,Likvidna imovina na kratkoročnim obvezama (%),Postotak,52.8860411982102
+2010,Likvidna imovina na kratkoročnim obvezama (%),Postotak,49.707368149003706
+2011,Likvidna imovina na kratkoročnim obvezama (%),Postotak,46.670917605577095
+2012,Likvidna imovina na kratkoročnim obvezama (%),Postotak,44.053109343285
+2013,Likvidna imovina na kratkoročnim obvezama (%),Postotak,46.22966161950829
+2014,Likvidna imovina na kratkoročnim obvezama (%),Postotak,46.138343168112705
+2015,Likvidna imovina na kratkoročnim obvezama (%),Postotak,44.03978050924629
+2016,Likvidna imovina na kratkoročnim obvezama (%),Postotak,44.0938567313618
+2017,Likvidna imovina na kratkoročnim obvezama (%),Postotak,44.309757521127395
+2018,Likvidna imovina na kratkoročnim obvezama (%),Postotak,44.6595444498472
+2000,Neto otvorena pozicija u devizama do kapitala (%),Postotak,0.0
+2001,Neto otvorena pozicija u devizama do kapitala (%),Postotak,0.0
+2002,Neto otvorena pozicija u devizama do kapitala (%),Postotak,0.0
+2003,Neto otvorena pozicija u devizama do kapitala (%),Postotak,42.1821411110154
+2004,Neto otvorena pozicija u devizama do kapitala (%),Postotak,11.555883494208699
+2005,Neto otvorena pozicija u devizama do kapitala (%),Postotak,8.28096322435092
+2006,Neto otvorena pozicija u devizama do kapitala (%),Postotak,8.86905149119733
+2007,Neto otvorena pozicija u devizama do kapitala (%),Postotak,5.89756294023394
+2008,Neto otvorena pozicija u devizama do kapitala (%),Postotak,6.2230590329163595
+2009,Neto otvorena pozicija u devizama do kapitala (%),Postotak,1.6983681988869501
+2010,Neto otvorena pozicija u devizama do kapitala (%),Postotak,4.36946617542722
+2011,Neto otvorena pozicija u devizama do kapitala (%),Postotak,15.985010797193901
+2012,Neto otvorena pozicija u devizama do kapitala (%),Postotak,5.34710950449262
+2013,Neto otvorena pozicija u devizama do kapitala (%),Postotak,6.69157732243825
+2014,Neto otvorena pozicija u devizama do kapitala (%),Postotak,10.232227266882
+2015,Neto otvorena pozicija u devizama do kapitala (%),Postotak,8.970821380820508
+2016,Neto otvorena pozicija u devizama do kapitala (%),Postotak,1.6966661563472802
+2017,Neto otvorena pozicija u devizama do kapitala (%),Postotak,-0.22757156549238197
+2018,Neto otvorena pozicija u devizama do kapitala (%),Postotak,2.2410250402879797
+2000,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,32.4693389054788
+2001,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,37.6090647205685
+2002,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,27.514714500471396
+2003,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,25.200873982285
+2004,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,19.494333340705303
+2005,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,20.415840577499896
+2006,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,15.3083015592223
+2007,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,12.9598497952939
+2008,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,13.8901872212992
+2009,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,25.464485699359102
+2010,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,42.009689201385996
+2011,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,25.9173608461831
+2012,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,30.0463912520826
+2013,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,30.9744996912242
+2014,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,27.922027925918602
+2015,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,26.8841920515272
+2016,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,18.4798679001815
+2017,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,14.3545245961634
+2018,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,12.1460435458492
+2000,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,21.215964833505
+2001,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,17.9071007297324
+2002,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,11.017219625819399
+2003,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,8.38582572565641
+2004,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,6.07354427319199
+2005,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,5.27605366757593
+2006,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,3.9987615025115497
+2007,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,3.01859191826486
+2008,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,3.0912079422106498
+2009,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,5.871207251876299
+2010,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,11.421782175376
+2011,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,11.7997140822193
+2012,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,13.4656882284517
+2013,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,15.1198478740683
+2014,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,14.1653123764986
+2015,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,13.7084158662801
+2016,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,11.777719084596301
+2017,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,10.046275152463199
+2018,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,8.770335479676572
+2000,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,26.4758691558612
+2001,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,22.3586710421588
+2002,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,18.2029212704059
+2003,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,15.9222609694411
+2004,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,14.9250443993237
+2005,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,13.6714789097788
+2006,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,13.617048392226401
+2007,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,12.5972463295307
+2008,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,12.0085239404031
+2009,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,12.3948490369898
+2010,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,12.640142484609699
+2011,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,13.5692695579269
+2012,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,14.062592230113802
+2013,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,15.234217504719
+2014,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,14.3452279119259
+2015,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,13.7612358561706
+2016,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,15.028388380123598
+2017,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,14.767781340475599
+2018,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,16.4870496553286
+2000,Regulatorni kapital za imovinu (%),Postotak,20.439232259874
+2001,Regulatorni kapital za imovinu (%),Postotak,14.527655611921501
+2002,Regulatorni kapital za imovinu (%),Postotak,14.3457936836765
+2003,Regulatorni kapital za imovinu (%),Postotak,11.7934618614307
+2004,Regulatorni kapital za imovinu (%),Postotak,10.7372308611601
+2005,Regulatorni kapital za imovinu (%),Postotak,9.72960582201421
+2006,Regulatorni kapital za imovinu (%),Postotak,9.73688626796929
+2007,Regulatorni kapital za imovinu (%),Postotak,8.817806517454288
+2008,Regulatorni kapital za imovinu (%),Postotak,9.37215106339801
+2009,Regulatorni kapital za imovinu (%),Postotak,10.7212574953015
+2010,Regulatorni kapital za imovinu (%),Postotak,11.765449821522
+2011,Regulatorni kapital za imovinu (%),Postotak,13.614428007970801
+2012,Regulatorni kapital za imovinu (%),Postotak,14.2134322942846
+2013,Regulatorni kapital za imovinu (%),Postotak,14.367667765343098
+2014,Regulatorni kapital za imovinu (%),Postotak,14.377745547704402
+2015,Regulatorni kapital za imovinu (%),Postotak,14.0982658596697
+2016,Regulatorni kapital za imovinu (%),Postotak,14.354691636029198
+2017,Regulatorni kapital za imovinu (%),Postotak,14.009650914740698
+2018,Regulatorni kapital za imovinu (%),Postotak,13.1861645768664
+2000,Povrat imovine (%),Postotak,-1.76461726674205
+2001,Povrat imovine (%),Postotak,-1.0688454216849201
+2002,Povrat imovine (%),Postotak,-0.285976995872053
+2003,Povrat imovine (%),Postotak,0.44729594193314204
+2004,Povrat imovine (%),Postotak,0.6885794719622611
+2005,Povrat imovine (%),Postotak,0.694024200985177
+2006,Povrat imovine (%),Postotak,0.869776327088587
+2007,Povrat imovine (%),Postotak,0.8350243196840541
+2008,Povrat imovine (%),Postotak,0.413425110169344
+2009,Povrat imovine (%),Postotak,0.0883703101394783
+2010,Povrat imovine (%),Postotak,-0.604156469153203
+2011,Povrat imovine (%),Postotak,0.6749504007051961
+2012,Povrat imovine (%),Postotak,0.7231166218635309
+2013,Povrat imovine (%),Postotak,-0.0689789693939072
+2014,Povrat imovine (%),Postotak,0.785877546036617
+2015,Povrat imovine (%),Postotak,0.29853483873533504
+2016,Povrat imovine (%),Postotak,1.0778077072966499
+2017,Povrat imovine (%),Postotak,1.46374049149548
+2018,Povrat imovine (%),Postotak,1.3110732924383102

@@ -1,6 +1,6 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-ISCO08_221,Medical doctors,Doktori medicine,ISCO08_221,ISCO08_221,3,1
-ISCO08_2221_3221,Nursing personnel,Medicinsko osoblje,ISCO08_2221_3221,ISCO08_2221_3221,2,1
-ISCO08_222_322,Nursing and midwifery personnel,Medicinsko osoblje i babice,ISCO08_222_322,ISCO08_222_322,1,1
-ISCO08_2261,Dentists,Zubari,ISCO08_2261,ISCO08_2261,1,1
-ISCO08_2262,Pharmacists,Farmaceuti,ISCO08_2262,ISCO08_2262,1,1
+ISCO08_221,Medical doctors,Doktori medicine,ISCO08_221,Doktori medicine,3,1
+ISCO08_2221_3221,Nursing personnel,Medicinsko osoblje,ISCO08_2221_3221,Medicinsko osoblje,2,1
+ISCO08_222_322,Nursing and midwifery personnel,Medicinsko osoblje i babice,ISCO08_222_322,Medicinsko osoblje i babice,1,1
+ISCO08_2261,Dentists,Zubari,ISCO08_2261,Zubari,1,1
+ISCO08_2262,Pharmacists,Farmaceuti,ISCO08_2262,Farmaceuti,1,1
