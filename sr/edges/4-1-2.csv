@@ -1,4 +1,4 @@
 From,To
-EDUCATION_LEV,INCOME_WEALTH_QUANTILE
-INCOME_WEALTH_QUANTILE,SEX
-SEX,URBANISATION
+Ниво образовања,Квантил дохотка или богатства
+Квантил дохотка или богатства,Пол
+Пол,Степен урбанизације
